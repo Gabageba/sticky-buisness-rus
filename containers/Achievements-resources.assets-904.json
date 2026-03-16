@@ -1,0 +1,5425 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "Achievements",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "MONEY_GOLD_HEADER",
+        "MONEY_GOLD",
+        "BOUGHT_ALL_STICKERS_HEADER",
+        "BOUGHT_ALL_STICKERS",
+        "BOUGHT_ALL_UPGRADES_HEADER",
+        "BOUGHT_ALL_UPGRADES",
+        "BOUGHT_ONE_UPGRADE_HEADER",
+        "BOUGHT_ONE_UPGRADE",
+        "STICKERS_FIRST_HEADER",
+        "STICKERS_FIRS",
+        "STICKERS_BRONZE_HEADER",
+        "STICKERS_BRONZE",
+        "STICKERS_SILVER_HEADER",
+        "STICKERS_SILVER",
+        "STORY_PLAYED_HEADER",
+        "STORY_PLAYED",
+        "DAYS_25_HEADER",
+        "DAYS_25",
+        "STICKER_SHEET_ONE_HEADER",
+        "STICKER_SHEET_ONE",
+        "STICKER_SHEET_BRONZE_HEADER",
+        "STICKER_SHEET_BRONZE",
+        "STICKER_SHEET_SILVER_HEADER",
+        "STICKER_SHEET_SILVER",
+        "PACKAGE_FIRST_HEADER",
+        "PACKAGE_FIRST",
+        "MAILBOX_BRONZE_HEADER",
+        "MAILBOX_BRONZE",
+        "MAILBOX_SILVER_HEADER",
+        "MAILBOX_SILVER",
+        "STICKER_DELETE_HEADER",
+        "STICKER_DELETE",
+        "STORY_1_FRIEND_HEADER",
+        "STORY_1_FRIEND",
+        "STORY_2_TEACHER_HEADER",
+        "STORY_2_TEACHER",
+        "STORY_3_4_COUPLE_HEADER",
+        "STORY_3_4_COUPLE",
+        "STORY_5_GRANNY_HEADER",
+        "STORY_5_GRANNY",
+        "STORY_6_7_SIBLINGS_HEADER",
+        "STORY_6_7_SIBLINGS",
+        "STORY_8_JOBHATER_HEADER",
+        "STORY_8_JOBHATER",
+        "STORY_9_10_11_DINOS_HEADER",
+        "STORY_9_10_11_DINOS",
+        "STORY_13_STICKERSHOP_HEADER",
+        "STORY_13_STICKERSHOP",
+        "STORY_15_POCGAMER_HEADER",
+        "STORY_15_POCGAMER",
+        "STORY_16_HOSPITAL_HEADER",
+        "STORY_16_HOSPITAL",
+        "STORY_17_ADHD_HEADER",
+        "STORY_17_ADHD",
+        "STORY_18_19_BURNOUT_HEADER",
+        "STORY_18_19_BURNOUT",
+        "STORY_20_DETECTIVE_HEADER",
+        "STORY_20_DETECTIVE"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "MONEY_GOLD_HEADER",
+          "Original": "",
+          "Description": "All Steam Achievements - do not have to be translated word by word but should have similar meanings",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Printing Money!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geld drucken!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Fric = Pognon",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Pasta gansa!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprimindo grana!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "お金を印刷！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "돈이다!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "出钞中！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "印鈔票了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MONEY_GOLD",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Earn 1000 coins.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Verdiene 1000 Münzen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gagne 1 000 pièces.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gana 1000 monedas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ganhe 1000 moedas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "コイン1,000枚を獲得。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "1000 코인을 획득하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你赚了1000金币。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "賺到 1000 枚硬幣。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ALL_STICKERS_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sticker swiper",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Stickersammlung",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Accro aux autocollants",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Entusiasta de las pegatinas",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Rapa-adesivos",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカースワイパー",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커 싹쓸이",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴纸滑手",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "搜刮貼紙",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ALL_STICKERS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Buy all stickers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kaufe alle Sticker.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Achète tous les autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compra todas las pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compre todos os adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "全ステッカーを購入。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "모든 스티커를 구매하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "购买所有贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "購買所有貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ALL_UPGRADES_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Fully upgraded",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Voll aufgerüstet",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "La boutique parfaite",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "A tope de mejoras",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Melhoria total",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "完全アップグレード",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "풀 업그레이드",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "已完全升级",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "全面升級",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ALL_UPGRADES",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Buy all upgrades.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kaufe alle Updates.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Achète toutes les améliorations.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compra todas las mejoras.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compre todas as melhorias.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "すべてのアップグレードを購入。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "모든 업그레이드를 구매하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "购买所有升级。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "購買所有升級。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ONE_UPGRADE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Up and away!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Auf und davon!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Vers l'infini et au-delà !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Subidón!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cada vez melhor!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ひとつ上へ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "더 높은 곳으로!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "起飞吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "起飛了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BOUGHT_ONE_UPGRADE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Buy one upgrade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kaufe ein Upgrade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Achète une amélioration.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compra una mejora.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compre uma melhoria.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "アップグレードを1つ購入。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "업그레이드를 하나 구매하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "购买一个升级。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "購買一項升級。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_FIRST_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "First Sticker!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erster Sticker!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Premier autocollant !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Primera pegatina!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Primeiro adesivo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "初めてのステッカー！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "첫 스티커!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "第一张贴纸！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "第一張貼紙！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_FIRS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Print your very first sticker.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Drucke deinen ersten Sticker aus.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprime ton tout premier autocollant.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Compra tu primera pegatina.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprima seu primeiro adesivo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "最初のステッカーを印刷。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "처음으로 스티커를 인쇄하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "打印你的第一张贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "列印自己的第一張貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_BRONZE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Moa' stickers!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mehr Sticker!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Plus d'autocollants !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Pegatinas a gogó!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mais adesivos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "もっとステッカー！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "더 많은 스티커!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "摩亚贴纸！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更多貼紙！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_BRONZE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Print 250 stickers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Drucke 250 Sticker aus.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprime 250 autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprime 250 pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprima 250 adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "250枚のステッカーを印刷。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커를 250개 인쇄하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "打印250张贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "列印 250 張貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_SILVER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Even moa' stickers!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "So viele Sticker!?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Encore plus d'autocollants !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Más pegatinas a gogó!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mais! Mais! Mais!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "もっともっとステッカー！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "더 더 많은 스티커!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更多的摩亚贴纸！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "還有更多貼紙！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_SILVER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Print 500 stickers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Drucke 500 Sticker aus.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprime 500 autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprime 500 pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprima 500 adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "500枚のステッカーを印刷。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커를 500개 인쇄하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "打印500张贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "列印 500 張貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PLAYED_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story time",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Zeit für Geschichten",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tout ouïe",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cuéntame tu vida",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hora da história",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリータイム",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 타임",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事时间",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "床邊故事",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PLAYED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Experience all customer stories.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erlebe die Geschichten aller Kund*innen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Écoute les histoires de tous tes clients.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Descubre todas las historias de la clientela.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Vivencie as histórias de todos os clientes.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "すべてのお客様のストーリーを体験。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "모든 고객의 스토리를 경험하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "体验所有顾客的故事。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "聆聽所有顧客的故事。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "DAYS_25_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Time flies",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Zeit vergeht wie im Flug",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Que le temps passe vite !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "El tiempo vuela",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O tempo voa",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "時が経つのはあっという間",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "금방이네",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "时光飞逝",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "時光飛逝",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "DAYS_25",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Play for 25 days.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Spiele für 25 Tage.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Joue pendant 25 jours.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Juega durante 25 días.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jogue por 25 dias.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "25日間プレイ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "25일 동안 플레이하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "连续游玩25天。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "遊玩 25 天。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_ONE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Holy sheet",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ach du Heiliger Bogen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Fan d'autocollants",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Menudo papelón",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bela cartela",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "初シート",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "홀리 시트",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "天啊，贴纸单",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "「單」槍匹馬",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_ONE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Create your first sticker sheet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gestalte deinen ersten Stickerbogen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crée ta première feuille d'autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crea tu primera hoja de pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crie sua primeira cartela de adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "最初のステッカーシートを作成。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "첫 번째 스티커 시트를 만드세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "创建你的第一张贴纸单。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "製作自己的第一張貼紙單。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_BRONZE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sheet keeps happening",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mehr Blätter als im Herbst",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pro des autocollants",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No pierdas los papeles",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cartelas e mais cartelas",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "さらにシートを作成中",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "화려한 시트지가 날 감싸네",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴纸单不停出现",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "禍不「單」行",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_BRONZE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Create 5 sticker sheets.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erstelle 5 Stickerbögen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crée 5 feuilles d'autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crea 5 hojas de pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crie 5 cartelas de adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーシートを5枚作成。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커 시트를 5개 만드세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "创建5张贴纸单。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "製作 5 張貼紙單。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_SILVER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "So many sheets",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Sooo viele Blätter",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Usine à autocollants",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "La casa del papel",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Muitas, muitas, muitas cartelas",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "シートがいっぱい",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "시트가 너무 많아",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "这么多贴纸单",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "照「單」全收",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_SHEET_SILVER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Create 15 sticker sheets.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erstelle 15 Stickerbögen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crée 15 feuilles d'autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crea 15 hojas de pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crie 15 cartelas de adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーシートを15枚作成。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커 시트를 15개 만드세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "创建15张贴纸单。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "製作 15 張貼紙單。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PACKAGE_FIRST_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Ship it!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Verpackt und verschickt!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Comme une lettre à la poste",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Listo para enviar!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envie!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "出荷！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "발송!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "发货！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "出貨！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PACKAGE_FIRST",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Send your first package.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Verschicke dein erstes Paket.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envoie ton premier colis.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envía tu primer paquete.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envie seu primeiro pacote.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "最初のパッケージを発送。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "첫 번째 소포를 보내세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄出你的第一个包裹。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄送自己的第一份包裹。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MAILBOX_BRONZE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Mail Box Full",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Volle Mailbox",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Fan des PTT",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Buzón lleno",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Caixa de correio cheia",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "郵便受けが満タン",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "메일함 가득 참",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "邮箱已满",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "郵箱滿了",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MAILBOX_BRONZE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Send 10 packages full of lovely stickers to your customers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Versende 10 Pakete voller schöner Sticker an deine Kundschaft.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envoie 10 colis remplis d'autocollants à tes clients.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envía 10 paquetes llenos de pegatinas chulísimas a los clientes.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Enviou 10 pacotes cheios de adesivos adoráveis para os seus clientes.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "かわいいステッカーが詰まったパッケージ10個を発送。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "고객들에게 사랑스러운 스티커로 가득 찬 소포를 10개 보냈습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "向您的顾客寄出10个装满可爱贴纸的包裹。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄送 10 份裝滿漂亮貼紙的包裹給顧客。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MAILBOX_SILVER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Customer of the month",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kundschaft des Monats",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Client·e du mois",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cliente del mes",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cliente do mês",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今月の最高のお客様",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이 달의 고객",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本月最佳顾客",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本月最佳顧客",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MAILBOX_SILVER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Send 50 packages. Your picture is up at the post office.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Versende 50 Pakete. Dein Bild hängt in der Poststelle.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envoie 50 colis. Les employés du bureau de poste t'adorent !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envía 50 paquetes. En la oficina de correos hasta han puesto una foto tuya.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você enviou 50 pacotes. Seu retrato está pendurado na agência dos correios.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "パッケージ50個を発送。郵便局にあなたの写真が飾られています。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "50개의 소포를 보냈습니다. 우체국 벽에 당신의 사진이 걸렸습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄出50个包裹。你的照片已经贴在邮局里了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄送 50 份包裹。郵局都掛了你的照片。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_DELETE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Saying goodbye",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Abschied nehmen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ce n'est qu'un au revoir",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Qué lástima, pero adiós",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tchauzinho",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "別れを告げる",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "작별 인사",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "说再见",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "揮手說再見",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_DELETE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Delete one of your stickers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Lösche einen deiner Sticker.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Supprime un de tes autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Borra una de tus pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Apague um dos seus adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーの1枚を削除。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커를 한 개 삭제하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "删除你的一张贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "刪除自己的其中一款貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_1_FRIEND_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sticking around",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Immer wieder gerne",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Une amie pour la vie",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No me despego de ti",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colada em você",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "そばにいて",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "단골",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "黏在一起",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "繼續走下去",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_1_FRIEND",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Your friend supported your new business.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Dein Freundin hat dein neues Geschäft unterstützt.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : ton amie a soutenu ta nouvelle boutique.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Tu amiga te ha apoyado en tu nuevo negocio.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: sua amiga apoiou seu novo negócio.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：友達が新しいビジネスを応援してくれました。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 친구들이 새 직장을 도와줬습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：你的朋友支持了你的新事业。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：你的朋友支持你的新事業。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_2_TEACHER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "A Good Lesson",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Eine gute Lektion",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Une bonne leçon",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Buena lección",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Uma boa lição",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "良い教訓",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "좋은 교훈",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "一堂好课",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "很好的一課",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_2_TEACHER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Who says we should rate with grades?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Wer sagt, dass wir mit Noten bewerten sollen?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : qui a dit qu'il fallait noter les élèves ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: ¿Quién dice que las notas tienen que ser un número?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: se não estudar, você não vai aprender!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：誰が成績で評価すべきだって言ったの？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 점수로만 성적을 매길 필요가 있나요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：谁说我们应该用分数来评价呢？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：誰說我們應該用成績來衡量一個人？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_3_4_COUPLE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "A Couple of Stickers",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ein Paar Sticker",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Des autocollants... et plus si affinités",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Una pareja un poco pegajosa",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Alguns adesivos",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーカップル",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "一对贴纸",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "貼紙來牽線",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_3_4_COUPLE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: We found love.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Wir haben die Liebe gefunden.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as aidé un couple à se former.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Hemos encontrado el amor.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: encontramos o amor.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：愛を見つけました。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 사랑을 찾았습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：我们找到了爱。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：我們找到了真愛。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_5_GRANNY_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Never too old",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Man ist nie zu alt",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "De 7 à 77 ans",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nunca se es muy mayor",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Idosa, mas não ociosa",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "歳を取り過ぎなんてことナシ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "절대 늦지 않아",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "年龄不是问题",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "永遠不嫌老",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_5_GRANNY",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Stickers have no age restriction.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Sticker haben keine Altersbeschränkung.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : il n'y a pas d'âge pour aimer les autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Las pegatinas no tienen límite de edad.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: adesivos não têm restrição de idade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：ステッカーに年齢制限なし。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 스티커에 나이는 중요하지 않아요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：贴纸没有年龄限制。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：跨越年齡的貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_6_7_SIBLINGS_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Growing up",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erwachsen werden",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "La famille, c'est sacré",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crecer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crescendo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "成長",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "성장",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "成长途中",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我們長大了",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_6_7_SIBLINGS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Sharing is caring.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Sharing is caring.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as aidé des sœurs à se rapprocher.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Compartir es vivir.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: quem ama, divide.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：分かち合うことは思いやること。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 기쁨은 나눌수록 배가 됩니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：分享就是关怀。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：好東西就該互相分享。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_8_JOBHATER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Quit, Don't Stick",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kündigen, nicht festhalten",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du bureau au jardin",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Despégate del trabajo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Peça pra sair",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "辞めちゃえ、固執するな",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "놓아야 할 때가 있는 법",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "辞职，不再坚持",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "辭職走人吧",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_8_JOBHATER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: A job is not worth your well-being. Take care of yourself!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Ein Job ist dein Wohlbefinden nicht wert. Achte auf dich selbst!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : parfois, il faut savoir se mettre au vert !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: No sacrifiques tu bienestar por un trabajo. ¡Cuídate!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: um emprego não vale mais que seu bem-estar. Cuide-se!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：健康より大切な仕事なんてない。自分を大事にね！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 직장보다는 건강이 중요해요! 자신을 먼저 돌보세요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：工作不值得你牺牲健康。照顾好自己！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：別為了工作賠上你的身心健康，好好照顧自己！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_9_10_11_DINOS_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Raaawr!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Raaawr!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Rrrr !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Groaaar!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Roaaar!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ガォォォォ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "크와아앙!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "啊呜！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "吼啊啊啊！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_9_10_11_DINOS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: A family of dinosaurs.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Eine Dinofamilie.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as aidé une famille fan de dinosaures.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Una familia de dinosaurios.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: uma família de dinossauros.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：恐竜の家族。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 공룡 가족.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：恐龙家族。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：一家都愛恐龍。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_13_STICKERSHOP_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sticky Friends",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Klebrige Freunde",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Concurrence amicale",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Amistad y apego",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Amizades que colam",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカー友達",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커 같은 친구들",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴贴伙伴",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "貼紙好朋友",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_13_STICKERSHOP",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Friendly competition does exist.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Freundschaftliche Konkurrenz gibt es wirklich.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : on n'a pas la même boutique, mais on a la même passion.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: La competición amistosa sí que existe.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: não existe competição amistosa.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：切磋琢磨は存在する。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 선의의 경쟁이란 건 없어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：友好竞争确实存在。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：良性競爭不是天方夜譚。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_15_POCGAMER_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Going live!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Wir gehen live!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Lancement de chaîne",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Empezamos el directo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Estamos ao vivo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ライブ配信中！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "방송 시작!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "开始直播！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "開始直播！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_15_POCGAMER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Don't forget to like and subscribe to my cozy channel!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Vergesst nicht, meinen Kanal zu liken und zu abonnieren!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : n'oublie pas de mettre un pouce bleu et d'activer la cloche !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: ¡No os olvidéis de darle a «like» y suscribíos a mi canal!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: clique no joinha e se inscreva no meu canal!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：僕のこぢんまりしたチャンネルに「いいね」して、登録するのをお忘れなく！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 제 편안한 채널에 좋아요와 구독 부탁해요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：别忘了点赞并订阅我的休闲频道！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：別忘了按讚訂閱我的療癒系頻道！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_16_HOSPITAL_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Get well soon",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gute Besserung",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bon rétablissement",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Que te mejores",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Melhoras!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "早く良くなって",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "어서 나아요",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "早日康复",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "願早日康復",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_16_HOSPITAL",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Med kits should contain at least one sticker.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Verbandskästen sollten mindestens einen Sticker enthalten.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : les trousses de soin devraient toutes contenir un autocollant.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Los botiquines deberían llevar al menos una pegatina.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: kits médicos precisam de pelo menos um adesivo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：医療キットには、少なくともステッカーを1枚入れるべし。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 구급 키트에는 스티커가 최소 하나 있어야 해요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：医疗包中至少应该有一张贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：急救箱應該至少放一張貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_17_ADHD_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Organized",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Organisiert",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bien organisé",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Organización",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Organização",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "整理整頓",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정리 완료",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "井井有条",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "一切打理好",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_17_ADHD",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Overcoming the distractions and making it stick.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Ablenkungen überwinden und durchhalten.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as aidé un client à s'organiser et à affronter son nouveau travail.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Superar las distracciones y no despegarse de los buenos hábitos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: superando distrações e vendo se cola.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：気を散らすものを克服し、定着させる。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 집중 분산을 극복하고 집중력을 스티커처럼 붙이세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：战胜干扰，让一切井然有序。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：克服分心，全神貫注。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_18_19_BURNOUT_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "New Beginnings",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Neue Anfänge",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un nouveau départ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nuevos comienzos",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Um novo começo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "新しい始まり",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "새로운 시작",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "新的开始",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "全新的開始",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_18_19_BURNOUT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Let's leave the crunch to food, shall we?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Überlassen wir Crunch dem Essen, ja?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : le travail, c'est la santé... ou pas !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Como mucho, que lo único que acabe quemado sea el arroz.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: hora extra, só na lanchonete.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：かみ砕くのは食べ物にしておこうよ？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 크런치는 음식에나 어울리는 말이에요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：让我们把不愉快留给食物，好吗？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：燃燒脂肪，而是不燃燒生命，好嗎？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_20_DETECTIVE_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "So long, and thanks for all the stickers!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Macht's gut und danke für die Sticker!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Merci pour tout, surtout pour les autocollants !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Adiós y gracias por las pegatinas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Adeus, e obrigado pelos adesivos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "さようなら、そして、たくさんのステッカーをありがとう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "안녕, 스티커 고마워!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "再见，感谢所有的贴纸！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "後會有期！謝謝你送我這麼多貼紙！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_20_DETECTIVE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: We made a pretty good team, don't you think?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Wir waren ein gutes Team, findest du nicht auch?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : ces deux-là faisaient un sacré duo, non ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Menudo equipazo, ¿eh?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: somos uma bela dupla, hein?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：結構いいチームになったと思わない？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 꽤 멋진 팀이 되었네요. 그렇죠?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：我们是一个很好的团队，你不觉得吗？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：我們配合得天衣無縫，你說是吧？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

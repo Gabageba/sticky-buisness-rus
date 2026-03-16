@@ -1,0 +1,172 @@
+st_font_monday_Title: Понедельник
+st_font_tuesday_Title: Вторник
+st_font_wednesday_Title: Среда
+st_font_thursday_Title: Четверг
+st_font_friday_Title: Пятница
+st_font_saturday_Title: Суббота
+st_font_sunday_Title: Воскресенье
+st_font_january_Title: Январь
+st_font_february_Title: Февраль
+st_font_march_Title: Март
+st_font_april_Title: Апрель
+st_font_may_Title: Май
+st_font_june_Title: Июнь
+st_font_july_Title: Июль
+st_font_august_Title: Август
+st_font_september_Title: Сентябрь
+st_font_october_Title: Октябрь
+st_font_november_Title: Ноябрь
+st_font_december_Title: Декабрь
+st_font_mondayAbbr_Title: Пн
+st_font_tuesdayAbbr_Title: Вт
+st_font_wednesdayAbbr_Title: Ср
+st_font_thursdayAbbr_Title: Чт
+st_font_fridayAbbr_Title: Пт
+st_font_saturdayAbbr_Title: Сб
+st_font_sundayAbbr_Title: Вс
+st_font_januaryAbbr_Title: Янв
+st_font_februaryAbbr_Title: Фев
+st_font_marchAbbr_Title: Мар
+st_font_aprilAbbr_Title: Апр
+st_font_mayAbbr_Title: Май
+st_font_juneAbbr_Title: Июн
+st_font_julyAbbr_Title: Июл
+st_font_augustAbbr_Title: Авг
+st_font_septemberAbbr_Title: Сен
+st_font_octoberAbbr_Title: Окт
+st_font_novemberAbbr_Title: Ноя
+st_font_decemberAbbr_Title: Дек
+st_font_Year_Title: Год
+st_font_Week_Title: Неделя
+st_font_Month_Title: Месяц
+st_font_zero_Title: Ноль
+st_font_one_Title: Один
+st_font_two_Title: Два
+st_font_three_Title: Три
+st_font_four_Title: Четыре
+st_font_five_Title: Пять
+st_font_six_Title: Шесть
+st_font_seven_Title: Семь
+st_font_eight_Title: Восемь
+st_font_nine_Title: Девять
+st_font_Awesome_Title: Круто
+st_font_Amazing_Title: Потрясающе
+st_font_Reading_Title: Чтение
+st_font_Watching_Title: Просмотр
+st_font_Listening_Title: Слушание
+st_font_Mood_Title: Настроение
+st_font_Hydrate_Title: Вода
+st_font_Log_Title: Дневник
+st_font_Tracker_Title: Трекер
+st_font_Future_Title: Будущее
+st_font_Goals_Title: Цели
+st_font_Mental_Title: Ментальное
+st_font_Health_Title: Здоровье
+st_font_Period_Title: Период
+st_font_Vision_Title: Визуализация
+st_font_Board_Title: Доска
+st_font_Gratitude_Title: Благодарность
+st_font_Travel_Title: Путешествия
+st_font_Friend_Title: Друг
+st_font_Done_Title: Готово
+st_font_Nice_Title: Приятное
+st_font_Planned_Title: Запланировано
+st_font_Books_Title: Книги
+st_font_Work_Title: Работа
+st_font_Personal_Title: Личное
+st_font_Finances_Title: Финансы
+st_font_Progress_Title: Прогресс
+st_font_Grow_Title: Рост
+st_font_Memories_Title: Воспоминания
+st_font_Stress_Title: Стресс
+st_font_Anxiety_Title: Тревога
+st_font_Bullet_Title: Буллет
+st_font_Journal_Title: Журнал
+st_MonthlyGridHeader_Title: Сетка месяца с заголовком
+st_MonthlyGrid_Title: Сетка месяца
+st_WeeklyGridHeader_Title: Сетка недели с заголовком
+st_DaysOfTheWeek_Title: Дни недели
+st_WeeklyGrid_Title: Сетка недели
+st_HabitTracker_Title: Трекер привычек
+st_SunTracker_Title: Солнечно
+st_RainTracker_Title: Дождливо
+st_SnowTracker_Title: Снежно
+st_CloudsTracker_Title: Облачно
+st_WindTracker_Title: Ветрено
+st_Tumbler_Title: Трекер воды
+st_ElegantFlower_Title: Изящный цветок
+st_CuteFlower_Title: Милый цветок
+st_FloralCorner_Title: Цветочный уголок
+st_LeafyCorner_Title: Лиственный уголок
+st_ElegantCorner_Title: Изящный уголок
+st_PlayfulCorner_Title: Игривый уголок
+st_FloralLine_Title: Цветочная линия
+st_LeafyLine_Title: Лиственная линия
+st_ElegantLine_Title: Изящная линия
+st_PlayfulLine_Title: Игривая линия
+st_PolaroidBox_Title: Рамка поляроид
+st_NotebookBox_Title: Рамка блокнот
+st_PictureFrameBox_Title: Рамка для фото
+st_CheckeredBox_Title: Рамка в клетку
+st_PaperClip_Title: Скрепка
+st_BinderClip_Title: Канцелярский зажим
+st_Pin_Title: Булавка
+st_Pen_Title: Ручка
+st_Pencil_Title: Карандаш
+st_Mountains_Title: Горы
+st_checkbox_round_Title: Круглый чекбокс
+st_checkbox_square_Title: Квадратный чекбокс
+st_checklist_Title: Чек-лист
+st_list_Title: Список
+st_checkmark_Title: Галочка
+st_x_mark_Title: Крестик
+st_frame_lines_Title: Квадратная рамка
+st_frame_round_line_Title: Круглая рамка
+st_post_it_Title: Стикер-заметка
+st_washitape_big_Title: Широкая васи-лента
+st_washitape_small_Title: Васи-лента
+st_washitape_bigUneven_Title: Широкая рваная васи-лента
+st_washitape_smallUneven_Title: Рваная васи-лента
+st_ColorfulWashitape_Title: Разноцветная васи-лента
+st_StripedWashitape_Title: Полосатая васи-лента
+st_LeafyWashitape_Title: Лиственная васи-лента
+st_leafy_branch_short_Title: Короткая ветка с листьями
+st_plane_Title: Самолёт
+st_suitcase_Title: Чемодан
+st_compass_Title: Компас
+st_map_Title: Карта
+st_marker_Title: Маркер
+st_hot_airballoon_Title: Воздушный шар
+st_camera_Title: Камера
+st_foot_mark_Title: След
+st_bike_Title: Велосипед
+st_SplashColor_blob_Title: Акварельное пятно
+st_SplashColor_splash_Title: Акварельный брызг
+st_SplashColor_stroke_Title: Акварельный мазок
+st_SplashColor_smudge_Title: Акварельная размывка
+st_Play_Title: Воспроизведение
+st_Stop_Title: Стоп
+st_FastForward_Title: Перемотка вперёд
+st_Pause_Title: Пауза
+st_MusicButtons_Title: Управление музыкой
+packing_sweets_CatClip_Title: Скрепка-котик
+packing_sweets_DogClip_Title: Скрепка-собачка
+packing_sweets_HeartClip_Title: Скрепка-сердечко
+packing_sweets_StarClip_Title: Скрепка-звёздочка
+packing_sweets_PinkHighlighter_Title: Розовый маркер
+packing_sweets_YellowHighlighter_Title: Жёлтый маркер
+packing_sweets_StarberryLolly_Title: Клубничная конфета
+packing_sweets_OrangeLolly_Title: Апельсиновая конфета
+packing_sweets_GrapeLolly_Title: Виноградная конфета
+packing_sweets_CozyNote_Title: Уютный блокнот
+packing_sweets_WholesomeNote_Title: Добрый блокнот
+sticker_type_hexagons_Title: Кристальные соты
+sticker_type_flowery_Title: Цветочное сияние
+sticker_type_leafy_Title: Лиственное сияние
+sticker_type_stripes_Title: Призменные дорожки
+sticker_type_circles_Title: Кружащий ореол
+sticker_type_paws_Title: Искрящиеся лапки
+PlanWithMeTitle: Планируй со мной!
+PlanWithMeInfoText: Спасибо, что приобрели DLC «Планируй со мной»! В магазине улучшений теперь есть новые стикеры, блёстки и мелочи для посылок. А ещё — новые истории клиентов!
+PlanWithMeDLCTitle: DLC «Планируй со мной»
+NowAvailableText: Уже в продаже!

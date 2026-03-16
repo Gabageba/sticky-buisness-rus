@@ -1,0 +1,29 @@
+BUTTON_BACK: Назад
+BUTTON_CREATE: Создать
+BUTTON_GRAB: Взять
+BUTTON_ROTATE: Повернуть
+BUTTON_MODE: Режим
+BUTTON_BUTTON_MODE: Режим кнопок
+BUTTON_MOUSE_MODE: Режим мыши
+BUTTON_MOVE: Переместить
+BUTTON_NEXT_DAY: Следующий день
+BUTTON_OPTIONS: Настройки
+BUTTON_PRODUCTION_SAVE_SHEET_DESKTOP: Сохранить лист на рабочий стол
+BUTTON_SEND_PACKAGES: Отправить посылки
+BUTTON_SAVE: Сохранить
+BUTTON_DELETE: Удалить
+BUTTON_DELETE_SAVEGAME: Удалить {SavegameName}
+BUTTON_EDIT: Редактировать
+BUTTON_VIEW: Просмотр
+BUTTON_UNLIST: Выставить / Снять
+BUTTON_PRINT: Печать
+BUTTON_START_OVER: Начать заново
+BUTTON_KEEP_PLAYING: Продолжить игру
+BUTTON_ASK_FOR_MONEY: Попросить монет у бабушки
+BUTTON_CONTINUE: Продолжить
+BUTTON_OPEN_FOLDER: Открыть папку
+BUTTON_DEMO_START: Поехали!
+BUTTON_FASTER: Быстрее
+BUTTON_SLOWER: Медленнее
+BUTTON_PLACE: Разместить
+BUTTON_READMORE: Читать далее

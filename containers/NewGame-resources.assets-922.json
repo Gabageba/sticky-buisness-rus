@@ -1,0 +1,589 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "NewGame",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "CUSTOMER_NAMES",
+        "ERROR_USERNAME_EXISTS",
+        "PLACEHOLDER_SHOP_NAME",
+        "PLACEHOLDER_YOUR_NAME",
+        "TUTORIAL_ENABLED",
+        "TWITCH_USERS_ENABLE"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "CUSTOMER_NAMES",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Customer names",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kundennamen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Noms de tes clients",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nombres de clientes",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nomes de clientes",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "お客様名",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "손님 이름",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "顾客名字",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "顧客名字",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "ERROR_USERNAME_EXISTS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The name of the savegame already exists.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Der Name des Spielstandes existiert bereits.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ce nom de sauvegarde existe déjà.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "El nombre de la partida guardada ya existe.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O nome do jogo salvo já existe.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "セーブゲームの名前がすでに存在します。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "저장 데이터의 이름이 이미 존재합니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "已有存档使用了该名字。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "此存檔名稱已存在。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PLACEHOLDER_SHOP_NAME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Enter shop name...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gib deinen Shopnamen ein...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Saisis un nom de boutique...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Introduce el nombre de la tienda...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Digite o nome da loja...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ショップ名を入力...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "가게 이름 입력...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "输入店铺名……",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "輸入商店名稱……",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PLACEHOLDER_YOUR_NAME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Enter your name...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gib deinen Namen ein...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Saisis ton nom...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Introduce tu nombre...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Digite seu nome...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "あなたの名前を入力...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "플레이어 이름 입력...",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "输入你的名字……",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "輸入你的名字……",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_ENABLED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Play with tutorial",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mit Tutorial spielen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jouer avec le tutoriel",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jugar al tutorial",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jogar com tutorial",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "チュートリアルをプレイ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "튜토리얼 진행하기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "开始带有教程的游戏",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "玩遊戲時有教學",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TWITCH_USERS_ENABLE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Enable Twitch Integration",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Aktiviere Twitch-Integration",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Activer l'intégration Twitch",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Activar integración con Twitch",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ativar integração com o Twitch",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Twitch統合を有効にする",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "트위치 연동 사용",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "启用Twitch集成",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "啟用 Twitch 整合",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "WitchyOther",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "Story_W_01_LoveSpell_Hint",
+        "Story_W_02_WitchesClub_Hint",
+        "Story_W_03_WithGreatPower_Hint",
+        "Story_W_04_BandOfWitches_Hint",
+        "Story_W_05_Friendship_Hint",
+        "Story_W_06_FamilyTradition_Hint"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "Story_W_01_LoveSpell_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking LoveSpell",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Feeling romantic! Do you have something with candles?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Liebe liegt in der Luft! Hast du vielleicht etwas mit Kerzen?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Je suis d'humeur romantique ! Tu aurais quelque chose avec des bougies ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Hoy me siento romántica! ¿Tienes algo con velas?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Sinto o romantismo no ar! Você tem alguma coisa com velas?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ロマンチックな気分！ロウソクを使ったものはある？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "낭만적인 기운이 느껴지네요! 양초가 그려진 디자인이 있나요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "感觉好浪漫！有带蜡烛的图案吗？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "想要浪漫的感覺！有沒有蠟燭圖案的東西呢？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_W_02_WitchesClub_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking WitchesClub",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Something with a magic wand would be sweet!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Irgendwas mit einem Zauberstab wäre toll!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Quelque chose avec une baguette magique serait top !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Algo con una varita mágica sería estupendo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Algo com uma varinha mágica seria ótimo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "魔法の杖のようなものがあれば最高！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "마법봉이 있는 거라면 좋을 것 같아요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "有带魔法棒的图案就好了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "如果有魔杖圖案的話一定很讚！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_W_03_WithGreatPower_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking WithGreatPower",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "A book or page design would help me label my collection.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ein Design mit einem Buch oder einer Buchseite würde mir helfen, meine Sammlung zu kategorisieren.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un motif de page ou de livre m'aiderait à étiqueter ma collection.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un diseño de un libro o una página me ayudaría a organizar mi colección.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Um adesivo de livro ou página me ajudaria a etiquetar minha coleção.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本やページのデザインがあれば、私のコレクションにラベルをつけるのに役立つはず。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "책 또는 페이지 형태의 디자인이면 제 컬렉션에 라벨로 붙이기 딱 좋을 것 같아요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "带书本或带纸页的图案可以用来标记我的藏书。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "如果有書本或書頁圖案的話，就能當成我整理文獻用的標籤了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_W_04_BandOfWitches_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking BandOfWitches",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You got something cool with a guitar?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hast du etwas Cooles mit einer Gitarre?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu aurais quelque chose de cool avec une guitare ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Tienes algo chulo con una guitarra?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você tem algo legal com uma guitarra?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ギターが入ったクールなものはある？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "기타가 그려진 쿨한 디자인 있어요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你有带吉他的酷炫图案吗？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "有沒有吉他圖案的酷東西？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_W_05_Friendship_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking Friendship",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Really anything with plants will do!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mir ist alles recht, was mit Pflanzen zu tun hat!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "N'importe quoi avec des plantes fera l'affaire !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡A mí me vale cualquier cosa con plantas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Qualquer coisa com plantas serve!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "植物があれば何でもいい！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "식물이 있는 거라면 뭐든 좋아요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "只要是带植物的图案都行！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "只要跟植物有關的都可以！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_W_06_FamilyTradition_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking FamilyTradition",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Anything magical would help cheer me up.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mich würde alles aufmuntern, was irgendwie magisch ist.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Quelque chose de magique m'aiderait à me remonter le moral.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Algo mágico me ayudaría a animarme.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Qualquer coisa mágica me animaria bastante.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "魔法っぽいものなら何でも、私を元気づけてくれるはず。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "마법 관련 요소가 있는 거라면 힘이 날 것 같아요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "任何带有魔法元素的图案都能让我振作起来。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我需要跟魔法有關的圖案，才能振作起來。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

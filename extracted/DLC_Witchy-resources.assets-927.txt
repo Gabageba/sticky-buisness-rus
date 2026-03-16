@@ -1,0 +1,100 @@
+st_witchy_book-of-shadows_Title: Открытая книга теней
+st_witchy_book-page_Title: Страница книги
+st_witchy_bookmark_Title: Закладка
+st_witchy_cage_Title: Клетка
+st_witchy_candle_tall_Title: Высокая свеча
+st_witchy_candle_Title: Магическая свеча
+st_witchy_cat_black_Title: Чёрный кот
+st_witchy_cat_grey_Title: Серый кот
+st_witchy_cat_orange_Title: Рыжий кот
+st_witchy_chamomile_Title: Ромашка
+st_witchy_closed-book-of-shadows_Title: Закрытая книга теней
+st_witchy_constellation_aquarius_Title: Водолей
+st_witchy_constellation_aries_Title: Овен
+st_witchy_constellation_cancer_Title: Рак
+st_witchy_constellation_capricorn_Title: Козерог
+st_witchy_constellation_gemini_Title: Близнецы
+st_witchy_constellation_leo_Title: Лев
+st_witchy_constellation_libra_Title: Весы
+st_witchy_constellation_pisces_Title: Рыбы
+st_witchy_constellation_sagittarius_Title: Стрелец
+st_witchy_constellation_scorpio_Title: Скорпион
+st_witchy_constellation_taurus_Title: Телец
+st_witchy_constellation_virgo_Title: Дева
+st_witchy_crescent_Title: Полумесяц
+st_witchy_deer-antler_Title: Олений рог
+st_witchy_eastern-bluebird_Title: Синяя птица
+st_witchy_envelope_Title: Конверт
+st_witchy_eucalyptus_Title: Эвкалипт
+st_witchy_font_i_Title: Римская цифра I
+st_witchy_font_ii_Title: Римская цифра II
+st_witchy_font_iii_Title: Римская цифра III
+st_witchy_font_magic_Title: Магия
+st_witchy_font_o_Title: Число 0
+st_witchy_font_v_Title: Римская цифра V
+st_witchy_font_witchy_Title: Ведьминый
+st_witchy_font_x_Title: Римская цифра X
+st_witchy_frog_Title: Зелёная лягушка
+st_witchy_geranium_Title: Герань
+st_witchy_goat_black_Title: Чёрный козёл
+st_witchy_goat_Title: Серый козёл
+st_witchy_handwriting_3-lines_Title: Рукопись
+st_witchy_handwriting_long_Title: Короткий почерк
+st_witchy_handwriting_short_Title: Самый короткий почерк
+st_witchy_lamb_Title: Ягнёнок
+st_witchy_luna-moth_Title: Лунная бабочка
+st_witchy_magic-wand_crystal_Title: Хрустальная волшебная палочка
+st_witchy_magic-wand_fairy_Title: Сказочная волшебная палочка
+st_witchy_magic-wand_wooden_Title: Деревянная волшебная палочка
+st_witchy_magpie_Title: Сорока
+st_witchy_moss_Title: Мох
+st_witchy_moth_Title: Моль
+st_witchy_mouse_Title: Мышь
+st_witchy_myosotis_Title: Незабудка
+st_witchy_ornament_corner_Title: Угловой орнамент
+st_witchy_ornament_leaves_Title: Орнамент из листьев
+st_witchy_pampas-grass_Title: Пампасная трава
+st_witchy_paper_Title: Бумага
+st_witchy_rat_Title: Крыса
+st_witchy_raven_Title: Ворон
+st_witchy_rose-hip_Title: Шиповник
+st_witchy_sage_Title: Шалфей
+st_witchy_snake_silhouette_Title: Силуэт змеи
+st_witchy_snake_Title: Змея
+st_witchy_snowy-owl_Title: Белая сова
+st_witchy_stamp-seal_Title: Печать
+st_witchy_swallow_Title: Ласточка
+st_witchy_tape_Title: Лента
+st_witchy_tarot-card_back_Title: Рубашка таро
+st_witchy_tarot-card_front_Title: Лицевая сторона таро
+st_witchy_tarot-sun_Title: Таро «Солнце»
+st_witchy_thread_Title: Нить
+st_witchy_toad_Title: Жаба
+st_witchy_wheat_Title: Пшеница
+st_witchy_wolpertinger_Title: Вольпертингер
+st_witchy_wyvern_Title: Виверна
+st_witchy_yarrow_Title: Тысячелистник
+sticker_type_crystals_Title: Мерцающие самоцветы
+sticker_type_feathers_Title: Парящие перья
+sticker_type_handwriting_Title: Витиеватая каллиграфия
+sticker_type_potions_Title: Мистические зелья
+sticker_type_snakes_Title: Извивающиеся змеи
+sticker_type_witchy_Title: Волшебные атрибуты
+st_purple_flask-translucent_Title: Прозрачная колба
+st_purple_jar-translucent_Title: Прозрачная банка
+st_witchy_crystal-ball_Title: Хрустальный шар
+st_witchy_filling_flask_Title: Наполнение ведьминой колбы
+st_witchy_filling_flask-heart_Title: Наполнение колбы-сердечка
+st_witchy_filling_jar_Title: Наполнение ведьминой банки
+st_witchy_flask_Title: Ведьминая колба
+st_witchy_flask-heart_Title: Колба-сердечко
+st_witchy_flask-heart-translucent_Title: Прозрачная колба-сердечко
+st_witchy_jar_Title: Ведьминая банка
+packing_amethyst_Title: Аметист
+packing_crystals_Title: Кристаллы
+packing_keychain_broom_Title: Брелок-метла
+packing_keychain_hat_Title: Брелок-шляпа
+packing_keychain_owl_Title: Брелок-сова
+packing_earrings_stars_Title: Серьги-звёзды
+packing_necklace_crystal_Title: Кристальное ожерелье
+packing_necklace_moon_Title: Лунное ожерелье

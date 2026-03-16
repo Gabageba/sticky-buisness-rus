@@ -1,0 +1,71 @@
+SELECT_FULLSCREEN: Полный экран
+SELECT_LANGUAGE: Язык
+SELECT_RESOLUTION: Разрешение
+VOLUME_MUSIC: Громкость музыки
+VOLUME_SFX: Громкость эффектов
+ControlButton: Управление
+CONTROLS_MOUSE: Мышь
+CONTROLS_CONTROLLER: Геймпад
+SettingsMainVolume: Общая громкость
+SettingsStreamerSettingsButton: Настройки для стримеров
+StreamAuthenticationCodePlaceholder: Код авторизации
+StreamsAuthorizeButton: Авторизоваться
+StreamsConnectButton: Подключить
+StreamsEditCustomNames: Изменить
+StreamsPlaceholderChannelName: Название канала
+StreamsPlaceholderUsername: Имя пользователя
+StreamsReloadCustomNames: Перезагрузить
+StreamsToggleFirstComeFirstServe: Заказы: кто первый, тот и получил
+StreamsToggleRandom: Заказы: случайный выбор
+StreamsToggleOnlySubscribers: Заказывать могут только подписчики
+TitleStreamSettings: Настройки для стримеров
+CREDITS_MADE_BY: Сделано
+CREDITS_PUBLISHED_BY: Издатель
+CREDITS_COMPOSER: Композитор
+CREDITS_SOUND_DESIGN: Звуковой дизайн
+CREDITS_SPECIAL_THANKS: Отдельная благодарность
+CREDITS_SPECIAL_THANKS2: Спасибо, что играете <3
+CREDITS_SPELLGARDEN: Геймдизайн<br><br>2D-графика<br><br>Программирование
+CREDITS_LOCA: Локализация
+CREDITS_PORTING: Портирование
+MAINMENU_CONTINUE: Продолжить
+MAINMENU_LOAD_GAME: Загрузить игру
+MAINMENU_NEW_GAME: Новая игра
+MAINMENU_EXIT: Выйти из игры
+MAINMENU_CREDITS: Благодарности
+MAINMENU_WISHLIST: Добавить в желаемое!
+MAINMENU_SETTINGS: Настройки
+MAINMENU_WISHLIST_CONTINUE: Хочу играть дальше!
+MAINMENU_BACK: Выход
+MAINMENU_DEMO_INTRO: <b>Спасибо, что заглянули в Sticky Business!</b><br>Создайте первые стикеры и привлеките клиентов — они поделятся с вами историями! Нам не терпится увидеть, что у вас получится, поэтому делитесь стикерами с нами и со всем миром!<br><b>Надеемся, вам понравится демо, и вы останетесь с нами до полной версии <3</b>
+MAINMENU_WISHLIST_INFO: Поддержите нас и получите уведомление о выходе игры!
+TWITCH_NOT_CONNECTED: Не подключено
+TWITCH_CONNECTING: Подключение...
+TWITCH_CONNECTED: Вы подключены к Twitch!
+TWITCH_INFO: Подключите аккаунт Twitch, чтобы зрители могли заказывать стикеры из вашего магазина в чате в конце каждого дня.
+TWITCH_DISCONNECT: Отключить
+CUSTOM_NAMES_INFO_TEXT: Свои имена<br><size=70%>(найдено имён: {CustomNamesAmount})</size>
+WISHLIST_SCREEN_THANKYOU: Спасибо за игру!
+WISHLIST_SCREEN_INFO: Вы прошли демо до конца. Можете продолжать играть и создавать новые стикеры!<br>Ещё больше клиентов и контента для творчества ждут вас в полной версии!<br>Мы делаем всё для самого уютного опыта — поддержите нас, добавив игру в желаемое!<br>Надеемся, вы останетесь с нами в этом путешествии <3<br>Софи, Зои, Катрин и Казимир
+WISHLIST_SCREEN_INFO_SHORT: Ещё больше клиентов и контента для творчества ждут вас в полной версии!<br>Мы делаем всё для самого уютного опыта — поддержите нас, добавив игру в желаемое!<br>Надеемся, вы останетесь с нами в этом путешествии <3<br>Софи, Зои, Катрин и Казимир
+LANGUAGE_GERMAN: Deutsch
+LANGUAGE_ENGLISH: English
+LANGUAGE_FRENCH: Français
+LANGUAGE_PORTUGUESE: Português brasileiro
+LANGUAGE_JAPANESE: 日本語
+LANGUAGE_KOREAN: 한국어
+LANGUAGE_CHINESESIMPLIFIED: 简体中文
+LANGUAGE_CHINESETRADITIONAL: 繁體中文
+LANGUAGE_SPANISH: Español
+YOUR_NAME: Ваше имя
+YOUR_SHOP: Ваш магазин
+SCREEN_NAME_SETTINGS: Настройки
+SCREEN_NAME_PAUSE: Пауза
+CREDITS_QA: Тестирование
+CREDITS_ADDITIONAL_WRITING: Дополнительные тексты
+CREDITS_AUDIO_ENGINE: Аудиодвижок
+HD_RUMBLE: HD-вибрация
+CONTROLS_TOUCH: сенсорный экран
+CONTROLS_CONTROLLER_SWITCH: геймпад
+VIBRATION_PS5: Вибрация
+VIBRATION_XSX: Вибрация

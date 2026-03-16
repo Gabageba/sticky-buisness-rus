@@ -1,0 +1,1612 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "Tutorial",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "TUTORIAL_HUB_CLOCK",
+        "TUTORIAL_HUB_CREATOR",
+        "TUTORIAL_HUB_HELLO",
+        "TUTORIAL_HUB_ORDER",
+        "TUTORIAL_HUB_PRODUCTION",
+        "TUTORIAL_FILL_SHEET",
+        "TUTORIAL_HUB_SEND",
+        "TUTORIAL_HUB_END",
+        "TUTORIAL_HUB_SLEEP",
+        "TUTORIAL_SHOP_CUSTOMIZE",
+        "TUTORIAL_SHOP_INTRO",
+        "TUTORIAL_UPGRADES_PAPERTYPE",
+        "TUTORIAL_UPGRADES_GOODIES",
+        "TUTORIAL_UPGRADES_SHOPSLOTS",
+        "TUTORIAL_UPGRADES_FILLINGS",
+        "TUTORIAL_UPGRADES_FAME",
+        "TUTORIAL_SHEET_ROTATE"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "TUTORIAL_HUB_CLOCK",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "This clock over here will show you how much time you have left today. Creating stickers, printing, packing and sending will take time. Always keep an eye on it!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Diese Uhr hier zeigt dir an, wie viel Zeit du heute noch hast. Das Erstellen von Stickern, Drucken, Verpacken und Versenden braucht Zeit. Behalte die Uhr immer im Auge!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cette horloge te montrera combien de temps il te reste aujourd'hui. Créer et imprimer des autocollants, préparer et envoyer des commandes, tout ça prend du temps. Garde toujours un œil sur l'horloge !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Este reloj te muestra cuánto tiempo te queda hoy. Crear, imprimir, empaquetar y enviar pegatinas lleva tiempo. ¡No lo pierdas de vista!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Este relógio mostra quanto tempo ainda lhe resta hoje. Criar adesivos, imprimir, empacotar e enviar leva tempo. Fique sempre de olho nele!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "この時計には、今日の残り時間が表示されるよ。ステッカー作成、印刷、パッキング、発送には時間が必要だから、常にチェックしておこう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "여기 있는 시간을 보면 오늘 시간이 얼마나 남았는지 알 수 있습니다. 스티커를 만들고 인쇄하고 포장하고 발송하는 데는 시간이 걸리죠. 늘 시계를 주시하세요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "这里的这个时钟会显示你今天还剩多少时间。创建贴纸、打印、打包和寄送都会花费时间。请务必时刻留意时间！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "這座時鐘會顯示你今天還剩多少時間。製作貼紙、列印、包裝和寄送包裹都需要時間。隨時留意時間吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_CREATOR",
+          "Original": "",
+          "Description": "guides the player to a button that says: Creator",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Let’s move to the creative corner and design a sticker to put into your shop!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Lass uns in die Bastelecke gehen und einen Sticker für deinen Shop entwerfen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Passons en mode Créateur et imaginons un autocollant à mettre dans ta boutique !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Vayamos al rincón creativo y diseñemos una pegatina para ponerla en tu tienda!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Vamos até o cantinho de criações desenhar um adesivo para colocar na sua loja!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "クリエイティブコーナーに移動して、ステッカーをデザインしてショップに置こう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이제 만들기 공간으로 가서 가게에서 판매할 스티커를 디자인해요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "让我们到创意角这里来为你的店铺设计一张贴纸吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "到我們的創意角落來設計要在商店販售的貼紙吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_HELLO",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "This is so exciting! Having your own sticker shop is a dream come true.<br>Let me show you around.<br>This is your desk. Here you will find everything you need to run your shop!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Wie aufregend! Ich wollte schon immer einen eigenen Sticker-Shop haben.<br>Komm, ich führ dich herum.<br>Das hier ist dein Schreibtisch. Hier findest du alles Wichtige für deinen Shop!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "C'est si excitant ! Avoir sa propre boutique d'autocollants est un rêve devenu réalité !<br>Laisse-moi te faire visiter.<br>Voilà ton bureau.<br>Tu y trouveras tout ce qu'il te faut pour gérer ta boutique !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Qué emocionante! Tener tu propia tienda de pegatinas es un sueño hecho realidad.<br>Deja que te enseñe cómo funciona todo.<br>Este es tu escritorio. ¡Aquí encontrarás todo lo que necesitas para gestionar tu tienda!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Que demais! Ter sua própria loja de adesivos é um sonho realizado.<br>Me deixe mostrar para você.<br>Esta é a sua mesa. Nela, você encontra tudo que precisa para a sua loja!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ワクワクするね！自分のステッカーショップができるなんて夢が叶ったようなもの！<br>じゃ、色々と案内するね。<br>これが君のデスク。ここで、ショップを運営するために必要なものは全部見つかるよ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정말 신나죠! 스티커 가게를 직접 운영하는 건 꿈 같은 일이에요.<br>제가 가게를 구경시켜 드릴게요.<br>여긴 책상이랍니다. 가게 운영에 필요한 건 다 여기 있죠!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "太令人激动了！你的梦想成真了，你现在拥有了一家属于自己的贴纸铺。<br>我来带你四处逛逛吧。<br>这里是你的办公桌。你可以在这里找到经营自己店铺所需的一切！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "真令人興奮！擁有自己的貼紙商店就像是美夢成真。<br>我來帶你四處參觀一下。<br>這是你的辦公桌，你可以在這裡找到經營商店所需的一切！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_ORDER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Now that you have printed your stickers, it’s time to pack up those orders!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jetzt, wo du deine Sticker gedruckt hast, ist es an der Zeit, die Bestellungen zu verpacken!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Maintenant que tu as imprimé tes autocollants, il est temps de préparer toutes ces commandes !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ahora que has imprimido tus pegatinas, ¡es hora de empaquetar los pedidos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Agora que você imprimiu seus adesivos, é hora de empacotar as encomendas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーを印刷したから、注文をパッキングしよう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커를 인쇄했으니까 이제 주문받은 물품을 포장해야겠네요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "既然你已经打印好了贴纸，那么是时候去打包那些订单了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "列印好貼紙後，該來包裝訂單了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_PRODUCTION",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Exciting news! You've received your first order, yay!<br>Before you can send out those stickers, we need to arrange them on a sticker sheet and get them ready for printing. Take your time to arrange them with care, making sure they fit just right on the sheet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Gute Nachrichten! Du hast deine erste Bestellung erhalten, juhu! Bevor du die Sticker verschicken kannst, musst du sie auf einem Stickerbogen anordnen und dann drucken. Nimm dir Zeit, sie sorgfältig anzuordnen und achte darauf, dass sie gut auf den Bogen passen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bonne nouvelle : tu as reçu ta toute première commande, youpi !<br>Avant de pouvoir envoyer ces autocollants, il faut les placer sur une feuille d'autocollants pour les imprimer. Prends ton temps pour les placer avec soin, et assure-toi qu'ils passent tous sur la feuille.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Buenas noticias! ¡Has recibido tu primer pedido! ¡Yupi!<br>Antes de que puedas enviar esas pegatinas, hay que ordenarlas en una hoja de pegatinas y prepararlas para la impresión. Tómate tu tiempo para ordenarlas con mimo y asegúrate de que encajan correctamente en la hoja.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ótimas notícias! Você recebeu sua primeira encomenda. Viva!<br>Antes de enviar os adesivos, precisamos organizá-los em uma cartela de adesivos e imprimi-los. Reserve um tempo para organizá-los com cuidado e verifique se eles se encaixam perfeitamente na cartela.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ワクワクのニュース！最初の注文が入ったよ！イェイ！<br>このステッカーを発送する前に、印刷用にステッカーシートに配置する必要があるんだ。シートにすべてのステッカーが入るように、配置はきちんとやろう。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "좋은 소식이에요! 첫 주문이 들어왔어요!<br>스티커를 발송하려면 우선 스티커 시트에 배치해서 인쇄할 준비를 해야 해요. 스티커가 시트에 여백 없이 들어가도록 잘 배치해 보세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "好消息！你收到了第一份订单，耶！<br>在将那些贴纸寄出去之前，我们需要将它们排列到贴纸单上并准备好打印。不用着急，请耐心仔细地排列好它们，确保它们处在贴纸单上的合适位置。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "好消息！你接到了第一筆訂單，耶！<br>在寄送貼紙之前，我們必須在貼紙單上排好圖案，以便列印。花點時間小心排好圖案，確定貼紙單上塞得下。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_FILL_SHEET",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Please fill up the sticker sheet before we can continue and print it out!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bitte fülle den Stickerbogen, bevor wir fortfahren und ihn ausdrucken!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Remplis la feuille d'autocollants avant de pouvoir l'imprimer !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Llena la hoja de pegatinas para poder continuar e imprimirlas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Preencha a cartela de adesivos antes de continuarmos e imprima!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "印刷ができるように、ステッカーシートにステッカーを配置しよう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "인쇄하려면 스티커 시트를 다 채워야 해요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "请先填充好贴纸单，这样我们才继续下一步并将它们给打印出来！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "請在貼紙單上排滿圖案，這樣我們才能繼續來到列印的步驟！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_SEND",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Now, it's time to bring your carefully packed order to the post office - your first customer is already eagerly waiting!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jetzt ist es an der Zeit, deine sorgfältig verpackte Bestellung zur Post zu bringen - deine erste Kundin wartet sehnsüchtig darauf!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Maintenant, il est temps d'amener ta commande préparée avec soin au bureau de poste. Ton premier client est sûrement impatient de la recevoir !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ahora hay que llevar el pedido que has empaquetado con tanto cuidado a la oficina de correos. ¡Tu primer cliente lo está esperando con ganas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Agora é hora de enviar a encomenda cuidadosamente empacotada para a agência dos correios: seu primeiro cliente está esperando ansiosamente!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "さあ、丁寧にパッキングされた注文を郵便局に持っていこう！最初のお客様は首を長くして待ってるよ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이제 곱게 포장한 주문품을 우체국에 가져가야겠네요. 첫 손님이 기다리고 계시니까요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "现在该把你精心打包好的订单拿去邮局寄送了——你的第一位顾客正翘首以待呢！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "現在該把你精心包裝好的訂單拿去郵局寄送了，你的第一位顧客已經迫不及待要收到貼紙了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_END",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "And with that your first order is on the way! This is just the beginning of your very own small business! Now go ahead and create the sticker shop of your dreams <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Und damit ist deine erste Bestellung unterwegs! Das ist nur der Anfang deines kleinen Unternehmens! Und jetzt los: Erschaffe den Sticker-Shop deiner Träume <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Et voilà, ta première commande est partie ! Ce n'est que le début de l'aventure, continue à créer des autocollants et crée la boutique d'autocollants de tes rêves ! <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Tu primer pedido va en camino! ¡Esto es solo el comienzo de tu pequeño negocio! Ahora, continúa y crea la tienda de pegatinas de tus sueños <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "E, com isso, sua primeira encomenda está a caminho! Este é apenas o começo da sua pequena empresa! Agora vá em frente e crie a loja de adesivos dos seus sonhos <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "これで、最初の注文が発送されたよ！おめでとう！自分の小さなビジネスが始まったね！さあ、夢のステッカーショップを盛り上げていこう<3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "첫 주문품이 출발했네요! 이것으로 작은 사업이 시작됐네요! 이제 꿈꾸던 스티커 가게를 운영하러 가 보세요 <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的第一份订单已在配送中！这是你打理小本生意迈出的第一步！现在请继续尽情发挥，打造出你梦寐以求的贴纸铺吧<3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "這樣你的第一筆訂單就寄出去了！這只是你自己的小生意的起點！現在繼續來打造你夢想中的貼紙商店吧 <3",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_HUB_SLEEP",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Now that your sticker is online and ready for the world to see, let's wait until tomorrow to see if we get some orders!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jetzt, wo dein Sticker online ist und von der ganzen Welt bewundert werden kann, warten wir bis morgen. Mal sehen, ob wir eine erste Bestellung bekommen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Maintenant que ton autocollant est en ligne et que tout le monde peut l'utiliser, attends jusqu'à demain pour voir si tu reçois d'autres commandes !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ahora que has subido tu pegatina y todo el mundo puede verla, ¡vamos a esperar a ver si llegan algunos pedidos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Agora que seu adesivo está online e pronto para o mundo inteiro admirar, vamos esperar até amanhã para ver se conseguimos umas encomendas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "これで、世界中の人に見てもらえるように、君のステッカーがオンライン公開されたよ。明日まで待って、注文が入ったかチェックしてみよう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이제 스티커가 세상에 나왔으니, 내일도 주문이 들어오기를 기다려 보죠!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "既然你的贴纸已经上线，准备好与世人见面了，那就让我们等到明天，看看会不会有订单上门吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "如今你的貼紙已經上線，準備好讓全世界都看到了。我們等等看，明天會不會收到幾張訂單！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_SHOP_CUSTOMIZE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You can also customize your shop and create your own logo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du kannst deinen Shop auch individuell gestalten und dein eigenes Logo erstellen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu peux également personnaliser ta boutique et créer ton propre logo !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡También puedes personalizar tu tienda para crear tu propio logo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você também pode personalizar a loja e criar seu próprio logotipo!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ショップはカスタマイズして、自分のロゴも作れちゃうよ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "가게를 꾸미고 나만의 로고를 만들 수도 있답니다!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你还可以自定义你的店铺并创建你自己的徽标！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你還可以客製化自己的商店，製作專屬標誌！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_SHOP_INTRO",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Welcome to your very own shop!<br>Listed stickers can be ordered by customers. The price of each sticker will be automatically assigned, taking into account its size and value.<br><br>Currently, you have 5 slots available in your shop to showcase and sell your creations. However, don't worry if you run out of space. You can purchase additional slots in the future.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Willkommen in deinem Shop!<br>Jetzt können deine gelisteten Sticker bestellt werden. Der Preis für jeden Sticker wird automatisch unter Beachtung von Größe und Wert zugewiesen.<br><br>Derzeit stehen dir 5 Plätze in deinem Shop zur Verfügung, um deine Kreationen zu präsentieren und zu verkaufen. Aber keine Sorge, wenn dir der Platz ausgeht. Du kannst in Zukunft zusätzliche Plätze kaufen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bienvenue dans ta boutique !<br>Tes clients peuvent commander les autocollants sur la liste. Le prix de chaque autocollant sera automatiquement assigné en fonction de sa taille et de sa valeur.<br><br>Tu disposes actuellement de 5 emplacements dans ta boutique pour présenter et vendre tes créations. Si jamais tu es à court d'espace, pas de souci, tu pourras acheter des emplacements supplémentaires.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Te damos la bienvenida a tu tienda!<br>Los clientes pueden encargar las pegatinas que hayas publicado. El precio de cada pegatina se asigna de manera automática en función de su tamaño y su valor.<br><br>Actualmente, tienes 5 espacios disponibles en tu tienda en los que exhibir y vender tus creaciones. Pero no te preocupes si te quedas sin espacio, porque más adelante podrás comprar espacios adicionales.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Esta é a sua loja!<br>Os clientes podem encomendar os adesivos listados. O preço de cada adesivo é atribuído automaticamente com base no tamanho e valor.<br><br>Atualmente, você tem 5 espaços disponíveis em sua loja para exibir e vender suas criações. Mas não se preocupe se você ficar sem espaço, pois será possível comprar outros no futuro.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "自分のショップへようこそ！<br>ステッカーはリストにのせると、お客様が注文できるようになる。ステッカーの価格は、大きさや値打ちに基づいて自動的に決定されるよ。<br><br>現在、公開して売れるスロットは5個あるよ。でも、スロットがなくなっても心配しないでね。追加スロットは、後で購入できるんだ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "가게에 오신 것을 환영합니다!<br>등록 상태인 스티커는 손님들이 주문할 수 있습니다. 각 스티커의 가격은 크기와 가치를 고려해서 자동으로 정해집니다.<br>현재 가게에는 작품을 진열하고 판매할 때 사용되는 슬롯이 5개 있습니다. 하지만 공간이 없더라도 걱정하지 마세요. 나중에 추가 슬롯을 구매할 수 있게 될 테니까요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "欢迎来到你自己的店铺！<br>这里列出了顾客所能订购的贴纸。系统会根据每种贴纸的大小和价值自动为其定价。<br><br>目前你的店铺有5个槽位可用来展示和售卖你的作品。不过，就算没空间了也不用担心。未来你将可以购买额外的槽位。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "歡迎來到你自己的商店！<br>顧客可以訂購上架的貼紙。系統將根據貼紙的大小與價值，為每款貼紙自動訂價。<br><br>目前，你的商店有 5 個欄位可用來展示並販售你的創作。不過空間用完也別擔心，未來你還可以購買額外的欄位。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_UPGRADES_PAPERTYPE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Congratulations on your first glitter paper! With this addition, you can now create new stickers that shimmer and shine! Just remember: When printing your stickers, only stickers using the same paper can be printed on the same sheet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Herzlichen Glückwunsch zu deinem ersten Glitzerpapier! Damit kannst du jetzt neue Sticker kreieren, die schimmern und glänzen! Aber denk daran: Nur Sticker mit demselben Papier können auf demselben Blatt gedruckt werden.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Félicitations pour ton premier papier à paillettes ! Ce nouvel élément te permet de créer des autocollants qui brillent de mille feux ! N'oublie pas : lorsque tu imprimes tes autocollants, seuls les autocollants utilisant le même papier peuvent être imprimés sur la même feuille.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Enhorabuena, has conseguido tu primer papel brillante! ¡Con esto, ahora puedes crear nuevas pegatinas con brillos! Pero recuerda: cuando vayas a imprimir tus pegatinas, no podrás imprimir pegatinas con papeles diferentes en una misma hoja.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Parabéns pelo seu primeiro papel brilhante! Com ele, agora você poderá criar novos adesivos que brilham intensamente! Mas lembre-se: apenas adesivos com o mesmo papel podem ser impressos na mesma cartela.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "おめでとう！グリッター紙がゲットできたよ！これで、キラキラ光るステッカーが作れるよ！でも注意してね。ステッカーを印刷するとき、同じ紙に配置されたステッカーだけが、同じシートで印刷されるからね。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "반짝이 종이를 처음 구하신 것을 축하드립니다! 이제 반짝거리는 스티커를 만들 수 있게 됐네요! 단, 스티커를 인쇄할 때는 같은 종이를 쓰는 스티커만 같은 시트에 인쇄할 수 있다는 점을 기억하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "恭喜你获得了你的第一张闪粉纸！有了它的助力，你就可以创建出能够闪闪发光的全新贴纸啦！不过请记住：在打印贴纸的时候，只有使用了相同纸张的贴纸才能用同一张贴纸单打印出来。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "恭喜你獲得你的首款金粉紙！多了新款紙張，你現在就可以製作閃閃發光的新貼紙！但別忘了：列印貼紙時，只有使用同款紙張的貼紙才能以同一張貼紙單印製。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_UPGRADES_GOODIES",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Yay, goodies! These delightful treats can be added to a package, bringing an extra dose of joy to your customers. Not only will they brighten up the unboxing experience, but they also provide an XP boost for you.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Juhu, Süßigkeiten! Diese Goodies kannst du einem Paket beilegen. Sie bringen deiner Kundschaft eine Extraportion Freude! Sie verschönern nicht nur das Paket, sondern sorgen auch für einen XP-Schub für dich.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Youpi, des sucreries ! Ces délicieuses friandises peuvent être ajoutées aux colis, pour envoyer une dose de joie supplémentaire à tes clients. En plus de faire plaisir au moment de l'ouverture du colis, les sucreries te donnent des points d'XP supplémentaires.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Yupi, regalos! Puedes añadir estas bonitas sorpresas a un paquete para darles a tus clientes una alegría extra. No solo les alegrarás el día cuando abran sus pedidos, sino que también recibirás EXP adicional.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Oba, doces! Essas guloseimas deliciosas podem ser adicionadas aos pacotes, levando uma dose extra de alegria aos seus clientes. Além de alegrarem a experiência de desempacotamento, elas também proporcionam um aumento de XP para você.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "やっと！グッズをゲット！このうれしいアイテムたちはパッケージに追加できて、お客様にもっと喜んでもらえるよ！パッケージを開けたときに、喜んでもらえるだけじゃなくて、君のXPもブーストしてくれちゃうよ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "와, 사은품이네요! 이 먹거리들을 소포에 추가해서, 손님에게 행복을 얹어 드릴 수 있습니다. 손님이 포장을 뜯는 순간이 더 행복해질 뿐만 아니라, 경험치도 더 받을 수 있습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "耶，是好吃的！你可以将这些美味的糖果塞到包裹中，给你的顾客送去一份额外的惊喜。这样不仅能让他们在拆开包裹时眼前一亮，还能为你带来经验值加成。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "耶，小禮物！這些令人開心的小玩意兒可以放入包裹中，讓你的顧客獲得額外的驚喜。這麼做不僅能提升他們的開箱體驗，還能為你帶來 XP 加成。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_UPGRADES_SHOPSLOTS",
+          "Original": "",
+          "Description": "Shop SLots = How many Sticker Slots the player has to save stickers",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You've unlocked new shop slots: Expanding your capacity to sell and showcase your beautiful creations.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast neue Plätze im Shop freigeschaltet: Erweitere deine Kapazäten um deine schönsten Kreationen präsentieren und verkaufen zu können.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu as débloqué des emplacements supplémentaires pour ta boutique. Ils te permettront de présenter et de vendre plus de créations.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Has desbloqueado nuevos espacios de tienda: esto hace que aumente tu capacidad para vender y exhibir tus hermosas creaciones.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você desbloqueou novos espaço de loja: amplie sua capacidade de vender e exibir suas belas criações.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "新しいショップスロットがアンロックされたよ。早速、君の美しい作品をもっと世界に広めよう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "가게 슬롯이 추가되었습니다. 아름다운 작품을 더 많이 진열하고 판매할 수 있겠네요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你解锁了新的店铺槽位：展示和售卖自己漂亮作品的能力得到了提升。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你解鎖了新的商店欄位。如此一來，你就能販售並展示更多美麗的創作了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_UPGRADES_FILLINGS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Introducing... More fillings! They will be added to your packing station - match them with your stickers to add an extra splash of color and charm to your orders!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mehr Füllmaterial! Sie werden zu deiner Packstation hinzugefügt - stimme sie auf deine Sticker ab, um den Bestellungen bunten Charme zu verleihen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Et voilà de nouveaux matériaux de remplissage ! Ils seront ajoutés à ton poste de préparation des commandes ; fais-les correspondre avec les autocollants pour ajouter de la couleur et du charme à tes commandes !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Te presentamos... ¡Más rellenos! Se añadirán a tu centro de empaquetado. ¡Combínalos con tus pegatinas para añadir un toque adicional de color y encanto a tus pedidos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Apresentando... Mais enchimentos! Eles serão adicionados à sua estação de empacotamento: combine-os com seus adesivos para adicionar charme e mais cores às suas encomendas!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "そして...詰め物も増えたよ！これは、ステッカーとマッチしててパッキングのときに追加されて、注文がもっとカラフルになってもっと豪華になるよ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "충전재가... 추가되었습니다! 포장 공간에서 확인할 수 있습니다. 스티커와 어울리는 충전재를 써서 주문품에 색감과 매력을 더하세요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "正在引入……更多的填充材料！它们将被添加到你的打包站——用它们来搭配你的贴纸，为你的订单增添额外的色彩与魅力吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "隆重推出……更多填充物！你可以在自己的包裝站增添填充物，將它們與你的貼紙互相搭配，讓你的訂單更加五彩繽紛、充滿魅力！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_UPGRADES_FAME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "This is the upgrade shop! Enhance your shop with stickers, goodies, fillings and more. Most things here can be bought with hearts, which can be earned by leveling up your stickers through successful sales.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dies ist der Upgrade-Shop! Verbessere deinen Shop mit Stickern, Goodies, Füllmaterial und mehr. Die meisten Upgrades können mit Herzen gekauft werden, die du durch das Aufleveln deiner Sticker bei erfolgreichen Verkäufen verdienst.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Voici la boutique d'améliorations ! Améliore ta boutique avec des autocollants, des sucreries et des matériaux de remplissage. La plupart de ces éléments s'achètent avec des cœurs, que tu gagnes en vendant des autocollants et en les faisant passer au niveau supérieur.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Esta es la tienda de mejoras! Mejora tu tienda con pegatinas, sorpresas, rellenos y mucho más. Aquí, casi todo se compra con corazones, que obtendrás al subir de nivel tus pegatinas mediante ventas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Esta é a loja de melhorias! Melhore sua loja com adesivos, guloseimas, enchimentos e muito mais. A maioria das atualizações pode ser comprada com corações, que você ganha ao aumentar o nível de seus adesivos por meio de vendas bem-sucedidas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ショップがアップグレードされたよ！ステッカー、グッズ、詰め物などを増やして、ショップをもっとパワーアップさせよう。ほとんどのものは、注文を完了させてステッカーをレベルアップさせたときに獲得できるハートで購入できるんだ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이곳은 업그레이드 가게입니다! 스티커와 사은품, 충전재 등으로 가게의 수준을 높여 보세요. 대부분의 상품은 하트로 구매할 수 있고, 하트는 판매에 성공해서 스티커의 레벨을 올리면 얻을 수 있습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "这里是升级商店！你可以在这里获取贴纸、糖果、填充材料等物品来强化你的店铺。这里的大部分物品都可以用爱心购买，你可以通过成功销售来提升贴纸的等级，进而获得爱心。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "這是升級商店！用貼紙、小禮物、填充物等等為自己的商店升級吧。這裡大部分的物品都可以用愛心購買。透過成功售出來升級貼紙後，就能賺取愛心。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TUTORIAL_SHEET_ROTATE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Drag and drop the stickers onto the sheet or simply click them, and they will automatically find a place on the sheet.<br><br>Click on the stickers on the sheet to rotate them.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ziehe die Sticker auf den Bogen oder klicke sie einfach an. Sie finden dann automatisch einen Platz.<br><br>Die Sticker auf dem Bogen kannst du anklicken um sie zu drehen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Prends les autocollants et dépose-les sur la feuille. Tu peux également cliquer sur les autocollants et ils seront automatiquement placés sur la feuille.<br><br>Clique sur les autocollants sur la feuille pour les faire tourner.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Arrastra y suelta las pegatinas en la hoja o simplemente haz clic en ellas para que encuentren un sitio en la hoja de manera automática.<br><br>Haz clic en las pegatinas de la hoja para girarlas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Arraste e solte os adesivos na folha ou simplesmente clique neles: eles vão encontrar automaticamente um lugar na folha.<br><br>Clique nos adesivos na folha para girá-los.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーをシートにドラッグ＆ドロップしよう。または、単純にクリックすると、自動的にシートの空いている箇所に配置されるよ。<br><br>配置されたステッカーをクリックすると、回転できるよ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커를 시트에 끌어다 놓거나 클릭하면 자동으로 시트에 스티커가 배치돼요.<br><br>시트 위의 스티커를 클릭하면 회전시킬 수 있어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "将贴纸拖放到贴纸单上，或是直接点击它们，它们就会自动在贴纸单上找个位置。<br><br>点击贴纸单上的贴纸即可旋转它们。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "拖曳並放置貼紙在貼紙單上，或直接點擊貼紙，它們將會自動在貼紙單上找到位置。<br><br>點擊貼紙單上的貼紙可旋轉貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

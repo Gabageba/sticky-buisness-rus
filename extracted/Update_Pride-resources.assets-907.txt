@@ -1,0 +1,110 @@
+st_pride_lavalamp_Title: Лавовая лампа
+st_pride_airballoon_Title: Воздушный шар прайд
+st_pride_bubbletea_Title: Прайд бабл-ти
+st_pride_cactus_Title: Кактус
+st_pride_cake_Title: Торт
+st_pride_calendar_Title: Календарь
+st_pride_cupcake_Title: Кекс
+st_pride_festoon_Title: Прайд-гирлянда
+st_pride_flag_achillean_Title: Флаг ахиллеан
+st_pride_flag_bigender_Title: Флаг бигендер
+st_pride_flag_cupioromantic_Title: Флаг купиоромантик
+st_pride_flag_diamoric_Title: Флаг диаморик
+st_pride_flag_genderqueer_Title: Флаг гендерквир
+st_pride_flag_gendervoid_Title: Флаг гендервойд
+st_pride_flag_polysexual_Title: Флаг полисексуальности
+st_pride_flag_transfem_Title: Флаг трансфеминности
+st_pride_flag_transmasc_Title: Флаг трансмаскулинности
+st_pride_flag_unlabeled_Title: Флаг без ярлыка
+st_pride_flag_wave_asexual_Title: Флаг асексуальности волнистый
+st_pride_flag_wave_bi_Title: Би-флаг волнистый
+st_pride_flag_wave_genderqueer_Title: Флаг гендерквир волнистый
+st_pride_flag_wave_intersex_Title: Флаг интерсексуальности волнистый
+st_pride_flag_wave_lesbian_Title: Флаг лесбийства волнистый
+st_pride_flag_wave_nonbinary_Title: Флаг небинарности волнистый
+st_pride_flag_wave_pansexual_Title: Флаг пансексуальности волнистый
+st_pride_flag_wave_rainbow_Title: Прайд-флаг волнистый
+st_pride_flag_wave_trans_Title: Транс-флаг волнистый
+st_pride_flask_02_filling_Title: Прайд круглое зелье
+st_pride_flask_filling_Title: Прайд-зелье
+st_pride_flower_Title: Цветок ромашки
+st_pride_glasses_Title: Очки-сердечки
+st_pride_heart_Title: Прайд-сердце
+st_pride_icecream_01_Title: Большой шарик прайд-мороженого
+st_pride_icecream_02_Title: Маленький шарик прайд-мороженого
+st_pride_jellyfish_Title: Радужная медуза
+st_pride_light_Title: Радужная призма
+st_pride_night_Title: Звёздная ночь
+st_pride_palette_Title: Палитра цветов
+st_pride_paw_Title: Котячья лапка
+st_pride_planet_01_Title: Пансексуальная планета
+st_pride_planet_02_Title: Небинарная планета
+st_pride_planet_03_Title: Радужная планета
+st_pride_planet_04_Title: Транс-планета
+st_pride_popper_Title: Хлопушка
+st_pride_pot_Title: Радужный горшок
+st_pride_rainbow_Title: Радуга
+st_pride_stamp_clouds_Title: Транс-штамп
+st_pride_stamp_moon_Title: Гендерквир штамп
+st_pride_stamp_Title: Радужный штамп
+st_pride_stamp_sky_Title: Лесбийский штамп
+st_pride_tea_Title: Прайд-чай
+st_pride_asexual_Title: Символ асексуальности
+st_pride_balloon_Title: Прайд-шарик
+st_pride_balloon_heart_Title: Шарик-сердечко
+st_pride_bi_Title: Би-символ
+st_pride_bow_01_Title: Спиральный бант
+st_pride_bow_02_Title: Спиральный бант наклонный
+st_pride_dove_Title: Голубь
+st_pride_female_Title: Символ женщины
+st_pride_male_Title: Символ мужчины
+st_pride_flag_wave_Title: Развевающийся флаг
+st_pride_font_bornthisway_Title: Рождён таким
+st_pride_font_equality_Title: Равенство
+st_pride_font_followyourheart_Title: Следуй за сердцем
+st_pride_font_fruity_Title: Фрути
+st_pride_font_he_Title: Он
+st_pride_font_her_Title: Её
+st_pride_font_him_Title: Его
+st_pride_font_lgbtq_Title: ЛГБТК+
+st_pride_font_lovewins_Title: Любовь побеждает
+st_pride_font_pansexual_Title: Символ пансексуальности
+st_pride_font_pride_Title: Прайд
+st_pride_font_queer_Title: Квир
+st_pride_font_she_Title: Она
+st_pride_font_support_Title: Поддержка
+st_pride_font_them_Title: Их
+st_pride_font_they_Title: Они
+st_pride_gay_Title: Символ гей
+st_pride_genderfluid_01_Title: Символ гендерфлюид простой
+st_pride_genderfluid_02_Title: Символ гендерфлюид три кольца
+st_pride_genderqueer_Title: Символ гендерквир
+st_pride_hand_fist_Title: Кулак
+st_pride_hand_heart_01_Title: Руки-сердечки
+st_pride_hand_heart_02_Title: Крутые руки-сердечки
+st_pride_hand_heart_03_Title: Милые руки-сердечки
+st_pride_hand_peace_Title: Рука мира
+st_pride_handshake_Title: Рукопожатие
+st_pride_hetero_Title: Символ гетеро
+st_pride_lesbian_Title: Символ лесбийства
+st_pride_lock_Title: Сердечный замочек
+st_pride_peace_Title: Символ мира
+st_pride_pole_Title: Древко флага
+st_pride_slash_Title: Слэш
+st_pride_sparkles_Title: Искорки
+st_pride_trans_01_Title: Гендерно-инклюзивный символ
+st_pride_trans_02_Title: Транс-символ
+packing_bracelet_Title: Прайд-браслет
+packing_keychain_lesbian_Title: Лесбийский брелок
+packing_keychain_lgbtq_Title: Брелок ЛГБТК
+packing_keychain_magic_Title: Магический брелок
+packing_keychain_rainbow_Title: Радужный брелок
+packing_keychain_transgender_Title: Транс-брелок
+packing_note_safespace_Title: Блокнот «Безопасное пространство»
+packing_pin_hehim_Title: Значок Он/Его
+packing_pin_hethey_Title: Значок Он/Они
+packing_pin_sheher_Title: Значок Она/Её
+packing_pin_shethey_Title: Значок Она/Они
+packing_pin_theythem_Title: Значок Они/Их
+sticker_type_peace_Title: Лучезарный мир
+sticker_type_random_Title: Граффити свечение

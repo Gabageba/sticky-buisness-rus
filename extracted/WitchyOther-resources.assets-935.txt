@@ -1,0 +1,6 @@
+Story_W_01_LoveSpell_Hint: Романтика! Есть что-нибудь со свечами?
+Story_W_02_WitchesClub_Hint: Что-нибудь с волшебной палочкой было бы супер!
+Story_W_03_WithGreatPower_Hint: Стикер с книгой или страницей поможет подписать мою коллекцию.
+Story_W_04_BandOfWitches_Hint: У тебя есть что-то крутое с гитарой?
+Story_W_05_Friendship_Hint: Подойдёт всё что угодно с растениями!
+Story_W_06_FamilyTradition_Hint: Всё магическое поможет поднять настроение.

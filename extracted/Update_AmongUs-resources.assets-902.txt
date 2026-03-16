@@ -1,0 +1,88 @@
+AmongUsPopupText: Я нашёл Красного в элект... то есть в магазине улучшений! <br><br> О, смотри, они обронили лут!
+st_amongus_font_crewmate_Title: Член экипажа
+st_amongus_font_suspicious_Title: Подозрительный
+st_amongus_font_impostor_Title: Самозванец
+st_amongus_font_amongus_Title: Among Us
+st_amongus_font_meeting_Title: Совещание
+st_amongus_font_emergency_Title: Тревога
+st_amongus_font_tasks_Title: Задачи
+st_amongus_font_ejected_Title: Выброшен
+st_amongus_font_defeat_Title: Поражение
+st_amongus_font_victory_Title: Победа
+st_amongus_button_vent_Title: Кнопка вентиляции
+st_amongus_button_sabotage_Title: Кнопка саботажа
+st_amongus_button_report_Title: Кнопка репорта
+st_amongus_button_emergency_Title: Кнопка экстренного совещания
+st_amongus_crewmate_Title: Член экипажа
+st_amongus_crewmate_dead_Title: Мёртвый член экипажа
+st_amongus_crewmate_ghost_Title: Призрак члена экипажа
+st_amongus_crewmate_impostor_Title: Самозванец с копьём
+st_amongus_crewmate_hideseekimpostor_Title: Смеющийся самозванец
+st_amongus_crewmate_ejected_Title: Выброшенный член экипажа
+st_amongus_crewmate_head_Title: Голова члена экипажа
+st_amongus_background_space_Title: Космический фон
+st_amongus_background_kill_Title: Фон убийства
+st_amongus_background_window_Title: Оконная рама
+st_amongus_background_ejectboat_Title: Фон заката
+st_amongus_newejectboat_Title: Лодка выброса
+st_amongus_hand_hittingemergencybutton_Title: Экстренное совещание
+st_amongus_hand_shush_Title: Рука «тсс»
+st_amongus_hand_pointing_Title: Указывающая рука
+st_amongus_hand_raised_Title: Поднятая рука
+st_amongus_hand_knife_Title: Рука с ножом
+st_amongus_hand_karate_Title: Рука каратиста
+st_amongus_hand_innocent_Title: Рука невиновного
+st_amongus_hat_headslug_Title: Головослизень
+st_amongus_hat_chocolatescoop_Title: Шоколадный шарик
+st_amongus_hat_captain_Title: Капитанская шляпа
+st_amongus_hat_ohsacompliant_Title: По нормам безопасности
+st_amongus_hat_folded_Title: Сложенная
+st_amongus_hat_phat_Title: Шляпа P
+st_amongus_hat_theolballgame_Title: Старая добрая игра в мяч
+st_amongus_hat_innocence_Title: Невинность
+st_amongus_hat_clogged_Title: Засорённая
+st_amongus_hat_tengallons_Title: Десять галлонов
+st_amongus_hat_thelastwipe_Title: Последняя салфетка
+st_amongus_hat_poorreception_Title: Шляпа плохого приёма
+st_amongus_hat_weallflaothere_Title: Мы все здесь плаваем
+st_amongus_hat_peeled_Title: Очищенная
+st_amongus_hat_twoeggsinanest_Title: Два яйца в гнезде
+st_amongus_hat_rammed_Title: Таран
+st_amongus_hat_slipperywhenwet_Title: Скользко, когда мокро
+st_amongus_hat_eggscellent_Title: Яйцелично
+st_amongus_hat_floatyflamingo_Title: Плавающий фламинго
+st_amongus_hat_daisymerollin_Title: Дейзи катится
+st_amongus_hat_toppatgrunt_Title: Гренадер Toppat
+st_amongus_hat_magicalcorn_Title: Магическая кукуруза
+st_amongus_hat_viking_Title: Викинг
+st_amongus_hat_toppatwhiteedition_Title: Toppat белая версия
+st_amongus_hat_mini_Title: Шляпа мини-члена экипажа
+st_amongus_suit_astronaught_Title: Астронавт
+st_amongus_suit_pilotslicence_Title: Права пилота
+st_amongus_suit_illfixit_Title: Починю
+st_amongus_suit_scientifictheory_Title: Научная теория
+st_amongus_suit_suitedup_Title: В скафандре
+st_amongus_suit_flashy_Title: Яркий
+st_amongus_pet_littlerobot_Title: Робот
+st_amongus_pet_ufo_Title: НЛО
+st_amongus_pet_doggy_Title: Пёсик
+st_amongus_pet_hampton_Title: Хэмптон
+st_amongus_pet_mini_Title: Питомец мини-члена экипажа
+st_color_among_us_red_Title: Красный член экипажа
+st_color_among_us_blue_Title: Синий член экипажа
+st_color_among_us_green_Title: Зелёный член экипажа
+st_color_among_us_pink_Title: Розовый член экипажа
+st_color_among_us_orange_Title: Оранжевый член экипажа
+st_color_among_us_yellow_Title: Жёлтый член экипажа
+st_color_among_us_black_Title: Чёрный член экипажа
+st_color_among_us_white_Title: Белый член экипажа
+st_color_among_us_purple_Title: Фиолетовый член экипажа
+st_color_among_us_brown_Title: Коричневый член экипажа
+st_color_among_us_cyan_Title: Бирюзовый член экипажа
+st_color_among_us_lime_green_Title: Лаймовый член экипажа
+st_color_among_us_banana_Title: Банановый член экипажа
+st_color_among_us_rose_Title: Розово-красный член экипажа
+st_color_among_us_maroon_Title: Тёмно-бордовый член экипажа
+st_color_among_us_grey_Title: Серый член экипажа
+st_color_among_us_tan_Title: Желтовато-коричневый член экипажа
+st_color_among_us_coral_Title: Коралловый член экипажа

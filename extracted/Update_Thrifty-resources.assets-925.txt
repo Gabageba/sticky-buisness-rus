@@ -1,0 +1,40 @@
+st_Basket_Laundry_Title: Корзина
+st_Burby_Title: Бёрби
+st_Carpet_Small_OrangeWhite_Title: Коврик
+st_clothingrack_Title: Вешалка для одежды
+st_Drinkbird_Title: Пьющая птичка
+st_Ground_Wood_Title: Деревянный пол
+st_Incense_Stick_Holder_Title: Подставка для благовоний
+st_Jacket_FromTheFuture_Title: Куртка
+st_Jeans_Black_Title: Чёрные джинсы
+st_Lamp_Big_Pink_Title: Большая лампа
+st_Lamp_Green_Title: Зелёная лампа
+st_Lamp_Lava_Title: Лавовая лампа
+st_Musicbox_Ballerina_Title: Музыкальная шкатулка
+st_Ouija_Board_Title: Доска Уиджа
+st_Phone_Yellow_Title: Жёлтый телефон
+st_Plant_Small_Leafy_Title: Лиственное растение
+st_Plant_Small_Spiky_Title: Колючее растение
+st_Plant_Small_UFO_Title: Растение НЛО
+st_Plush_Raven_Title: Плюшевый ворон
+st_Record Player_Title: Проигрыватель
+st_Shelf_PlasticFlowery_2x3_Title: Цветочная полка
+st_Shirt_Batik_Title: Рубашка в стиле батик
+st_Shirt_TheNerdfits_Title: Футболка The Nerdfits
+st_Shoes_Birdystocks_Title: Носочки Birdystocks
+st_Shoes_Chums_Black_Title: Чёрные Chums
+st_Slinky_Title: Слинки
+st_Stool_PlasticChunky_2x2_Title: Крепкий табурет
+st_Sweater_Striped_Title: Полосатый свитер
+st_Table_PlasticFlowery_2x4_Title: Цветочный стол
+st_Tarot_Title: Колода таро
+st_Thifty_Poster_Title: Постер
+st_Thifty_Sewingmachine_Title: Швейная машинка
+st_TV_Small_Title: Маленький телевизор
+st_Vase_Pirulo_Title: Ваза
+st_Walkman_Title: Walkman
+st_Wall_Orange_Title: Полосатая стена
+st_Window_Round_Title: Круглое окно
+st_Thrifty_Book_Title: Книга
+st_Flamingo_Title: Фламинго
+st_register_Title: Касса

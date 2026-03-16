@@ -1,0 +1,94 @@
+st_font_spoopy_Title: Спопи
+st_font_happy_Title: Весёлый
+st_font_halloween_Title: Хэллоуин
+st_font_witchy_Title: Ведьминый
+st_font_boo_Title: Бу!
+st_font_trickortreat_Title: Конфета или шалость
+st_orange_pumpkin_Title: Оранжевая тыква
+st_spooky_grimace_lit_Title: Жуткая рожица (светлая)
+st_spooky_grimace_dark_Title: Жуткая рожица (тёмная)
+st_happy_grimace_lit_Title: Весёлая рожица (светлая)
+st_happy_grimace_dark_Title: Весёлая рожица (тёмная)
+st_derpy_grimace_lit_Title: Смешная рожица (светлая)
+st_derpy_grimace_dark_Title: Смешная рожица (тёмная)
+st_spooky_tree_silouhette_Title: Силуэт жуткого дерева
+st_haunted_tree_silouhette_Title: Силуэт дерева-призрака
+st_halloween_garland_Title: Гирлянда Хэллоуин
+st_spooky_garland_Title: Жуткая гирлянда
+st_raven_Title: Ворон
+st_pointy_witch_hat_Title: Острая ведьминская шляпа
+st_pointy_witch_hat_back_Title: Острая ведьминская шляпа сзади
+st_skeleton_skull_Title: Череп скелета
+st_skeleton_arm_Title: Рука скелета
+st_skeleton_leg_Title: Нога скелета
+st_skeleton_ribcage_Title: Грудная клетка скелета
+st_skeleton_hip_Title: Таз скелета
+st_candle_Title: Свеча
+st_flame_Title: Пламя
+st_ghost_Title: Призрак
+st_eyeball_Title: Глазное яблоко
+st_spiderweb_Title: Паутина
+st_spider_Title: Паук
+st_pentacle_Title: Пентакль
+st_black_cat_Title: Чёрный кот
+st_witch_hand_left_Title: Ведьмина рука левая
+st_witch_hand_right_Title: Ведьмина рука правая
+st_owl_Title: Сова
+st_flask_filling_02_black_Title: Чёрное круглое зелье
+st_flask_filling_black_Title: Чёрное зелье
+st_flask_filling_02_magical_Title: Магическое круглое зелье
+st_flask_filling_magical_Title: Магическое зелье
+st_ruby_crystal_Title: Рубиновый кристалл
+st_emerald_crystal_Title: Изумрудный кристалл
+st_old_tombstone_Title: Старое надгробие
+st_square_flask_label_Title: Квадратная этикетка колбы
+st_arrow_flask_label_Title: Этикетка колбы стрелка
+st_abstract_flask_label_Title: Абстрактная этикетка колбы
+st_pumpkin_cauldron_base_Title: Основа тыквы-котла
+st_pumpkin_cauldron_back_Title: Тыква-котёл сзади
+st_yum_candy_Title: Конфета «ням»
+st_yam_candy_Title: Конфета из батата
+st_candycorn_Title: Кукурузная конфета
+packing_candycorn_candy_Title: Кукурузная конфета
+st_lemon_candy_Title: Лимонная конфета
+st_lime_candy_Title: Лаймовая конфета
+st_jelly_beans_Title: Желейные бобы
+st_simple_tombstone_Title: Простое надгробие
+st_green_pumpkin_Title: Зелёная тыква
+st_corner_web_Title: Угловая паутина
+st_bat_wing_Title: Крыло летучей мыши
+st_full_moon_Title: Полная луна
+st_half_moon_Title: Полумесяц
+st_waning_crescent_moon_Title: Убывающий серп луны
+st_waxing_gibbous_moon_Title: Растущая выпуклая луна
+st_cozy_fall_sweater_Title: Уютный осенний свитер
+st_horn_Title: Рог
+st_bent_horn_Title: Изогнутый рог
+st_spoopy_trident_Title: Спопи-трезубец
+st_black_flask_Title: Чёрная колба
+st_purple_flask_Title: Фиолетовая колба
+st_purple_triangle_flask_Title: Фиолетовая треугольная колба
+st_purple_translucent_flask_Title: Фиолетовая прозрачная колба
+st_flask_label_arrowhead_Title: Этикетка колбы наконечник стрелы
+st_flask_label_round_Title: Круглая этикетка колбы
+st_flask_label_victorian_Title: Викторианская этикетка колбы
+st_flask_label_flag_Title: Этикетка колбы флаг
+st_fall_oak_leaf_Title: Осенний дубовый лист
+st_fall_beech_leaf_Title: Осенний буковый лист
+st_fall_maple_leaf_Title: Осенний кленовый лист
+packing_choco_boo_Title: Шоколадное «бу»
+packing_strawberry_candy_Title: Клубничная конфета
+packing_pinapple_candy_Title: Ананасная конфета
+packing_raspberry_candy_Title: Малиновая конфета
+packing_orange_chewy_Title: Оранжевая жевательная конфета
+packing_apple_chewy_Title: Яблочная жевательная конфета
+packing_blueberry_chewy_Title: Черничная жевательная конфета
+filling_OrangeHalloweenPaper_Title: Оранжевая бумага Хэллоуин
+filling_PurpleHalloweenPaper_Title: Фиолетовая бумага Хэллоуин
+sticker_type_spoopy_Title: Мило-жуткий блеск
+StickOrTreat: Стикер или шалость!
+HalloweenPopupText: Внимание: в этом обновлении могут быть стикеры с тыквенной пряностью. Костюма ещё нет? Забери мило-жуткий набор здесь!
+NewHalloweenStickersText: Мы добавили целый мешок стикеров в тему Хэллоуина — собери из них свои творения! Загляни в магазин улучшений и посмотри!
+LogFilesButton: Отправить логи и сохранение
+LogFilesSuccessMessage: Логи и сохранение успешно отправлены. Сообщи нам этот код, чтобы мы могли найти твои файлы: <b>{LogfileCode}</b>
+LogFilesQuestion: Ты действительно хочешь отправить логи и сохранение в Spellgarden Games? Данные будут автоматически удалены через 30 дней.<br><b>Отправляй файлы только если мы об этом попросили.</b>

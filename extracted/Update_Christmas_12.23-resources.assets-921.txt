@@ -1,0 +1,72 @@
+st_FestiveFairyLights_Title: Праздничная гирлянда
+st_FirGarland_Title: Еловая гирлянда
+st_Dreidel_Title: Дрейдл
+st_Menorah_Title: Менора
+st_Holly_Title: Остролист
+st_SnowmanHead_Title: Голова снеговика
+st_SnowmanBody_Title: Туловище снеговика
+st_SnowmanScarf_Title: Шарф снеговика
+st_SnowmanArm_Title: Рука снеговика
+st_ChristmasTree_Title: Новогодняя ёлка
+st_ChristmasTreeStar_Title: Звезда на ёлке
+st_HolidaySock_Title: Праздничный носок
+st_GoldenBell_Title: Золотой колокольчик
+st_Present_Title: Подарок
+st_RoundPresent_Title: Круглый подарок
+st_Pinecone_Title: Шишка
+st_Cinnamon_Title: Корица
+st_KwanzaaCandle_Title: Свеча Кванза
+st_Kinara_Title: Подсвечник Кинара
+st_SnowGlobe_Title: Снежный шар
+st_WoodenAngel_Title: Деревянный ангел
+st_RedEnvelope_Title: Красный конверт
+st_WoodenSled_Title: Деревянные санки
+st_Chocolate_Title: Шоколад
+st_Popcorn_Title: Попкорн
+st_HotChocolate_Title: Горячий шоколад
+st_snowflake_Title: Снежинка
+st_FestiveFirework_Title: Праздничный фейерверк
+st_Reindeer_Title: Олень
+st_CandyCane_Title: Леденец тросточка
+st_GingerBreadPerson_Title: Пряничный человечек
+st_GingerBreadPersonDress_Title: Пряничный человечек в платье
+st_GingerBreadHeart_Title: Пряничное сердечко
+st_GingerBreadHouse_Title: Пряничный домик
+st_FestiveRibbon_Title: Праздничная лента
+st_SantaHat_Title: Шапка Санты
+st_WhiteBeard_Title: Белая борода
+st_PurpleIceSkate_Title: Фиолетовые коньки
+st_WhiteIceSkate_Title: Белые коньки
+st_Mistletoe_Title: Омела
+st_StrawStar_Title: Соломенная звезда
+st_PoinsettiaFlower_Title: Цветок пуансеттии
+st_FestiveSock_Title: Праздничный носок
+st_FestiveSweater_Title: Праздничный свитер
+st_OrangeSlice_Title: Долька апельсина
+st_GiftTag_Title: Подарочная бирка
+st_RoundGiftTag_Title: Круглая подарочная бирка
+st_FluffyGiftTag_Title: Подарочная бирка-снежок
+st_ElegantGiftTag_Title: Изящная подарочная бирка
+st_CuteGiftTag_Title: Милая подарочная бирка
+st_FontFestiveHappy_Title: Праздничное счастье
+st_FontHolidays_Title: Праздники
+st_FontHappyHolidays_Title: С праздниками!
+st_font_from_Title: От
+st_font_to_Title: Кому
+filling_RedFestivePaper_Title: Красная праздничная бумага
+filling_GreenFestivePaper_Title: Зелёная праздничная бумага
+filling_StripedFestivePaper_Title: Полосатая праздничная бумага
+filling_StripedFestiveFilling_Title: Праздничная гофрированная бумага
+packing_sweets_CandyCane_Title: Леденец тросточка
+packing_sweets_Bauble_Title: Красный ёлочный шар
+packing_sweets_BaubleGreen_Title: Зелёный ёлочный шар
+packing_sweets_ChocolateBeetle_Title: Шоколадный жук
+packing_sweets_Peanut_Title: Арахис
+packing_sweets_Walnut_Title: Грецкий орех
+sticker_type_festive_Title: Сверкающий снежок
+sticker_type_snowy_Title: Морозные искорки
+CorruptedSavegameInfo: Повреждено
+CorruptedSavegameMessage: Это сохранение повреждено и не может быть загружено.
+BackupSavegameMessage: Загрузить резервную копию от {BackupDate}?
+FestiveCalendarTitle: Хо, хо, хо!
+FestiveCalendarInfoText: Самое волшебное время года — и мы отмечаем его праздничным календарём. Заходи каждый день за новыми стикерами!

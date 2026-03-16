@@ -1,0 +1,6 @@
+CUSTOMER_NAMES: Имена клиентов
+ERROR_USERNAME_EXISTS: Сохранение с таким именем уже существует.
+PLACEHOLDER_SHOP_NAME: Введите название магазина...
+PLACEHOLDER_YOUR_NAME: Введите ваше имя...
+TUTORIAL_ENABLED: Играть с обучением
+TWITCH_USERS_ENABLE: Включить интеграцию с Twitch

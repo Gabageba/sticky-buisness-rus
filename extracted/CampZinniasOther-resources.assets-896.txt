@@ -1,0 +1,15 @@
+Story_CZ_05_CampfireStory_Hint: Хорошая история у костра не обходится без жутковатой атмосферы!
+Story_CZ_07_Friend_Hint: Что лучше поднимает настроение, чем милые зверюшки?
+Story_CZ_09_Sustainability_Hint: Ищу стикеры с деревьями — за экологию!
+STORY_CZ_0105_STORYBOOK: Лагерь «Циннии»
+STORY_CZ_0105_STORYBOOK_DESCRIPTION: История пройдена: Смена в лагере закончилась. До встречи в следующем году!
+STORY_CZ_0203_CRUSH: Симпатия
+STORY_CZ_0203_CRUSH_DESCRIPTION: История пройдена: Хейзел и Зелия отлично провели лето вместе.
+STORY_CZ_04_WINGMAN: Крыло
+STORY_CZ_04_WINGMAN_DESCRIPTION: История пройдена: Джей Вон подобрал пару другу — и сам влюбился.
+STORY_CZ_060710_TALENTSHOW: Конкурс талантов
+STORY_CZ_060710_TALENTSHOW_DESCRIPTION: История пройдена: В лагере у каждого был шанс показать свой талант.
+STORY_CZ_08_LEGACY: Лето, которое не забыть
+STORY_CZ_08_LEGACY_DESCRIPTION: История пройдена: Вывеска лагеря «Циннии» теперь в памятных стикерах.
+STORY_CZ_09_SUSTAINABILITY: Солнечный попкорн
+STORY_CZ_09_SUSTAINABILITY_DESCRIPTION: История пройдена: Диего и Джей Вон сдружились, собирая попкорн-машинку на солнечных батареях.

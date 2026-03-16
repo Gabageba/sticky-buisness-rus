@@ -1,0 +1,112 @@
+st_camp_butterfly-wings_Title: Крылья бабочки
+st_camp_ladybug_Title: Божья коровка
+st_camp_moth_Title: Моль
+st_camp_dragonfly_Title: Стрекоза
+st_camp_caterpillar_Title: Гусеница
+st_camp_bug-blue_Title: Синий жук
+st_camp_bug-green_Title: Зелёный жук
+st_camp_snail_Title: Улитка
+st_camp_flying-bird_Title: Большая летящая чайка
+st_camp_flying-small_Title: Маленькая летящая чайка
+st_camp_pigeon_Title: Голубь
+st_camp_heron_Title: Цапля
+st_camp_baby-deer_Title: Оленёнок
+st_camp_squirrel_Title: Белка
+st_camp_badger_Title: Барсук
+st_camp_boar_Title: Кабан
+st_camp_wolf-head_Title: Голова волка
+st_camp_wolf_Title: Волк
+st_camp_woodpecker_Title: Дятел
+st_camp_fox_Title: Лиса
+st_camp_hedgehog_Title: Ёжик
+st_camp_koi-fish-white_Title: Белая кои
+st_camp_koi-fish-yellow_Title: Жёлтая кои
+st_camp_sea-shell-murex_Title: Раковина мурекса
+st_camp_sea-shell-scallop_Title: Раковина гребешка
+st_camp_wave_Title: Волна
+st_camp_rock-small_Title: Замшелый камень
+st_camp_rock_Title: Валун
+st_camp_grass-short_Title: Низкая трава
+st_camp_grass-tall_Title: Высокая трава
+st_camp_curved-plant_Title: Папоротник
+st_camp_falling-leaves_Title: Падающие листья
+st_camp_stump_Title: Пень
+st_camp_branch_Title: Ветка
+st_camp_acorn_Title: Жёлудь
+st_camp_stick_Title: Палка
+st_camp_birch_Title: Берёза
+st_camp_autumn-tree_Title: Осеннее дерево
+st_camp_green-tree_Title: Пышное дерево
+st_camp_palm-tree-coconut_Title: Кокосовая пальма
+st_camp_palm-tree-tall_Title: Высокая пальма
+st_camp_pine-tree_Title: Сосна
+st_camp_cherry-blossom-tree_Title: Сакура
+st_camp_cherry-blossom_Title: Цветок сакуры
+st_camp_daisy_Title: Ромашка
+st_camp_rose_Title: Роза
+st_camp_sunflower_Title: Подсолнух
+st_camp_iris_Title: Ирис
+st_camp_lilac_Title: Сирень
+st_camp_water-lily_Title: Кувшинка
+st_camp_lily-pad_Title: Лист кувшинки
+st_camp_peony_Title: Пион
+st_camp_mushroom-brown_Title: Коричневый гриб
+st_camp_mushroom-purple_Title: Фиолетовый гриб
+st_camp_mushroom-yellow_Title: Жёлтый гриб
+st_camp_mushrooms-red_Title: Красные грибы
+st_camp_log_Title: Полено
+st_camp_fire_Title: Костёр
+st_camp_hanging-plant_Title: Подвесное растение
+st_camp_hanging-pot-white_Title: Белый подвесной горшок
+st_camp_hanging-pot-purple_Title: Фиолетовый подвесной горшок
+st_camp_sand-castle-flag_Title: Маленький флажок
+st_camp_sand-castle-tower_Title: Башня песочного замка
+st_camp_sand-castle_Title: Песочный замок
+st_camp_backpack_Title: Рюкзак
+st_camp_tent_Title: Палатка
+st_camp_volleyball-ball_Title: Волейбольный мяч
+st_camp_volleyball-net_Title: Волейбольная сетка
+st_camp_basketball-ball_Title: Баскетбольный мяч
+st_camp_basketball-basket_Title: Баскетбольная корзина
+st_camp_football_ball_Title: Футбольный мяч
+st_camp_football-goal_Title: Футбольные ворота
+st_camp_binoculars_Title: Бинокль
+st_camp_boat_Title: Лодка
+st_camp_paddle_Title: Весло
+st_camp_fishing-rod_Title: Удочка
+st_camp_net_Title: Сачок
+st_camp_flashlight_Title: Фонарик
+st_camp_guitar_Title: Лагерная гитара
+st_camp_picnic-basket_Title: Корзина для пикника
+st_camp_hammock_Title: Гамак
+st_camp_lamp-garland_Title: Гирлянда
+st_camp_lantern_Title: Фонарь
+st_camp_microphone_Title: Микрофон
+st_camp_mug_Title: Кружка
+st_camp_radio_Title: Радио
+st_camp_camera_Title: Камера
+st_camp_photo_Title: Снимок
+st_camp_sign_Title: Указатель
+st_camp_hike-badge_Title: Значок «Поход»
+st_camp_pathfinder-badge_Title: Значок «Ориентирование»
+st_camp_boating-badge_Title: Значок «Гребля»
+st_camp_camp-badge_Title: Значок «Лагерь»
+st_camp_campfire-badge_Title: Значок «Костёр»
+st_camp_fishing-badge_Title: Значок «Рыбалка»
+st_camp_music-badge_Title: Значок «Музыка»
+st_camp_nature-badge_Title: Значок «Природа»
+st_camp_gnome_Title: Гном
+st_camp_ground-shape_Title: Земля
+packing_bracelet_leaves_Title: Браслет из листьев
+packing_candywithnuts_Title: Конфета «Белка»
+packing_earrings_cones_Title: Серьги-шишки
+packing_earrings_monstera_Title: Серьги-монстера
+packing_hairclip_flowerblue_Title: Заколка с синим цветком
+packing_hairclip_flowerpink_Title: Заколка с розовым цветком
+packing_keychain_colibri_Title: Брелок-колибри
+sticker_type_bumblebees_Title: Пчёлки-красотки
+sticker_type_butterflies_Title: Бабочки
+sticker_type_fishes_Title: Блестящие кои
+sticker_type_mushrooms_Title: Чудо-грибы
+sticker_type_palmtrees_Title: Красивые пальмы
+sticker_type_plants_Title: Искрящиеся кустики

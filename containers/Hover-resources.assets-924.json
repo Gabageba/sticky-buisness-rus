@@ -1,0 +1,589 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "Hover",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "STREAMING_CUSTOM_NAMES",
+        "STREAMING_AUTH_CODE",
+        "STREAMING_CHANNEL_NAME",
+        "STREAMING_CHANNEL_USERNAME",
+        "TWITCH_FIRST_COME_FIRST_SERVE",
+        "TWITCH_ONLY_SUBSCRIBERS"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "STREAMING_CUSTOM_NAMES",
+          "Original": "",
+          "Description": "When the player hovers over the area to set custom customer names",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You can specify custom names (e.g. your followers) by entering all names in the text file. Click on \"Reload\" to refresh the list of names used in the game",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du kannst benutzerdefinierte Namen angeben (z.B. deine Follower*innen), indem du alle Namen in die Textdatei eingibst. Klicke auf \"Neu Laden\", um die Liste der im Spiel verwendeten Namen zu aktualisieren",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu peux utiliser des noms personnalisés (p. ex. pour tes fans) en les saisissant dans le champ de texte. Clique sur « Actualiser » pour mettre à jour la liste de noms utilisés dans le jeu.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Puedes especificar nombres personalizados (p. ej. para tus seguidores) introduciendo todos los nombres en el archivo de texto. Haz clic en «Volver a cargar» para actualizar la lista de nombres usados en el juego.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você pode especificar nomes personalizados (por exemplo, seus seguidores) inserindo todos os nomes no arquivo de texto. Clique em \"Recarregar\" para atualizar a lista de nomes usados​no jogo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "テキストファイルにすべての名前を記述することで、お客様にそれぞれ特定の名前(例：あなたのフォロワー)をつけることができます。「リロード」をクリックして、ゲームで使用される名前のリストを更新してください。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "텍스트 파일에 이름을 모두 입력해서 특정 이름(예: 팔로워)을 지정할 수 있습니다. \"다시 불러오기\"를 클릭하면 게임에서 사용되는 이름 목록을 새로고침할 수 있습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你可以通过将所有人名输入文本文件来指定顾客的名字（比如指定为你粉丝的名字）。点击“重新加载”即可刷新游戏所使用的人名列表。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你可以透過在文字檔中輸入所有名字來指定自訂名字（例如，你的追隨者）。點擊「重新載入」以重新整理在遊戲中使用的名字清單",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STREAMING_AUTH_CODE",
+          "Original": "",
+          "Description": "When the player hovers over the input field to enter the authentication code.",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Your athentication code. Click \"Authenticate\" and follow the steps in your browser.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dein Authentifizierungscode. Klicke auf \"Authentifizieren\" und befolge die Schritte in deinem Browser.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ton code d'authentification.<br>Clique sur « Authentification » et suis les étapes dans ton navigateur.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu código de autentificación. Haz clic en «Autentificación» y sigue los pasos en tu navegador.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Seu código de autenticação. Clique em \"Autenticar\" e siga os passos no seu navegador.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "あなたの認証コードです。「認証」をクリックして、ブラウザで手順に従ってください。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "인증 코드입니다. \"인증\"을 클릭한 후 브라우저의 지시를 따르세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的验证码。请点击“验证”然后按照浏览器中的步骤进行操作。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的驗證碼。點擊「驗證」並按照瀏覽器中的步驟操作。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STREAMING_CHANNEL_NAME",
+          "Original": "",
+          "Description": "When the player hovers over the input field to enter the twitch channel name",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Your channel name. Usually the same as your username.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dein Kanalname. Normalerweise derselbe wie dein Nutzername.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Le nom de ta chaîne. C'est généralement ton pseudo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "El nombre de tu canal. Suele ser el mismo que tu nombre de usuario.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O nome do seu canal. Em geral, é igual ao seu nome de usuário.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "あなたのチャンネル名です。通常はユーザー名と同じです。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "채널 이름입니다. 보통 사용자 이름과 동일합니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你频道的名称。通常与你的用户名相同。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的頻道名稱。通常與你的使用者名稱相同。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STREAMING_CHANNEL_USERNAME",
+          "Original": "",
+          "Description": "When the player hovers over the input field to enter the twitch user name",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Your Twitch username. Please only use lowercase.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dein Twitch-Benutzername. Bitte nur Kleinbuchstaben.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ton pseudo Twitch. N'utilise que des lettres minuscules.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu nombre de usuario de Twitch. Por favor, usa solo minúsculas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Seu nome de usuário do Twitch. Use apenas letras minúsculas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "あなたのTwitchのユーザー名です。小文字のみ使用できます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "트위치 사용자 이름입니다. 소문자만 사용해 주세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的Twitch用户名。请仅使用小写。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的 Twitch 使用者名稱。請只使用小寫字母。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TWITCH_FIRST_COME_FIRST_SERVE",
+          "Original": "",
+          "Description": "A hint for a toggle where twitch streamers can change the behaviour of the orders.",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "If enabled, users who typed in their orders first will be selected first, instead of choosing randomly from all the orders that are placed in the order period.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Wenn diese Option aktiviert ist, werden die ersten Bestellungen ausgewählt, anstatt zufällig aus allen Bestellungen, die im Bestellzeitraum aufgegeben werden auszuwählen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Si la fonction est activée, les spectateurs ayant écrit leur commande en premier seront sélectionnés en premier au lieu de sélectionner des commandes au hasard parmi toutes celles passées pendant la période de commande.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Si está activado, los espectadores que enviaron sus pedidos primero serán seleccionados antes, en vez de elegir aleatoriamente de entre todos los pedidos realizados durante el periodo de pedidos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Caso esta opção esteja ativada, os espectadores que fizerem suas encomendas primeiro serão selecionados antes, em vez de selecionar aleatoriamente entre todas as encomendas realizadas no período de encomendas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "有効にすると、注文期間中に受注したすべての注文からランダムに選択するのではなく、最初に注文を入力したお客様が選ばれます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이 기능을 사용하면 주문 기간에 들어온 주문 중에 무작위로 선택하는 것이 아니라, 주문을 먼저 입력한 사용자를 먼저 선택합니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "启用后，系统将优先选用观众最先输入的订单，而不是在下单周期内的所有订单中随机选择。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "若啟用，則系統將優先選擇先輸入訂單的觀眾，而非從訂購期間下單的所有觀眾中隨機選擇。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "TWITCH_ONLY_SUBSCRIBERS",
+          "Original": "",
+          "Description": "A hint where streamers can restrict orders to only be allowed by subscribers.",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "If checked, only your twitch subscribers will be able to order.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Wenn diese Option aktiviert ist, können nur deine Abonnent*innen bestellen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Si la fonction est activée, seul·es tes abonné·es Twitch pourront passer commande.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Si lo marcas, solo tus suscriptores de Twitch podrán realizar pedidos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Caso esta opção esteja ativada, apenas seus inscritos no Twitch poderão fazer encomendas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "チェックした場合、あなたのTwitch登録者のみが注文できます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "여기 체크하면 트위치 구독자만 주문을 할 수 있습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "勾选后，只有订阅了你Twitch频道的观众才能够下单。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "若勾選，則只有你的 Twitch 訂閱者才能訂購。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

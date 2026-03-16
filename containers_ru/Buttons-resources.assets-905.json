@@ -1,0 +1,2782 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "Buttons",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "BUTTON_BACK",
+        "BUTTON_CREATE",
+        "BUTTON_GRAB",
+        "BUTTON_ROTATE",
+        "BUTTON_MODE",
+        "BUTTON_BUTTON_MODE",
+        "BUTTON_MOUSE_MODE",
+        "BUTTON_MOVE",
+        "BUTTON_NEXT_DAY",
+        "BUTTON_OPTIONS",
+        "BUTTON_PRODUCTION_SAVE_SHEET_DESKTOP",
+        "BUTTON_SEND_PACKAGES",
+        "BUTTON_SAVE",
+        "BUTTON_DELETE",
+        "BUTTON_DELETE_SAVEGAME",
+        "BUTTON_EDIT",
+        "BUTTON_VIEW",
+        "BUTTON_UNLIST",
+        "BUTTON_PRINT",
+        "BUTTON_START_OVER",
+        "BUTTON_KEEP_PLAYING",
+        "BUTTON_ASK_FOR_MONEY",
+        "BUTTON_CONTINUE",
+        "BUTTON_OPEN_FOLDER",
+        "BUTTON_DEMO_START",
+        "BUTTON_FASTER",
+        "BUTTON_SLOWER",
+        "BUTTON_PLACE",
+        "BUTTON_READMORE"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "BUTTON_BACK",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Назад",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Zurück",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Retour",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Volver",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Voltar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "戻る",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "뒤로",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "返回",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "返回",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_CREATE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Создать",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erstellen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Créer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crear",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Criar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "作成する",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "만들기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "创建",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "製作",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_GRAB",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Взять",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Greifen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Attraper",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Agarrar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pegar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "つかむ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "잡기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "抓取",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "拿取",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_ROTATE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Повернуть",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Drehen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Faire tourner",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Rotar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Girar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "回転",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "회전",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "旋转",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "旋轉",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_MODE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Режим",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modus",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mode",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "モード",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "모드",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_BUTTON_MODE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Режим кнопок",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Button-Modus",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mode Boutons",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo botón",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo de botão",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ボタンモード",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "버튼 모드",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "按键模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "按鈕模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_MOUSE_MODE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Режим мыши",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Maus-Modus",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mode Clavier et souris",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo ratón",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modo do mouse",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "マウスモード",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "마우스 모드",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "鼠标模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "滑鼠模式",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_MOVE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Переместить",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bewegen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Déplacer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mover",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mover",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "移動",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이동",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "移动",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "移動",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_NEXT_DAY",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Следующий день",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nächster Tag",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Jour suivant",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Día siguiente",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Próximo dia",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "翌日",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "다음 날",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "次日",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "下一天",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_OPTIONS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Настройки",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Optionen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Options",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Opciones",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Opções",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "オプション",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "옵션",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "选项",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "選項",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_PRODUCTION_SAVE_SHEET_DESKTOP",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Сохранить лист на рабочий стол",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Stickerbogen auf Desktop speichern",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Enregistrer la feuille sur le bureau",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Guardar hoja en el escritorio",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Salvar cartela na área de trabalho",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "シートをデスクトップにセーブする",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "바탕 화면에 시트 저장",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "保存贴纸单至桌面",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "將貼紙單儲存至桌面",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_SEND_PACKAGES",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Отправить посылки",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pakete senden",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Envoyer les colis",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Enviar paquetes",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Enviar pacotes",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "パッケージを発送する",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "소포 발송",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄送包裹",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "寄送包裹",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_SAVE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Сохранить",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Speichern",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Enregistrer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Guardar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Salvar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "セーブ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "저장",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "保存",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "儲存",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_DELETE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Удалить",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Löschen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Supprimer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Borrar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Excluir",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "削除",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "삭제",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "删除",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "刪除",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_DELETE_SAVEGAME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Удалить {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Delete ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "{SavegameName} Löschen",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "",
+                                "Key": "SavegameName",
+                                "Next": " Löschen"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Supprimer {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Supprimer ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Borrar {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Borrar ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Excluir {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Excluir ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "{SavegameName} 削除",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "",
+                                "Key": "SavegameName",
+                                "Next": " 削除"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "{SavegameName} 삭제",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "",
+                                "Key": "SavegameName",
+                                "Next": " 삭제"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "删除 {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "删除 ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "刪除 {SavegameName}",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "刪除 ",
+                                "Key": "SavegameName",
+                                "Next": ""
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_EDIT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Редактировать",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bearbeiten",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Modifier",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Editar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Editar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "編集",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "편집",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "编辑",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "編輯",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_VIEW",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Просмотр",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ansehen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Voir",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ver",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ver",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "表示",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "보기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "查看",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "查看",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_UNLIST",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Выставить / Снять",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Auflisten ein/aus",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "(Dés)afficher",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "(Des)listar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "(Des)listar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "出品切替",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "등록/등록 해제",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "上架/下架",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "上架／下架",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_PRINT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Печать",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Drucken",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprimer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprimir",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Imprimir",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "印刷",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "인쇄",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "打印",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "列印",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_START_OVER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Начать заново",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Erneut versuchen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Recommencer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Volver a empezar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Reiniciar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "もう一度スタート",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "다시 시작하기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "重新开始",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "從頭開始",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_KEEP_PLAYING",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Продолжить игру",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Weiterspielen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Continuer à jouer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Seguir jugando",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Continuar jogando",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "プレイ続行",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "계속 하기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "继续游戏",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "繼續玩",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_ASK_FOR_MONEY",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Попросить монет у бабушки",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Oma um ein paar Münzen bitten",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Demander des pièces à Mamie",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pídele monedas a la abuela",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pedir moedas à Vovó",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "おばあちゃんにコインを頼む",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "할머니에게 코인 요청하십시오",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "向奶奶要金币",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "跟阿嬤要硬幣",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_CONTINUE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Продолжить",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Weiter",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Continuer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Continuar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Continuar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "続行",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이어 하기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "继续",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "繼續",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_OPEN_FOLDER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Открыть папку",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ordner öffnen",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ouvrir le dossier",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Abrir carpeta",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Abrir pasta",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "フォルダを開ける",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "폴더 열기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "打开文件夹",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "開啟資料夾",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_DEMO_START",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Поехали!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Los geht's!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "C'est parti !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Vamos allá!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Vamos lá!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "レッツゴー！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "시작!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我们开始吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "開始吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_FASTER",
+          "Original": "",
+          "Description": "Move the pointer faster",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Быстрее",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Schneller",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Plus rapide",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Más rápido",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mais rápido",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "より速く",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "빠르게",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更快",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更快",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_SLOWER",
+          "Original": "",
+          "Description": "Move the pointer slower",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Медленнее",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Langsamer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Plus lent",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Más lento",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mais lento",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "より遅く",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "느리게",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更慢",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "更慢",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_PLACE",
+          "Original": "",
+          "Description": "Place an element",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Разместить",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Platzieren",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Placer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colocar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colocar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "配置",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "배치",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "放置",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "放置",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "BUTTON_READMORE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Читать далее",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mehr dazu",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Lire plus",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Leer más",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Leia mais",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "もっと読む",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "자세히 보기",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "阅读更多",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "閱讀更多",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

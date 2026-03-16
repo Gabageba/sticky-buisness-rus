@@ -1,0 +1,58 @@
+MONEY_GOLD_HEADER: Печатаем деньги!
+MONEY_GOLD: Заработай 1000 монет.
+BOUGHT_ALL_STICKERS_HEADER: Собиратель стикеров
+BOUGHT_ALL_STICKERS: Купи все стикеры.
+BOUGHT_ALL_UPGRADES_HEADER: Всё прокачано
+BOUGHT_ALL_UPGRADES: Купи все улучшения.
+BOUGHT_ONE_UPGRADE_HEADER: Поехали!
+BOUGHT_ONE_UPGRADE: Купи одно улучшение.
+STICKERS_FIRST_HEADER: Первый стикер!
+STICKERS_FIRS: Напечатай свой самый первый стикер.
+STICKERS_BRONZE_HEADER: Ещё стикеров!
+STICKERS_BRONZE: Напечатай 250 стикеров.
+STICKERS_SILVER_HEADER: Ещё больше стикеров!
+STICKERS_SILVER: Напечатай 500 стикеров.
+STORY_PLAYED_HEADER: Время историй
+STORY_PLAYED: Пройди все истории клиентов.
+DAYS_25_HEADER: Время летит
+DAYS_25: Играй 25 дней подряд.
+STICKER_SHEET_ONE_HEADER: Святые листы!
+STICKER_SHEET_ONE: Создай свой первый лист стикеров.
+STICKER_SHEET_BRONZE_HEADER: Лист за листом
+STICKER_SHEET_BRONZE: Создай 5 листов стикеров.
+STICKER_SHEET_SILVER_HEADER: Листов — не счесть!
+STICKER_SHEET_SILVER: Создай 15 листов стикеров.
+PACKAGE_FIRST_HEADER: В путь!
+PACKAGE_FIRST: Отправь свою первую посылку.
+MAILBOX_BRONZE_HEADER: Ящик под завязку
+MAILBOX_BRONZE: Отправь клиентам 10 посылок со стикерами.
+MAILBOX_SILVER_HEADER: Звезда почты
+MAILBOX_SILVER: Отправь 50 посылок. Твой портрет висит на почте.
+STICKER_DELETE_HEADER: Пора прощаться
+STICKER_DELETE: Удали один из своих стикеров.
+STORY_1_FRIEND_HEADER: Прилип надолго
+STORY_1_FRIEND: История пройдена: Друг поддержал твой новый бизнес.
+STORY_2_TEACHER_HEADER: Хороший урок
+STORY_2_TEACHER: История пройдена: Кто сказал, что оценивать нужно только оценками?
+STORY_3_4_COUPLE_HEADER: Пара стикеров
+STORY_3_4_COUPLE: История пройдена: Мы нашли любовь.
+STORY_5_GRANNY_HEADER: Возраст не помеха
+STORY_5_GRANNY: История пройдена: Для стикеров возраст не указан.
+STORY_6_7_SIBLINGS_HEADER: Растём вместе
+STORY_6_7_SIBLINGS: История пройдена: Делись — значит заботишься.
+STORY_8_JOBHATER_HEADER: Уволься — не прилипай
+STORY_8_JOBHATER: История пройдена: Работа не стоит твоего здоровья. Береги себя!
+STORY_9_10_11_DINOS_HEADER: Ррррр!
+STORY_9_10_11_DINOS: История пройдена: Семья динозавров.
+STORY_13_STICKERSHOP_HEADER: Друзья по стикерам
+STORY_13_STICKERSHOP: История пройдена: Дружеское соперничество бывает.
+STORY_15_POCGAMER_HEADER: В эфире!
+STORY_15_POCGAMER: История пройдена: Не забудь лайкнуть и подписаться на мой уютный канал!
+STORY_16_HOSPITAL_HEADER: Скорейшего выздоровления!
+STORY_16_HOSPITAL: История пройдена: В аптечке должен быть хотя бы один стикер.
+STORY_17_ADHD_HEADER: Всё по полочкам
+STORY_17_ADHD: История пройдена: Справился с рассеянностью — и всё получилось.
+STORY_18_19_BURNOUT_HEADER: Новый старт
+STORY_18_19_BURNOUT: История пройдена: Пусть хрустят чипсы, а не мы.
+STORY_20_DETECTIVE_HEADER: Прощай, и спасибо за стикеры!
+STORY_20_DETECTIVE: История пройдена: Мы сработались неплохо, как думаешь?

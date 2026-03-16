@@ -1,0 +1,82 @@
+UI_LOAD_SAVE_INCOMPATIBLE: Несовместимое сохранение
+UI_PRODUCTION_CHOOSE_PAPER: Выбери бумагу
+UI_PRINTINGSCREEN_COSTS: Стоимость печати
+UI_PRINTINGSCREEN_PROFITS: Потенциальная выручка
+UI_PACKING_FILLING: Наполнитель
+UI_PACKING_FROM: От
+UI_PACKING_PACK: Упаковать
+UI_PACKING_PAPER: Бумага
+UI_FAIL_REASON_WRONGSTICKERS: Отправлены не те стикеры
+UI_FAIL_REASON_DEADLINE: Пропущен срок доставки
+UI_FAIL_ORDERDETAILS: Заказанные стикеры
+UI_FAIL_STICKERSSENT: Отправленные стикеры
+UI_SLEEP_PRODUCED: Напечатано
+UI_SLEEP_UPGRADES: Опыт
+UI_SLEEP_ORDERS: Заказы
+UI_SLEEP_SENT: Отправлено
+UI_SLEEP_OPEN: В работе
+UI_SLEEP_FAILED: Провалено
+UI_SLEEP_LATE: С опозданием
+UI_SLEEP_GAME_SAVED: Игра сохранена
+UI_SLEEP_DAY: День {GameDay}
+UI_SLEEP_GAME_OVER: О нет!
+UI_SLEEP_GAME_OVER_INFO: Похоже, монеты закончились... Что дальше?
+UI_HUB_CREATOR: Конструктор
+UI_HUB_SHOP: Магазин
+UI_HUB_PRINTER: Принтер
+UI_HUB_SHIPPING: Упаковка
+UI_HUB_UPGRADES: Улучшения
+UI_HUB_WISHLIST_ROR: Добавь в желаемое Ritual Of Raven!
+UI_HUB_WISHLIST_MORE: Ещё игры от Spellgarden Games
+UI_TWITCH_ORDER: Заказывай сейчас!
+UI_TWITCH_TYPE: Вводи заказы в чат!
+UI_TWITCH_TYPE_INFO: Время заказать стикеры на следующий день!<br>Напиши в чат <b>!order</b> и номер стикера.<br>(Пример: <b>!order 1 1 1</b> — заказать первый стикер 3 раза)
+UI_TWITCH_ORDER_OUTSTANDING: У <b>{TwitchUser}</b> уже есть заказ в ожидании!
+UI_TWITCH_ORDER_FULL: <b>{TwitchUser}</b> оформил заказ!
+UI_TWITCH_ORDERED: <b>{TwitchUser}</b> заказал {StickerName}
+UI_UPGRADES_WEBSITE_NAME: Магазин улучшений
+UI_UPGRADES_COMING_SOON: В полной версии ждут новые стикеры и особая блестящая бумага для творчества! Там же можно будет докупить вкусняшки в посылки — клиенты будут ещё раньше!
+UI_UPGRADES_COMING_SOON_HEADER: Скоро!
+UI_CREATOR_NAME_STICKER: Назови стикер!
+UI_CREATOR_SAVED_STICKER: Сохранено!
+UI_CREATOR_NAME_STICKER_CHANGE: Изменить название стикера
+UI_CREATOR_OUTLINE: Контур стикера
+UI_CREATOR_SAVE_STICKER_DESKTOP: Можно сохранить стикер на рабочий стол и поделиться с миром!
+UI_CREATOR_CLEAR: Очистить текущий дизайн
+UI_CREATOR_CLEAR_DOUBLECHECK: Удалить текущий дизайн стикера?
+UI_CREATOR_SAVE_SHEET_DESKTOP: Можно сохранить лист стикеров на рабочий стол и поделиться с миром!
+UI_CREATOR_SAVED_STICKER_INFO: Стикер сохранён на рабочий стол.<br>Отправь другу или покажи миру!<br>Если поделишься — отметь нас, мы ждём твои творения <3
+UI_CREATOR_SAVED_SHEET_INFO: Лист стикеров сохранён на рабочий стол.<br>Отправь другу или покажи миру!<br>Если поделишься — отметь нас, мы ждём твои творения <3
+UI_STICKERSHOP_WEBSITE_NAME: Мой магазин стикеров
+UI_SHOP_CHANGE_NAME: Изменить название магазина
+UI_SHOP_CUSTOMIZE: Оформление
+UI_SHOP_CHOOSE_LOGO: Выбрать логотип
+UI_SHOP_CHOOSE_AS_LOGO: Сделать логотипом
+UI_SHOP_CREATE_LOGO: Создать логотип
+UI_SHOP_DUPLICATE_STICKER: Сменить бумагу
+SHOP_ITEM_AVAILABLE: В каталоге
+SHOP_ITEM_DISABLED: Снято с витрины
+SHOP_FREE_SLOT: Свободный слот
+SHOP_STICKER_COLOR: Цвет стикера
+SHOP_OUTLINE_COLOR: Цвет контура
+SHOP_STICKER: Стикер
+UI_HUB_MESSAGES: Сообщения
+UI_HUB_HINT: Подсказка
+UI_HUB_PHOTO: Фото от {HeroName}
+UI_TWITCH_COMMAND_ERROR: <b>{TwitchUser}</b> — {CommandInput} не является числом.
+UI_TWITCH_NOT_FOUND: <b>{TwitchUser}</b> — стикер {StickerID} не найден.
+UI_TWITCH_ORDERED_BUDGET: <b>{TwitchUser}</b> заказал {StickerName} (осталось {Budget} монет)
+UI_TWITCH_BUDGET_EXCEEDED: {TwitchUser} не может заказать {StickerName}: бюджет превышен. Осталось: {Budget} монет
+UI_TWITCH_YOU_CAN_SPEND: Ты можешь потратить
+OPTION_TIME_LIMITLESS: Без лимита
+OPTION_TIME_RELAXED: Расслабленный
+OPTION_TIME_NORMAL: Обычный
+OPTION_TEXT_DAYSPEED: Скорость дня
+INVENTORY: Инвентарь
+UI_HUB_THRIFTY: Добавь в желаемое и подпишись на <b>Thrifty Business</b>, чтобы получить эксклюзивный набор стикеров!
+UI_HUB_THRIFTY_FOLLOWED: Набор стикеров Thrifty Business получен!
+INGAME_THRIFTY_HEADER: Сюрприз!
+INGAME_THRIFTY_TEXT: <size="45">Что-то интересное ждёт 9 декабря!</size><br>По этому поводу мы каждый день добавляем новые стикеры до этой даты.<br>Следи за обновлениями — в некоторых стикерах может быть намёк на сюрприз!
+INFO_THRIFTY_TEXT: <size="38">Привет! Мы анонсировали Thrifty Business — уютный симулятор комиссионного магазина!</size><size="1"><br><br></size> <size="28">Если тебе нравится Sticky Business, он тебе наверняка понравится. По случаю анонса дарим эксклюзивный набор стикеров (15+ штук), если добавишь Thrifty Business в желаемое и подпишешься на страницу в Steam!</size>
+THRIFTY_CLAIM_NOW: Получить сейчас!
+INFO_THRIFTY_EXTRA: Спасибо за поддержку и добавление Thrifty Business в желаемое! Новые стикеры ждут в магазине улучшений <3

@@ -1,0 +1,3221 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "Messages",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "TWITCH_AUTH_FAILED",
+        "NO_TIME_LEFT_POST_OFFICE",
+        "NO_PACKAGES",
+        "UPGRADES_NO_MONEY",
+        "PRODUCTION_NO_TIME_LEFT",
+        "PAPER_NO_MONEY",
+        "SHOP_NO_SLOTS",
+        "LETTER_NO_TIME",
+        "STICKER_NO_TIME",
+        "SHEET_NO_TIME",
+        "ORDER_NONE_LEFT",
+        "SAVEGAME_VERSION_MISMATCH",
+        "GO_BACK_TO_MENU",
+        "EXIT_GAME",
+        "DELETE_SHEET",
+        "SHEET_NOT_WORTH_ENOUGH",
+        "SHOP_STICKER_DEACTIVATE_OR_ACTIVATE",
+        "SHOP_DELETE_STICKER_LONG",
+        "SHOP_DELETE_STICKER_SHORT",
+        "CONTENT_NOTE",
+        "CONTENT_NOTE_INFO",
+        "STICKERS_PERSONAL_USE_MESSAGE",
+        "OVERWRITE_CONFIRMATION",
+        "DELETE_STICKER_LIMIT_REACHED",
+        "DELETE_SHEET_LIMIT_REACHED",
+        "CONTROLLER_DISCONNECTED_HEADER",
+        "CONTROLLER_DISCONNECTED_MESSAGE",
+        "SAVE_SLOTS_LIMIT_REACHED",
+        "MISSING_DLC_MESSAGE_XS",
+        "MISSING_DLC_MESSAGE_PS5"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "TWITCH_AUTH_FAILED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Failed to connect to Twitch.<br>Please try again.<br>If this fails multiple times, please reauthenticate.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Verbindung zu Twitch fehlgeschlagen.<br>Bitte versuche es erneut.<br>Wenn es mehrmals fehlschlägt, authentifiziere dich bitte erneut.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Échec de la connexion avec Twitch.<br>Essaie encore.<br>Si le problème persiste, tu devras t'authentifier à nouveau.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Error al conectar con Twitch.<br>Inténtalo de nuevo.<br>Si este error persiste, repite el proceso de autentificación.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Falha ao se conectar ao Twitch.<br>Tente novamente.<br>Caso falhe repetidas vezes, autentique-se de novo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Twitchの接続に失敗しました。<br>もう一度やり直してください。<br>何度も失敗する場合は、再認証してください。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "트위치 연결에 실패했습니다.<br>다시 시도해 주세요.<br>여러 번 실패하면 다시 인증을 완료해 주시기 바랍니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "连接Twitch失败。<br>请重试。<br>若该操作多次失败，请重新进行验证。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "無法與 Twitch 連線。<br>請再試一次。<br>如果多次嘗試失敗，請重新驗證。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "NO_TIME_LEFT_POST_OFFICE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have enough time today to bring the boxes to the post office.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast heute nicht genug Zeit, um die Pakete zur Post zu bringen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'auras pas le temps d'amener ces colis au bureau de poste aujourd'hui.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hoy ya no te da tiempo a llevar las cajas a la oficina de correos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hoje você não tem tempo suficiente para levar os pacotes à agência dos correios.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日は、これらの箱を郵便局に持っていく時間がありません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘은 소포를 우체국에 가져갈 시간이 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你今天没有足够的时间来把快递盒送到邮局去了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天時間不夠了，沒辦法把包裹拿到郵局。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "NO_PACKAGES",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have any packages at the moment.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast zur Zeit keine Pakete.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'as actuellement aucun colis.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "En este momento no tienes ningún paquete.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No momento, você não tem nenhum pacote.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "現在パッケージはありません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "지금은 소포가 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你目前没有任何包裹。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "目前沒有任何包裹。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "UPGRADES_NO_MONEY",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You do not have the funds to buy this upgrade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast nicht genügend Ersparnisse, um dieses Upgrade zu kaufen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'as pas les moyens d'acheter cette amélioration.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No tienes fondos para comprar esta mejora.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem fundos para comprar esta melhoria.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "このアップグレードを購入できるだけのコインはもっていません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이 업그레이드를 구매할 자금이 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你没有足够的资金来购买这项升级。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "資金不足，無法購買此項升級。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PRODUCTION_NO_TIME_LEFT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have enough time today to print the stickers! Try tomorrow.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast heute nicht mehr genug Zeit, um Sticker auszudrucken! Versuche es morgen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'auras pas le temps d'imprimer ces autocollants aujourd'hui ! Essaie demain.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Hoy ya no te da tiempo a imprimir las pegatinas! Inténtalo mañana.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem tempo suficiente para imprimir os adesivos hoje! Tente amanhã.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日は、ステッカーを印刷できる時間がありません！明日また印刷しよう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘은 스티커를 인쇄할 시간이 없습니다! 내일 해 보세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你今天没有足够的时间来打印贴纸了！明天再试试吧。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天時間不夠了，沒辦法列印貼紙！明天再試試看吧。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "PAPER_NO_MONEY",
+          "Original": "",
+          "Description": "Do not translate  {PaperPriceMessage}",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sorry, you can't afford this paper! You need {PaperPriceMessage} to print on this paper.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Sorry, you can't afford this paper! You need ",
+                                "Key": "PaperPriceMessage",
+                                "Next": " to print on this paper."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Schade, du kannst dir dieses Papier nicht leisten! Du brauchst dafür {PaperPriceMessage}.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Schade, du kannst dir dieses Papier nicht leisten! Du brauchst dafür ",
+                                "Key": "PaperPriceMessage",
+                                "Next": "."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Désolé, tu ne peux pas utiliser ce papier ! Il te faut {PaperPriceMessage} pour imprimer des autocollants sur ce papier.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Désolé, tu ne peux pas utiliser ce papier ! Il te faut ",
+                                "Key": "PaperPriceMessage",
+                                "Next": " pour imprimer des autocollants sur ce papier."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "¡Lo siento, no te puedes permitir este papel! Necesitas {PaperPriceMessage} para poder imprimir en este papel.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "¡Lo siento, no te puedes permitir este papel! Necesitas ",
+                                "Key": "PaperPriceMessage",
+                                "Next": " para poder imprimir en este papel."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Desculpe, mas você não pode pagar por este papel! É preciso {PaperPriceMessage} para imprimir neste papel.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Desculpe, mas você não pode pagar por este papel! É preciso ",
+                                "Key": "PaperPriceMessage",
+                                "Next": " para imprimir neste papel."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "ごめん！この紙は購入できません！この紙に印刷するには{PaperPriceMessage}必要です。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "ごめん！この紙は購入できません！この紙に印刷するには",
+                                "Key": "PaperPriceMessage",
+                                "Next": "必要です。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "죄송하지만 이 종이를 구매할 코인이 없습니다. 이 종이에 인쇄하려면 {PaperPriceMessage}이 필요합니다.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "죄송하지만 이 종이를 구매할 코인이 없습니다. 이 종이에 인쇄하려면 ",
+                                "Key": "PaperPriceMessage",
+                                "Next": "이 필요합니다."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "抱歉，你买不起该纸张！你需要支付{PaperPriceMessage}才能用它进行打印。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "抱歉，你买不起该纸张！你需要支付",
+                                "Key": "PaperPriceMessage",
+                                "Next": "才能用它进行打印。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "抱歉，你無法負擔這款紙張！你需要 {PaperPriceMessage} 才能使用這款紙張來列印。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "抱歉，你無法負擔這款紙張！你需要 ",
+                                "Key": "PaperPriceMessage",
+                                "Next": " 才能使用這款紙張來列印。"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHOP_NO_SLOTS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have any empty slots in your shop. Try deleting a sticker or buy more slots.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast keine leeren Plätze in deinem Shop. Versuche, einen Sticker zu löschen oder kaufe mehr Plätze.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu ne disposes d'aucun emplacement de libre dans ta boutique. Essaie de supprimer un autocollant ou d'acheter un emplacement supplémentaire.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No tienes espacios vacíos en tu tienda. Borra alguna pegatina o compra más espacios.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem espaços vazios na sua loja. Tente excluir um adesivo ou comprar mais espaços.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ショップに空のスロットがありません。ステッカーを削除するか、スロットを購入してください。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "가게에 빈 슬롯이 없습니다. 스티커를 하나 삭제하거나 슬롯을 더 구매하세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的店铺里没有任何空余槽位。请尝试删除一张贴纸或购买更多槽位。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的商店沒有空欄位了。請刪除貼紙或購買更多欄位。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "LETTER_NO_TIME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have enough time today to pack another order.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast heute nicht genug Zeit, um eine weitere Bestellung zu verpacken.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'auras pas le temps de préparer une autre commande aujourd'hui.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hoy no te da tiempo a empaquetar otro pedido.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem tempo suficiente para empacotar outra encomenda hoje.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日は、他の注文をパッキングできる時間がありません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘은 주문품을 하나 더 포장할 시간이 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你今天没有足够的时间来打包其他订单了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天時間不夠了，沒辦法包裝其他訂單。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKER_NO_TIME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have enough time today to create another sticker.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast heute nicht genug Zeit, um einen weiteren Sticker zu erstellen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'auras pas le temps de créer un autre autocollant aujourd'hui.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hoy no te da tiempo a crear otra pegatina.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem tempo suficiente para criar outro adesivo hoje.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日は、他のステッカーを作成できる時間がありません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘은 스티커를 더 만들 시간이 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你今天没有足够的时间来创建其他贴纸了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天時間不夠了，沒辦法製作其他貼紙。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHEET_NO_TIME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You don't have enough time today to create a sticker sheet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast heute nicht genug Zeit, um einen Stickerbogen zu erstellen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu n'auras pas le temps de créer une feuille d'autocollants aujourd'hui.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hoy no te da tiempo a crear otra hoja de pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você não tem tempo suficiente para criar uma cartela de adesivos hoje.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日は、他のステッカーシートを作成できる時間がありません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘은 스티커 시트를 만들 시간이 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你今天没有足够的时间来创建贴纸单了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天時間不夠了，沒辦法製作貼紙單。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "ORDER_NONE_LEFT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You have packed all your orders for today!<br>Let's go back and bring them to the post office!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast alle Bestellungen für heute verpackt!<br>Lass uns zurückgehen und sie zur Post bringen!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu as préparé toutes tes commandes pour aujourd'hui !<br>Retourne au bureau de poste pour les envoyer !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Has empaquetado todos tus pedidos de hoy!<br>¡Vamos a llevarlos a la oficina de correos!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você empacotou todas as encomendas para hoje!<br>Vamos voltar e levá-las para a agência dos correios!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今日の注文は全部パッキングできたよ！<br>戻って、郵便局に持っていこう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "오늘 주문이 들어온 물품을 모두 포장했습니다!<br>돌아가서 우체국으로 가져가요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你已经打包好了今天的所有订单！<br>我们回去将它们送到邮局去吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "今天的訂單都包裝好了！<br>我們去把包裹都拿到郵局吧！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SAVEGAME_VERSION_MISMATCH",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "This save seems to be from an older version. It might be incompatible with the current version of the game. Do you really want to load this game?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dieser Spielstand scheint von einer älteren Version zu stammen. Er könnte mit der aktuellen Version des Spiels inkompatibel sein. Willst du dieses Spiel wirklich laden?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cette sauvegarde vient d'une ancienne version. Il se peut qu'elle soit incompatible avec la version actuelle du jeu. Veux-tu vraiment charger cette partie ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Esta partida guardada parece pertenecer a una versión anterior. Es posible que no sea compatible con la versión actual del juego. ¿Seguro que quieres cargar esta partida?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Este arquivo salvo parece ser de uma versão mais antiga. Ele pode ser incompatível com a versão atual do jogo. Você realmente deseja carregar este jogo?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "このセーブ情報は、古いバージョンのものです。現在のゲームバージョンと互換性がない可能性があります。本当にこのゲームをロードしてもよろしいですか？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "구 버전의 저장 데이터입니다. 현재 게임 버전과 호환되지 않을 수도 있습니다. 정말 이 게임을 불러오시겠어요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "该存档似乎源自于一个较老版本的游戏。它可能会与当前版本的游戏不兼容。确定要载入该游戏吗？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "這似乎是舊版本的存檔，可能與目前的遊戲版本不相容。確定要載入遊戲嗎？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "GO_BACK_TO_MENU",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to go back to the main menu?<br>All unsaved progress will be lost.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Willst du wirklich zurück zum Hauptmenü?<br>Alle nicht gespeicherten Fortschritte gehen verloren.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment retourner au menu principal ?<br>Toute progression non sauvegardée sera perdue.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres volver al menú principal?<br>Perderás todo el progreso no guardado.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo retornar ao menu principal?<br>Todo o progresso não salvo será perdido.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本当にメインメニューに戻りますか？<br>未セーブの進行状況はすべて失われます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정말 메인 메뉴로 돌아가시겠어요?<br>저장하지 않은 게임 진행 데이터는 사라집니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "确定要返回主菜单吗？<br>所有未保存的进度将丢失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "確定要返回主選單嗎？<br>所有未儲存的進度都會消失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "EXIT_GAME",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to exit the game?<br>All unsaved progress will be lost.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Willst du das Spiel wirklich beenden?<br>Alle ungespeicherten Fortschritte gehen verloren.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment quitter le jeu ?<br>Toute progression non sauvegardée sera perdue.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres salir del juego?<br>Perderás todo el progreso no guardado.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo sair do jogo?<br>Todo o progresso não salvo será perdido.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本当にゲームを終了しますか？<br>未セーブの進行状況はすべて失われます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정말 게임에서 나가시겠어요?<br>저장하지 않은 게임 진행 데이터는 사라집니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "确定要退出游戏吗？<br>所有未保存的进度将丢失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "確定要退出遊戲嗎？<br>所有未儲存的進度都會消失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "DELETE_SHEET",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to delete this sheet?<br>You will not get it back.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Willst du diesen Stickerbogen wirklich löschen?<br>Du wirst ihn nicht zurückbekommen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment supprimer cette feuille ?<br>Elle sera effacée de façon permanente.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres borrar esta hoja?<br>No podrás recuperarla.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo excluir esta cartela?<br>Você não vai recuperá-la.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本当にこのシートを削除しますか？<br>削除されたシートはもとに戻すことができません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정말 이 시트를 삭제하시겠어요?<br>삭제하면 되돌릴 수 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "确定要删除该贴纸单吗？<br>一旦删除将无法恢复。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "確定要刪除這張貼紙單嗎？<br>此舉將無法還原。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHEET_NOT_WORTH_ENOUGH",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to create this sheet?<br>The value of the stickers on this sheet is less than the cost of the sticker sheet.<br>You would lose <b>{SheetLossAmount} coins</b> per print.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Do you really want to create this sheet?<br>The value of the stickers on this sheet is less than the cost of the sticker sheet.<br>You would lose <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " coins</b> per print."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Willst du diesen Bogen wirklich erstellen?<br>Der Wert der Sticker auf diesem Bogen ist geringer als die Kosten.<br>Du würdest pro Druck <b>{SheetLossAmount} Münzen</b> verlieren.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Willst du diesen Bogen wirklich erstellen?<br>Der Wert der Sticker auf diesem Bogen ist geringer als die Kosten.<br>Du würdest pro Druck <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " Münzen</b> verlieren."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment créer cette feuille ?<br>La valeur des autocollants sur cette feuille est inférieure au coût de la feuille d'autocollants.<br>Tu perdrais <b>{SheetLossAmount} pièces</b> par impression.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Veux-tu vraiment créer cette feuille ?<br>La valeur des autocollants sur cette feuille est inférieure au coût de la feuille d'autocollants.<br>Tu perdrais <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " pièces</b> par impression."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres crear esta hoja?<br>El valor de las pegatinas de esta hoja es inferior al coste de esta hoja de pegatinas.<br>Perderías <b>{SheetLossAmount} monedas</b> por cada impresión.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "¿Seguro que quieres crear esta hoja?<br>El valor de las pegatinas de esta hoja es inferior al coste de esta hoja de pegatinas.<br>Perderías <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " monedas</b> por cada impresión."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo criar esta cartela?<br>O valor dos adesivos nesta cartela é menor que o custo da cartela de adesivos.<br>Você perderia <b>{SheetLossAmount} moedas</b> por impressão.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Deseja mesmo criar esta cartela?<br>O valor dos adesivos nesta cartela é menor que o custo da cartela de adesivos.<br>Você perderia <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " moedas</b> por impressão."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "このシートを本当に作成しますか？<br>このシートのステッカーの価値は、ステッカーシートの価格よりも低いです。<br>このため、印刷するたびに<b>{SheetLossAmount}コイン</b>損することになります。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "このシートを本当に作成しますか？<br>このシートのステッカーの価値は、ステッカーシートの価格よりも低いです。<br>このため、印刷するたびに<b>",
+                                "Key": "SheetLossAmount",
+                                "Next": "コイン</b>損することになります。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "정말 이 시트를 만드시겠어요?<br>이 시트에 배치되어 있는 스티커들의 가치가 스티커 시트 비용보다 적습니다.<br>인쇄할 때마다 <b>코인 {SheetLossAmount}개</b>를 손해 보게 됩니다.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "정말 이 시트를 만드시겠어요?<br>이 시트에 배치되어 있는 스티커들의 가치가 스티커 시트 비용보다 적습니다.<br>인쇄할 때마다 <b>코인 ",
+                                "Key": "SheetLossAmount",
+                                "Next": "개</b>를 손해 보게 됩니다."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "确定要创建该贴纸单吗？<br>上面贴纸的价值低于该贴纸单的成本。<br>每打印一张，你就会亏损<b>枚{SheetLossAmount}金币</b>。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "确定要创建该贴纸单吗？<br>上面贴纸的价值低于该贴纸单的成本。<br>每打印一张，你就会亏损<b>枚",
+                                "Key": "SheetLossAmount",
+                                "Next": "金币</b>。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "確定要建立這張貼紙單嗎？<br>上面的貼紙價值小於貼紙單的成本。<br>每次列印都將損失 <b>{SheetLossAmount} 枚硬幣</b>。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "確定要建立這張貼紙單嗎？<br>上面的貼紙價值小於貼紙單的成本。<br>每次列印都將損失 <b>",
+                                "Key": "SheetLossAmount",
+                                "Next": " 枚硬幣</b>。"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHOP_STICKER_DEACTIVATE_OR_ACTIVATE",
+          "Original": "",
+          "Description": "Do not translate {ShopActiveState} and {ShopStickerName}",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you want to set the sticker '{ShopStickerName}' to {ShopActiveState} ?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Do you want to set the sticker '",
+                                "Key": "ShopStickerName",
+                                "Next": "' to "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": " ?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Möchtest du den Sticker '{ShopStickerName}' auf {ShopActiveState} setzen?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Möchtest du den Sticker '",
+                                "Key": "ShopStickerName",
+                                "Next": "' auf "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": " setzen?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment faire passer l'autocollant « {ShopStickerName} » à l'état « {ShopActiveState} » ?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Veux-tu vraiment faire passer l'autocollant « ",
+                                "Key": "ShopStickerName",
+                                "Next": " » à l'état « "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": " » ?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "¿Quieres poner la pegatina «{ShopStickerName}» a {ShopActiveState}?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "¿Quieres poner la pegatina «",
+                                "Key": "ShopStickerName",
+                                "Next": "» a "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": "?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Você quer {ShopActiveState} o adesivo \"{ShopStickerName}\"?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Você quer ",
+                                "Key": "ShopActiveState",
+                                "Next": " o adesivo \""
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopStickerName",
+                                "Next": "\"?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "本当にステッカー「{ShopStickerName}」を{ShopActiveState}に変更しますか？",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "本当にステッカー「",
+                                "Key": "ShopStickerName",
+                                "Next": "」を"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": "に変更しますか？"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "{ShopStickerName}' 스티커를 {ShopActiveState} 상태로 변경하시겠어요?",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "",
+                                "Key": "ShopStickerName",
+                                "Next": "' 스티커를 "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": " 상태로 변경하시겠어요?"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "要{ShopActiveState}贴纸“{ShopStickerName}”吗？",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "要",
+                                "Key": "ShopActiveState",
+                                "Next": "贴纸“"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopStickerName",
+                                "Next": "”吗？"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "確定要將「{ShopStickerName}」貼紙改為{ShopActiveState}嗎？",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "確定要將「",
+                                "Key": "ShopStickerName",
+                                "Next": "」貼紙改為"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopActiveState",
+                                "Next": "嗎？"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHOP_DELETE_STICKER_LONG",
+          "Original": "",
+          "Description": "Do not translate <b>'{ShopStickerName}'</b>?<br> {ShopOrderCount} and {ShopMoneyCount}",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to delete the sticker <b>'{ShopStickerName}'</b>?<br>You would cancel {ShopOrderCount} orders and lose {ShopMoneyCount} coins of possible revenue.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Do you really want to delete the sticker <b>'",
+                                "Key": "ShopStickerName",
+                                "Next": "'</b>?<br>You would cancel "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": " orders and lose "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": " coins of possible revenue."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Willst du den Sticker wirklich löschen?<br>Du würdest {ShopOrderCount} Bestellungen stornieren und {ShopMoneyCount} Münzen an möglichem Gewinn verlieren.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Willst du den Sticker wirklich löschen?<br>Du würdest ",
+                                "Key": "ShopOrderCount",
+                                "Next": " Bestellungen stornieren und "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": " Münzen an möglichem Gewinn verlieren."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment supprimer l'autocollant <b>« {ShopStickerName} »</b> ?<br>{ShopOrderCount} commandes seraient annulées et tu perdrais {ShopMoneyCount} pièces.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Veux-tu vraiment supprimer l'autocollant <b>« ",
+                                "Key": "ShopStickerName",
+                                "Next": " »</b> ?<br>"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": " commandes seraient annulées et tu perdrais "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": " pièces."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres borrar la pegatina <b>«{ShopStickerName}»</b>?<br>Se cancelarán pedidos ({ShopOrderCount}) y perderás monedas ({ShopMoneyCount}) de posibles ingresos.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "¿Seguro que quieres borrar la pegatina <b>«",
+                                "Key": "ShopStickerName",
+                                "Next": "»</b>?<br>Se cancelarán pedidos ("
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": ") y perderás monedas ("
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": ") de posibles ingresos."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo excluir o adesivo <b>\"{ShopStickerName}\"</b>?<br>Você cancelaria {ShopOrderCount} encomendas e perderia {ShopMoneyCount} moedas de receita em potencial.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Deseja mesmo excluir o adesivo <b>\"",
+                                "Key": "ShopStickerName",
+                                "Next": "\"</b>?<br>Você cancelaria "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": " encomendas e perderia "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": " moedas de receita em potencial."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "本当にステッカー<b>「{ShopStickerName}」を削除しますか</b>？<br>注文{ShopOrderCount}個がキャンセルされ、{ShopMoneyCount}コインの見込利益を損することになります。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "本当にステッカー<b>「",
+                                "Key": "ShopStickerName",
+                                "Next": "」を削除しますか</b>？<br>注文"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": "個がキャンセルされ、"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": "コインの見込利益を損することになります。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "정말 <b>'{ShopStickerName}'</b> 스티커를 삭제하시겠어요?<br>삭제하면 주문 {ShopOrderCount}건이 취소되고 그에 따른 코인 {ShopMoneyCount}개의 매출을 올릴 수 없습니다.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "정말 <b>'",
+                                "Key": "ShopStickerName",
+                                "Next": "'</b> 스티커를 삭제하시겠어요?<br>삭제하면 주문 "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": "건이 취소되고 그에 따른 코인 "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": "개의 매출을 올릴 수 없습니다."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "确定要删除贴纸<b>“{ShopStickerName}”</b>吗？<br>你将取消{ShopOrderCount}份订单，并且可能会损失{ShopMoneyCount}枚金币的营业额。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "确定要删除贴纸<b>“",
+                                "Key": "ShopStickerName",
+                                "Next": "”</b>吗？<br>你将取消"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": "份订单，并且可能会损失"
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": "枚金币的营业额。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "確定要刪除<b>「{ShopStickerName}」</b>貼紙嗎？<br>此舉將取消 {ShopOrderCount} 筆訂單，損失 {ShopMoneyCount} 枚硬幣的潛在收入。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "確定要刪除<b>「",
+                                "Key": "ShopStickerName",
+                                "Next": "」</b>貼紙嗎？<br>此舉將取消 "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopOrderCount",
+                                "Next": " 筆訂單，損失 "
+                              },
+                              {
+                                "Prev": "",
+                                "Key": "ShopMoneyCount",
+                                "Next": " 枚硬幣的潛在收入。"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SHOP_DELETE_STICKER_SHORT",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to delete the sticker '{ShopStickerName}'? You will not be able to use that sticker again.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Do you really want to delete the sticker '",
+                                "Key": "ShopStickerName",
+                                "Next": "'? You will not be able to use that sticker again."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Willst du den Sticker '{ShopStickerName}' wirklich löschen? Du kannst diesen Sticker dann nicht mehr verwenden.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Willst du den Sticker '",
+                                "Key": "ShopStickerName",
+                                "Next": "' wirklich löschen? Du kannst diesen Sticker dann nicht mehr verwenden."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment supprimer l'autocollant « {ShopStickerName} » ? Tu ne pourras plus utiliser cet autocollant.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Veux-tu vraiment supprimer l'autocollant « ",
+                                "Key": "ShopStickerName",
+                                "Next": " » ? Tu ne pourras plus utiliser cet autocollant."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres borrar la pegatina «{ShopStickerName}»? No podrás volver a usar esta pegatina.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "¿Seguro que quieres borrar la pegatina «",
+                                "Key": "ShopStickerName",
+                                "Next": "»? No podrás volver a usar esta pegatina."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo excluir o adesivo \"{ShopStickerName}\"? Você não poderá usar esse adesivo novamente.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "Deseja mesmo excluir o adesivo \"",
+                                "Key": "ShopStickerName",
+                                "Next": "\"? Você não poderá usar esse adesivo novamente."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "本当にステッカー「{ShopStickerName}」を削除しますか？削除されたステッカーは2度と使用することはできません。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "本当にステッカー「",
+                                "Key": "ShopStickerName",
+                                "Next": "」を削除しますか？削除されたステッカーは2度と使用することはできません。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "정말 '{ShopStickerName}' 스티커를 삭제하시겠어요?삭제하면 그 스티커를 다시 사용할 수 없습니다.",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "정말 '",
+                                "Key": "ShopStickerName",
+                                "Next": "' 스티커를 삭제하시겠어요?삭제하면 그 스티커를 다시 사용할 수 없습니다."
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "确定要删除贴纸“{ShopStickerName}”吗？你将无法再使用该贴纸。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "确定要删除贴纸“",
+                                "Key": "ShopStickerName",
+                                "Next": "”吗？你将无法再使用该贴纸。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "Value": "確定要刪除「{ShopStickerName}」貼紙嗎？你將無法再次使用此款貼紙。",
+                          "Matches": {
+                            "Array": [
+                              {
+                                "Prev": "確定要刪除「",
+                                "Key": "ShopStickerName",
+                                "Next": "」貼紙嗎？你將無法再次使用此款貼紙。"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "CONTENT_NOTE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Content Note",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Content Note",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Note sur le contenu",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Aviso de contenido",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Nota sobre o conteúdo",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "注意事項",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "콘텐츠 메모",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "内容注意",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "內容說明",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "CONTENT_NOTE_INFO",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Some stories in this game touch on themes of mental illness, burnout and grief. These topics may be difficult for some players. Please take care of yourself.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Manche Geschichten in diesem Spiel berühren Themen wie psychische Erkrankungen, Burnout und Trauer. Diese Themen können für manche Spielenden schwierig sein. Bitte pass auf dich auf.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Certaines des histoires racontées dans ce jeu abordent des sujets pouvant être difficiles pour certaines personnes, comme les troubles mentaux, le burn out et le deuil. Prends soin de toi.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Algunas de las historias de este juego tocan temas de salud mental, hartazgo y angustia. Estos temas pueden ser delicados para algunos jugadores. Por favor, cuídate.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Algumas das histórias deste jogo abordam temas de doença mental, esgotamento e luto. Esses problemas podem ser difíceis para alguns jogadores. Por favor, cuide-se.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "当ゲームには、精神病・過労・深い悲しみなどに関連する内容が含まれています。これらのトピックに抵抗があるプレイヤーの方は、慎重に考慮してからゲームをプレイされるようにお願いいたします。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "이 게임의 스토리에는 정신질환과 번아웃, 사별에 관한 내용이 나옵니다. 이는 일부 플레이어가 감당하기 힘든 주제일 수 있습니다. 스스로의 마음을 잘 살피시기 바랍니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "该游戏的部分剧情会触及精神疾病、过度劳累和悲伤等主题。部分玩家可能会难以接受这些话题。请谨慎选择体验。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本遊戲中的一些故事會觸及精神疾病、倦怠與悲傷的主題，可能令某些玩家感到不適。請妥善照顧好自己。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STICKERS_PERSONAL_USE_MESSAGE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Stickers are for personal use only.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Die Sticker sind nur für den persönlichen Gebrauch bestimmt.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Les autocollants sont réservés à un usage personnel.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Las pegatinas son exclusivamente para uso personal.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Os adesivos são apenas para uso pessoal.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーは個人的な目的にのみ使用できます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커는 개인 용도로만 사용 가능합니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴纸仅供个人使用。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "貼紙僅供個人使用。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "OVERWRITE_CONFIRMATION",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Do you really want to start a new game?<br><br>All existing progress will be lost.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Möchtest du wirklich ein neues Spiel starten?<br><br>Dein bisheriger Fortschritt geht dabei verloren.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Veux-tu vraiment commencer une nouvelle partie ?<br><br>Toute progression existante sera perdue.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Seguro que quieres empezar una nueva partida?<br><br>Perderás todo el progreso existente.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Deseja mesmo iniciar um novo jogo?<br><br>Todo o progresso existente será perdido.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "本当に新しいゲームを開始しますか？<br><br>これまでの進行状況はすべて失われます。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "정말 새로운 게임을 시작하시겠어요?<br><br>현재 게임 진행 데이터가 사라집니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "确定要开始新游戏吗？<br><br>当前所有进度将丢失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "確定要開始新遊戲嗎？<br><br>所有現存的進度都會消失。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "DELETE_STICKER_LIMIT_REACHED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You have reached the maximum number of sticker deletions for the day.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast die maximale Anzahl an Löschungen für Sticker an diesem Tag erreicht.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu as atteint la limite quotidienne de suppressions d'autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Has alcanzado el máximo diario de pegatinas borradas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você apagou o máximo de adesivos por hoje.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーの削除数が1日の上限に達しました。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "하루에 삭제할 수 있는 최대 스티커 수에 도달했어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你已达到当日删除贴纸数的上限。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你已達到本日刪除貼紙的數量上限。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "DELETE_SHEET_LIMIT_REACHED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You have reached the maximum number of sticker sheet deletions for the day.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Du hast die maximale Anzahl an Löschungen für Stickerbögen an diesem Tag erreicht.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu as atteint la limite quotidienne de suppressions de feuilles d'autocollants.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Has alcanzado el máximo diario de hojas de pegatinas borradas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você apagou o máximo de cartelas de adesivos por hoje.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーシートの削除数が1日の上限に達しました。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "하루에 삭제할 수 있는 최대 스티커 시트 수에 도달했어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你已达到当日删除贴纸单数的上限。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你已達到本日刪除貼紙單的數量上限。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "CONTROLLER_DISCONNECTED_HEADER",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Controller Disconnected",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Controller getrennt",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Manette déconnectée",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mando desconectado",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Controle desconectado",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "コントローラー​の接続が解除されました",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "컨트롤러 연결 해제됨",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "控制器未连接",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "控制器已中斷連線",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "CONTROLLER_DISCONNECTED_MESSAGE",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Please reconnect the controller",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Bitte verbinde den Controller erneut",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Reconnecte la manette",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Vuelve a conectar el mando",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Reconecte o controle",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "コントローラー​を再度接続してください",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "컨트롤러를 다시 연결하세요",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "请重新连接控制器",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "請將控制器重新連線",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "SAVE_SLOTS_LIMIT_REACHED",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "You have reached the limit on saved games. Please delete an existing save before starting a new game.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Das Limit vorhandener Spielstände ist erreicht. Bitte lösche einen bestehenden Spielstand, bevor du ein neues Spiel beginnst.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Tu as atteint la limite de sauvegardes. Supprime une sauvegarde existante pour commencer une nouvelle partie.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Has alcanzado el límite de partidas guardadas. Elimina alguna de las partidas guardadas para iniciar una partida nueva.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Você atingiu o limite de jogos salvos. Apague um deles para poder iniciar um novo jogo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "セーブデータ数の上限に達しました。新しくゲームを始める前に、既存のセーブデータを削除してください。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "게임 저장 한도에 도달했습니다. 새로운 게임을 시작하기 전에 기존 저장을 하나 제거해 주세요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "游戏存档已达上限。请在删除现有存档后再开始新游戏。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "你的遊戲存檔已達上限。在開始新遊戲前，請先刪除現有存檔。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MISSING_DLC_MESSAGE_XS",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The downloadable content you are trying to play could not be found.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Inhalte zum Herunterladen, den du zu spielen versuchst, konnte nicht gefunden werden.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Le contenu téléchargeable que vous essayez de lire n'a pas pu être trouvé.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No se ha podido encontrar el contenido descargable que estás intentando reproducir.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Não foi possível encontrar o conteúdo para baixar download que você está tentando reproduzir.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "再生しようとしているダウンロードコンテンツが見つかりません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "재생하려는 다운로드 가능한 콘텐츠를 찾을 수 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "无法找到您要播放的可下载内容。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "無法找到您要播放的可下載內容。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "MISSING_DLC_MESSAGE_PS5",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The Add-On you are trying to play could not be found.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Dass Add-on, das du zu spielen versuchst, konnte nicht gefunden werden.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Extension que vous essayez de lire n'a pas pu être trouvé.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "No se ha podido encontrar el complemento que intenta reproducir.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Não foi possível encontrar o expansão que você está tentando reproduzir.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "再生しようとしている<br>追加コンテンツ見つかりません。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "재생하려는 추가 콘텐츠을 찾을 수 없습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "无法找到您要播放的<br>追加内容。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "無法找到您要播放的<br>追加內容。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

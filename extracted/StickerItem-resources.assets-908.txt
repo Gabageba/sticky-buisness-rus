@@ -1,0 +1,391 @@
+outline_black_Title: Чёрный
+outline_blue_Title: Голубой
+outline_green_Title: Светло-зелёный
+outline_rose_Title: Светло-розовый
+outline_white_Title: Белый
+outline_yellow_Title: Светло-жёлтый
+shop_sticker_amount_00_Title: {ShopSlots} слотов в магазине
+shop_sticker_amount_01_Title: 5 слотов в магазине
+shop_sticker_amount_02_Title: 10 слотов в магазине
+shop_sticker_amount_03_Title: 15 слотов в магазине
+shop_sticker_amount_04_Title: 20 слотов в магазине
+shop_sticker_amount_05_Title: 25 слотов в магазине
+shop_sticker_amount_06_Title: 30 слотов в магазине
+shop_sticker_amount_07_Title: 40 слотов в магазине
+shop_sticker_amount_08_Title: 50 слотов в магазине
+st_alien_head_Title: Инопланетянин
+st_apple_Title: Яблоко
+st_arrow_Title: Стрелка
+st_avocado_Title: Авокадо
+st_background_round_lines_orange_Title: Круглый оранжевый фон
+st_background_round_lines_purple_Title: Круглый фиолетовый фон
+st_background_round_space_Title: Круглый космический фон
+st_background_square_lines_orange_Title: Квадратный оранжевый фон
+st_background_square_lines_purple_Title: Квадратный фиолетовый фон
+st_background_square_space_Title: Квадратный космический фон
+st_banana_Title: Банан
+st_bear_Title: Медведь
+st_bird_Title: Птичка
+st_bone_Title: Кость
+st_bones_Title: Кости
+st_book_closed_Title: Закрытая книга розовая
+st_book_closed_blue_Title: Закрытая книга синяя
+st_book_closed_brown_Title: Закрытая книга коричневая
+st_book_open_Title: Книга
+st_broom_Title: Метла
+st_bubbletea_berry_Title: Ягодный бабл-ти
+st_bubbletea_earlgray_Title: Бабл-ти «Эрл Грей»
+st_bubbletea_minty_Title: Мятный бабл-ти
+st_butterfly_Title: Бабочка
+st_cactus_Title: Кактус
+st_carrot_Title: Морковь
+st_cat_02_Title: Спящий кот
+st_cat_03_Title: Белый кот
+st_cat_Title: Кот-клякса
+st_cauldron_Title: Котёл
+st_cereal_Title: Хлопья
+st_cheese_Title: Сыр
+st_circle_01_Title: Большой круг
+st_circle_02_Title: Маленький круг
+st_clothes_Bow_Title: Бабочка
+st_clothes_suit_Title: Костюм
+st_clothes_sweater_01_Title: Уютный свитер
+st_clothes_sweater_02_Title: Металлический свитер
+st_cloud_01_Title: Большое облако
+st_cloud_02_Title: Маленькое облако
+st_coffee_Title: Кофе
+st_color_black_Title: Чёрный
+st_color_brownie_Title: Коричневый
+st_color_innerSalmon_Title: Лососёвый
+st_color_limeGreen_Title: Лайм
+st_color_middleGreen_Title: Изумрудный
+st_color_mustardyellow_Title: Горчичный
+st_color_pinky_Title: Розовый
+st_color_purple_Title: Фиолетовый
+st_color_reddarkgreen_Title: Тёмно-зелёный
+st_color_turkois_Title: Бирюзовый
+st_color_vanillaIce_Title: Ванильное мороженое
+st_color_white_Title: Белый
+st_color_winterblues_Title: Зимняя синева
+st_controller_Title: Геймпад
+st_crown_Title: Корона
+st_crystal_01_Title: Красный кристалл
+st_crystal_02_Title: Синий кристалл
+st_crystal_03_Title: Зелёный кристалл
+st_cthulu_Title: Ктулху
+st_cute_frog_Title: Милая лягушка
+st_cute_koala_Title: Милая коала
+st_cute_lion_Title: Милый лев
+st_cute_marshmellow_Title: Милая зефирка
+st_cute_mushroom_Title: Милый гриб
+st_d20_Title: Игральная кость D20
+st_dinosaur_01_Title: Тираннозавр
+st_dinosaur_02_Title: Брахиозавр
+st_dinosaur_03_Title: Трицератопс
+st_dinosaur_04_Title: Стегозавр
+st_dinosaur_05_Title: Птерозавр
+st_doughnut_Title: Пончик
+st_dragon_Title: Дракон
+st_drop_01_Title: Капля
+st_drum_Title: Барабан
+st_duck_Title: Утка
+st_face_cocky_Title: Дерзкое лицо
+st_face_cute_Title: Милое лицо
+st_face_happy_01_Title: Счастливое лицо
+st_face_happy_02_Title: Восторженное лицо
+st_face_scared_Title: Испуганное лицо
+st_face_surprised_Title: Удивлённое лицо
+st_falg_BI_Title: Бисексуальность
+st_feather_Title: Перо
+st_ferret_Title: Хорёк
+st_fish_Title: Рыба
+st_flag_asexual_Title: Асексуальность
+st_flag_nonbinary_Title: Небинарность
+st_flag_pansexual_Title: Пансексуальность
+st_flag_trans_Title: Трансгендерность
+st_flask_02_Title: Круглая колба
+st_flask_02_filling_green_Title: Зелёное круглое зелье
+st_flask_02_filling_orange_Title: Оранжевое круглое зелье
+st_flask_02_filling_purple_Title: Фиолетовое круглое зелье
+st_flask_02_filling_white_Title: Белое круглое зелье
+st_flask_Title: Колба
+st_flask_filling_green_Title: Зелёное зелье
+st_flask_filling_orange_Title: Оранжевое зелье
+st_flask_filling_purple_Title: Фиолетовое зелье
+st_flask_filling_white_Title: Белое зелье
+st_flower_01_Title: Цветок
+st_flower_02_Title: Синий цветок
+st_flower_03_Title: Розовый цветок
+st_flower_04_Title: Красный цветок
+st_flower_05_Title: Жёлтый цветок
+st_font_cute_Title: Милый
+st_font_todo_Title: Сделать
+st_font_vegan_Title: Веган
+st_font_you_Title: Ты
+st_formula1_Title: Красный гоночный автомобиль
+st_fox_face_Title: Мордочка лисы
+st_frog_face_Title: Мордочка лягушки
+st_gameboy_Title: Портативная консоль
+st_goblin_Title: Гоблин
+st_goose_Title: Гусь
+st_guitar_Title: Гитара
+st_heart_01_Title: Сердце
+st_heart_02_Title: Маленькое сердце
+st_hotdog_Title: Хот-дог
+st_icecream_01_Title: Большой шарик мороженого
+st_icecream_02_Title: Маленький шарик мороженого
+st_icecream_03_Title: Мороженое завиток
+st_icecream_04_Title: Фруктовый лёд
+st_icecream_cone_01_Title: Рожок мороженого
+st_icecream_cone_02_Title: Стаканчик мороженого
+st_joystick_Title: Джойстик
+st_ketchup_Title: Кетчуп
+st_kiwi_bird_Title: Киви
+st_lavendar_Title: Лаванда
+st_mars_Title: Марс
+st_mayo_Title: Майонез
+st_minus_Title: Минус
+st_moon_Title: Луна
+st_mushroom_01_Title: Мухомор
+st_musicalnote_01_Title: Ноты
+st_musicalnote_02_Title: Нота
+st_mustache_01_Title: Усы
+st_mustache_02_Title: Большие усы
+st_mustard_Title: Горчица
+st_panda_Title: Панда
+st_paw_01_Title: Большая лапа
+st_paw_02_Title: Маленькая лапа
+st_pie_Title: Пирог
+st_pinetree_Title: Сосна
+st_pizza_Title: Пицца
+st_plant_01_Title: Трава
+st_plant_03_Title: Тоже листовое растение
+st_plant_04_Title: Круглолистное растение
+st_plant_Title: Листовое растение
+st_plant_pot_Title: Горшок
+st_plus_Title: Плюс
+st_potato_Title: Картофель
+st_prezel_Title: Крендель
+st_pride_flag_01_Title: Прайд
+st_rabbit_Title: Кролик
+st_rainbow_Title: Радуга
+st_rat_Title: Крыса
+st_ray_Title: Молния
+st_rectangle_01_Title: Полоска
+st_red_panda_Title: Малая панда
+st_robot_Title: Робот
+st_rocket_Title: Ракета
+st_rooster_Title: Петух
+st_shiba_face_Title: Мордочка сиба-ину
+st_skull_01_Title: Большой череп
+st_skull_02_Title: Маленький череп
+st_sloth_face_Title: Мордочка ленивца
+st_smiley_Title: Смайлик
+st_sparkle_01_Title: Большая искорка
+st_sparkle_02_Title: Маленькая искорка
+st_speechbubble_Title: Облачко реплики
+st_sprinkles_01_Title: Посыпка
+st_square_01_Title: Квадрат
+st_stamp_outline_Title: Штамп
+st_star_01_Title: Большая звезда
+st_star_02_Title: Маленькая звезда
+st_sun_01_Title: Солнце
+st_sword_Title: Меч
+st_tape_Title: Лента
+st_tea_Title: Чай
+st_tentacle_green_Title: Зелёный щупалец
+st_tentacle_purple_Title: Фиолетовый щупалец
+st_thinkingbubble_Title: Облачко мысли
+st_toast_Title: Тост
+st_toast_cheese_Title: Тост с сыром
+st_toast_jelly_Title: Тост с джемом
+st_triangle_02_Title: Треугольник
+st_trumpet_Title: Труба
+st_turnip_Title: Репа
+st_turtle_Title: Черепаха
+st_ufo_Title: НЛО
+st_umbrella_Title: Зонт
+st_unicorn_Title: Единорог
+st_waffle_Title: Вафля
+st_wale_Title: Кит
+st_watermelon_Title: Арбуз
+st_wing_Title: Крыло
+st_witch_hat_Title: Ведьминая шляпа
+st_worm_Title: Червяк
+st_xylophone_Title: Ксилофон
+at_coffee_togo_Title: Кофе с собой
+st_TV_bg_colorful_Title: Цветной экран телевизора
+st_TV_bg_white_Title: Белый экран телевизора
+st_aquarius_Title: Водолей
+st_aries_Title: Овен
+st_bat_Title: Летучая мышь
+st_bowl_curry_Title: Карри
+st_bowl_fruitycereal_Title: Фруктовые хлопья
+st_bowl_green_Title: Зелёная миска
+st_bowl_pink_Title: Розовая миска
+st_bowl_purple_Title: Фиолетовая миска
+st_bowl_ramen_Title: Рамен
+st_bowl_stew_Title: Рагу
+st_bowl_yellow_Title: Жёлтая миска
+st_cancer_Title: Рак
+st_capibari_Title: Капибара
+st_capricorn_Title: Козерог
+st_coffee_pot_Title: Кофейник
+st_crystal_04_Title: Кристалл
+st_dolphin_Title: Дельфин
+st_font_breathe_Title: Дыши
+st_font_calm_Title: Спокойствие
+st_font_cool_Title: Круто
+st_font_cozy_Title: Уют
+st_font_crunchy_Title: Хрустящий
+st_font_games_Title: Игры
+st_font_love_Title: Любовь
+st_font_me_Title: Я
+st_font_meow_Title: Мяу
+st_font_metal_Title: Метал
+st_font_peace_Title: Мир
+st_font_relax_Title: Расслабься
+st_font_us_Title: Мы
+st_font_wholesome_Title: Добрый
+st_formula1_02_Title: Синий гоночный автомобиль
+st_formula1_03_Title: Оранжевый гоночный автомобиль
+st_gemini_Title: Близнецы
+st_leo_Title: Лев
+st_libra_Title: Весы
+st_mushroom_02_Title: Большой мухомор
+st_mushroom_03_Title: Гриб
+st_mushroom_04_Title: Лисичка
+st_pinetree_2_Title: Сосна минималистичная
+st_pisces_Title: Рыбы
+st_planet_01_Title: Земля
+st_planet_02_Title: Планета
+st_planet_03_Title: Сатурн
+st_planet_04_Title: Плутон
+st_plant_pot_01_Title: Жёлтый горшок
+st_plant_pot_02_Title: Глиняный горшок
+st_plant_pot_03_Title: Красный горшок
+st_plant_pot_04_Title: Бирюзовый горшок
+st_pride_flag_Title: Прайд
+st_pride_flag_abrosexual_Title: Абросексуальность
+st_pride_flag_adhd_pride_Title: Прайд СДВГ
+st_pride_flag_agender_Title: Агендерность
+st_pride_flag_aroace_Title: Аро-ас
+st_pride_flag_aromantic_Title: Аромантичность
+st_pride_flag_asexual_Title: Асексуальность
+st_pride_flag_autism_pride_Title: Прайд аутизма
+st_pride_flag_bi_Title: Бисексуальность
+st_pride_flag_demiboy_Title: Демибой
+st_pride_flag_demigirl_Title: Демидевушка
+st_pride_flag_demisexual_Title: Демисексуальность
+st_pride_flag_disabled_pride_Title: Прайд людей с инвалидностью
+st_pride_flag_gay_Title: Гей
+st_pride_flag_genderfluid_Title: Гендерфлюидность
+st_pride_flag_intersex_Title: Интерсексуальность
+st_pride_flag_lesbian_Title: Лесбийство
+st_pride_flag_lgbtqai_poc_Title: ЛГБТКИА+ и цветные люди
+st_pride_flag_neopronoun_Title: Неопронаун
+st_pride_flag_nonbinary_Title: Небинарность
+st_pride_flag_omni_Title: Омнисексуальность
+st_pride_flag_pansexual_Title: Пансексуальность
+st_pride_flag_polyamorous_Title: Полиамория
+st_pride_flag_sapphic_Title: Сапфический
+st_pride_flag_trans_Title: Трансгендерность
+st_racoon_Title: Енот
+st_sagitaurus_Title: Стрелец
+st_scorpio_Title: Скорпион
+st_sheep_Title: Овца
+st_sloth_Title: Ленивец
+st_sunglasses_Title: Солнечные очки
+st_sushi_01_Title: Маки
+st_sushi_02_Title: Рисовый маки
+st_sushi_03_Title: Нигири с тунцом
+st_sushi_04_Title: Нигири с лососем
+st_tarot_cup_Title: Таро Кубок
+st_tarot_pentacle_Title: Таро Пентакль
+st_tarot_staff_Title: Таро Посох
+st_taurus_Title: Телец
+st_tophat_Title: Цилиндр
+st_virgo_Title: Дева
+st_wholesome_sparkle_Title: Искорка
+st_wholesome_ufo_Title: НЛО
+st_guerilla_collective_Title: Guerilla Collective
+st_TV_Title: Телевизор
+outline_purple_blue_Title: Сине-фиолетовый
+outline_bright_green_Title: Ярко-зелёный
+outline_bright_yellow_Title: Ярко-жёлтый
+packing_sweets_lolipop_Title: Леденец
+packing_sweets_dango_Title: Данго
+packing_sweets_nom_berry_Title: Ном вата сахарная ягодная
+packing_sweets_nom_lemon_Title: Ном лимон
+packing_sweets_nom_smurf_Title: Ном черника
+packing_sweets_nom_sourapple_Title: Ном кислое яблоко
+packing_sweets_konpeito_Title: Конпейто
+outline_purple_Title: Фиолетовый
+filling_BlueFilling_Title: Синяя гофрированная бумага
+filling_BrownFilling_Title: Коричневая гофрированная бумага
+filling_GreenFilling_Title: Зелёная гофрированная бумага
+filling_NoFilling_Title: Без наполнителя
+filling_PartyBrownFilling_Title: Коричневая конфетти гофрированная бумага
+filling_PartyPeanutFilling_Title: Конфетти наполнитель арахисовый
+filling_PartyPurpleFilling_Title: Фиолетовая конфетти гофрированная бумага
+filling_PartyWhiteFilling_Title: Белая конфетти гофрированная бумага
+filling_PeanutFilling_Title: Белый наполнитель арахисовый
+filling_PinkFilling_Title: Розовая гофрированная бумага
+filling_PurpleFilling_Title: Фиолетовая гофрированная бумага
+filling_RedFilling_Title: Красная гофрированная бумага
+filling_WhiteFilling_Title: Белая гофрированная бумага
+filling_YellowFilling_Title: Жёлтая гофрированная бумага
+filling_BluePaper_Title: Синяя бумага
+filling_ConfettiPaper_Title: Бумага конфетти
+filling_DefaultPaper_Title: Обычная бумага
+filling_FlowerPaper_Title: Цветочная бумага
+filling_FruityPaper_Title: Фруктовая бумага
+filling_GreenPaper_Title: Зелёная бумага
+filling_NoPaper_Title: Без бумаги
+filling_PinkPaper_Title: Розовая бумага
+filling_PurplePaper_Title: Фиолетовая бумага
+filling_RainbowPaper_Title: Радужная бумага
+filling_YellowPaper_Title: Жёлтая бумага
+st_axolotl_face_Title: Мордочка аксолотля
+st_dog_face_Title: Мордочка собаки
+st_cat_face_Title: Мордочка кота
+st_font_thanks_Title: Спасибо
+st_font_thank_Title: Благодарность
+st_font_for_Title: За
+st_font_handmade_Title: Ручная работа
+sticker_type_white_Title: Белая бумага
+sticker_type_cardboard_Title: Картон
+sticker_type_heart_glitter1_Title: Мерцающие сердечки
+sticker_type_heart_glitter2_Title: Голографическая любовь
+sticker_type_glitter_stars_Title: Лучистые искорки
+sticker_type_sparkle_glitter1_Title: Блестящее мерцание
+sticker_type_konfetti1_Title: Конфетти
+sticker_type_konfetti2_Title: Блёстки осколки
+sticker_type_konfetti3_Title: Диско-сетка
+st_sim_fest_Title: Sim Fest
+st_alpaca_Title: Альпака
+st_welsh_corgi_Title: Вельш-корги
+st_penguin_Title: Пингвин
+st_rubber_boots_Title: Жёлтые резиновые сапоги
+st_circle_small_Title: Точка
+st_color_basil_Title: Базилик
+st_color_teal_Title: Бирюзово-зелёный
+st_color_seafoam_Title: Морская пена
+st_color_ballet_slipper_Title: Балетная туфелька
+st_color_rosewood_Title: Палисандр
+st_color_candy_Title: Конфетный
+st_color_cantaloupe_Title: Канталупа
+st_color_rust_Title: Ржавчина
+st_color_carrot_Title: Морковный
+st_color_indigo_Title: Индиго
+st_color_cobalt_Title: Кобальт
+st_color_arctic_Title: Арктический
+st_color_bubblegum_Title: Жвачка
+st_color_eggplant_Title: Баклажан
+st_color_sunshine_Title: Солнечный
+st_color_banana_Title: Банановый
+st_color_maroon_Title: Тёмно-бордовый
+st_color_smoke_Title: Дымчатый
+st_color_silver_Title: Серебристый
+st_color_cherry_Title: Вишнёвый
+sticker_type_spoopy_Title: Мило-жуткий блеск

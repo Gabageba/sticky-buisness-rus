@@ -1,0 +1,1798 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "PlanWithMeOther",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "Story_PWM_01_TravelBlogger_Hint",
+        "Story_PWM_04_ExamsMom_Hint",
+        "Story_PWM_06_PenpalTim_Hint",
+        "Story_PWM_08_Artist_Hint",
+        "Story_PWM_09_MemoryTraining_Hint",
+        "STORY_PWM_01_TRAVELBLOGGER_TITLE",
+        "STORY_PWM_01_TRAVELBLOGGER",
+        "STORY_PWM_03_RECOVERY_TITLE",
+        "STORY_PWM_03_RECOVERY",
+        "STORY_PWM_04_EXAMMOM_TITLE",
+        "STORY_PWM_04_EXAMMOM",
+        "STORY_PWM_07_PENPALSANJAY_TITLE",
+        "STORY_PWM_07_PENPALSANJAY",
+        "STORY_PWM_08_ARTIST_TITLE",
+        "STORY_PWM_08_ARTIST",
+        "STORY_PWM_09_MEMORYTTRAINING_TITLE",
+        "STORY_PWM_09_MEMORYTTRAINING",
+        "STORY_PWM_10_DOC_TITLE",
+        "STORY_PWM_10_DOC"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "Story_PWM_01_TravelBlogger_Hint",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Стикер про путешествия был бы просто огонь!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ein Sticker, der das Reisen repräsentiert, wäre großartig!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un autocollant symbolisant le voyage serait trop cool !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Una pegatina que represente viajar estaría genial!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Um adesivo com tema de viagens seria demais!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "旅を象徴するステッカーがあれば最高！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "여행을 표현하는 스티커가 있으면 좋겠어요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "能来些代表旅行的贴纸就太好了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "要是能有旅遊主題的貼紙就太讚了！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_PWM_04_ExamsMom_Hint",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Нужна разноцветная васи-лента для дочки.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ich brauche etwas buntes Washi-Tape für meine Tochter.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Il me faut du ruban washi coloré pour ma fille.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Necesito una washi tape colorida para mi hija.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Queria fitas washi bem coloridas para a minha filha.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "娘のためにカラフルな和紙テープが欲しいの。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "딸에게 줄 화려한 와시 테이프가 필요해요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我需要给我女儿准备些彩色的和纸胶带。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我需要買一些五彩繽紛的紙膠帶送給女兒。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_PWM_06_PenpalTim_Hint",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Скинь крутые стикеры с чек-листами, а то так и заброшу переписку с другом.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Brauche DOPE Checklisten-Sticker für meinen Brieffreund.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Je voudrais des autocollants AWESOME pour faire une liste pour mon best friend.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Hazme unas pegatinas de lista de tareas para que no se me olvide escribirle a mi amigo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Queria uns adesivos DA HORA de verificação pra não dar um gelo no meu amigo com quem troco cartas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "文通友達から絶対に返事をもらうために、ヤバいチェックリストのステッカーをちょうだい。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "펜팔을 무시하지 않도록 쩌는 체크리스트 스티커가 필요해요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "给我来些炫酷的备忘清单贴纸，这样我就不会和笔友突然中断联系了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "給我一些超屌的核對清單貼紙，讓我不會跟筆友搞失蹤。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_PWM_08_Artist_Hint",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Акварельные стикеры могут пробить творческий блок.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Aquarell-Sticker könnten vielleicht meine Art-Blockade lösen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Des autocollants à l'aquarelle m'aideraient peut-être à retrouver l'inspiration.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Quizá unas bonitas pegatinas de acuarelas me ayuden a superar mi bloqueo artístico.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Uns adesivos de aquarela poderiam curar meu bloqueio criativo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "水彩画のステッカーがあれば、スランプから脱出できるかも。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "수채화 스티커라면 제 아티스트 슬럼프를 치료할 수 있을 것 같아요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "一些水彩贴纸或许能重新激发我枯竭的创作灵感。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "一些水彩貼紙也許可以治癒我的創作瓶頸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_PWM_09_MemoryTraining_Hint",
+          "Original": "",
+          "Description": "",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Стикеры для трекера погоды помогут ничего не забывать.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ein Wetter-Tracker könnte beim Erinnern helfen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Des autocollants permettant de noter la météo pourraient aider ma mère.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "A lo mejor unas pegatinas para llevar un registro del clima me ayudan a recordar las cosas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Adesivos de registro do clima podem ajudar a lembrar das coisas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "お天気記録用のステッカーは、物事を覚えておくのに役立つかも。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "날씨를 기록하는 스티커라면 기억하는 데 도움이 될 거예요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "记录天气的贴纸或许有助于我记住一些事情。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "用來追蹤天氣的貼紙也許能幫助記憶。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_01_TRAVELBLOGGER_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Горы стойкости",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Berge der Widerstandsfähigkeit",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Une montagne de résilience",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Montañas de la resiliencia",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Picos de resistência",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "復活の山脈",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "회복의 산맥",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "毅力之山",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "堅忍不拔的山脈",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_01_TRAVELBLOGGER",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Мечты превратились в реальность.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Träume in die Realität umgesetzt.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tes autocollants ont rendu possible l'impossible.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Ayudaste a hacer realidad un sueño.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: transformando sonhos em realidade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：夢を現実に変える。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 꿈을 현실로 바꾸었습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：将梦想变为现实。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：將夢想化為現實。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_03_RECOVERY_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Держись!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Kleb dran!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Collectionneur un jour, collectionneur toujours !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pegatina a pegatina",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Grudado no passado!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "こつこつやろう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커처럼 끈질기게!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "“贴”近往日",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "堅持下去！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_03_RECOVERY",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Вернули ностальгию по прошлому, полному стикеров.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Die Nostalgie einer von Stickern gefüllten Vergangenheit wiederbelebt.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as ravivé la flamme de la collectionnite.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Reviviste la nostalgia de un pasado lleno de pegatinas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: você reviveu a nostalgia de um passado cheio de adesivos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：ステッカーでいっぱいだった過去のノスタルジアがよみがえった。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 스티커로 가득한 과거의 추억을 되살렸습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：唤起对满是贴纸的往日的怀念。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：喚起那令人懷念的往日貼紙點滴。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_04_EXAMMOM_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Пахнет духом стикеров",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Riecht nach Sticker Spirit",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Rébellion, exams et autocollants",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Desapego adolescente",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colando na prova",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "スメルズ・ライク・ステッカー・スピリット",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스멜스 라이크 스티커 스피릿",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "很有贴纸精神",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "貼紙與青春的氣息",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_04_EXAMMOM",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Прошли через непростой мир подростковых переживаний и экзаменов.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Das unwegige Gelände von Teenager-Angst und Prüfungen navigiert.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tes autocollants ont aidé une ado à communiquer avec sa mère et à réussir ses examens.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Superaste las complicaciones de la adolescencia y los exámenes.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: você encarou os desafios da angústia adolescente e dos exames finais.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：十代の不安と受験という難局を乗り切った。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 10대의 불안과 시험이라는 어려운 길을 헤쳐나갔습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：引领青少年克服焦虑和考试的挑战。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：面對充滿挑戰的青春期焦慮與考試。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_07_PENPALSANJAY_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Вам почта!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Sie haben Post",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Presse le pas facteur, l'amitié n'attend pas !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Te ha llegado una carta",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mensagem para você",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ユー・ガット・メール",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "편지 왔어요",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "“笔”翼双飞",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "書信串起的友情",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_07_PENPALSANJAY",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Преодолели континенты, языковые барьеры и вехи дружбы.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Kontinente, Sprachbarrieren und Freundschaftsmeilensteine überwunden.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tes créations ont voyagé, dépassé la barrière de la langue et renforcé une amitié.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Superaste continentes y barreras idiomáticas en nombre de la amistad.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: você cruzou continentes, idiomas e grandes momentos de amizade.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：大陸を越え、言葉の壁を越え、友情のマイルストーンを越えた。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 대륙과 언어장벽, 그리고 우정의 이정표를 뛰어넘었습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：跨越大洲、语言障碍还有友谊的里程碑。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：穿越地理限制與語言障礙的友情里程碑。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_08_ARTIST_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Стикерами и заботой",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mit Stickern und Sorgfalt",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Collés avec soin",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pegatinas y paciencia",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colado com carinho",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーと真心を込めて",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커와 마음을 그리다",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴纸护理",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "送上貼紙與呵護",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_08_ARTIST",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Даже маленький творческий жест может изменить полотно жизни.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Selbst ein kleiner Stups kann die Leinwand des Lebens verwandeln.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as rendu l'inspiration à une ancienne artiste.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Hasta un pequeño acto de amabilidad artística puede transformar el lienzo de la vida.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: mesmo um pequeno gesto de bondade e arte pode transformar o quadro de uma vida.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：ちょっとした芸術的な親切でさえ、人生のキャンバスを変えることができる。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 작은 친절도 삶의 캔버스를 바꾸어나갈 수 있습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：哪怕是一个小小的艺术善举也能改变整张生命画布。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：即使是一件小小的藝術善舉，也能大大改變生命的畫布。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_09_MEMORYTTRAINING_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Маленькие помощники стикеров",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Stickers kleine Helfer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Mieux que des Post-it",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Asistencia adhesiva",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ajudantes adesivados",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ステッカーのリトルヘルパー",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스티커의 작은 도우미",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "贴纸小帮手",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "貼紙小幫手",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_09_MEMORYTTRAINING",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Провели кого-то через лабиринт памяти.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Jemanden durch das Labyrinth der Erinnerungen geleitet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tu as aidé la mère d'une cliente à surmonter ses pertes de mémoire.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Guiaste a alguien por el laberinto de la memoria.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: você guiou alguém pelo labirinto da memória.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：記憶の迷路で誰かを導いた。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 누군가가 기억의 미로를 통과하도록 안내했습니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：指引某人穿过记忆的迷宫。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：引導人們穿越記憶的迷宮。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_10_DOC_TITLE",
+          "Original": "",
+          "Description": "Achievement Title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Что прилипло, док?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Was klebt, Doc?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un autocollant pour un sourire",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¿Me he portado bien, doctora?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Colar é o melhor remédio",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "何貼ってるの、先生？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "의사선생님, 오늘은 무슨 스티커인가요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "创可“贴”",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "醫生，怎麼了嗎？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_PWM_10_DOC",
+          "Original": "",
+          "Description": "Achievement",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "История пройдена: Твои творения — лучшее лекарство для улыбки.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Deine Kreationen sind das beste Rezept für Lächeln.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : tes créations ont rendu le sourire à des enfants malades.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Tus creaciones son la mejor medicina.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: suas criações são o que o médico recomendou para abrir sorrisos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：あなたの作品は、笑顔をもたらす一番の処方箋。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 스토리 완료: 당신의 스티커야말로 미소를 지어주는 처방약이랍니다.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：你的作品是能带来欢笑的最好良药。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：你的創作是逗人開心的最佳處方。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

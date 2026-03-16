@@ -1,0 +1,1426 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1193
+  },
+  "m_Name": "CampZinniasOther",
+  "keys": {
+    "Array": []
+  },
+  "entries": {
+    "Array": []
+  },
+  "debugdata": {
+    "Array": []
+  },
+  "Keys": {
+    "m_keys": {
+      "Array": [
+        "Story_CZ_05_CampfireStory_Hint",
+        "Story_CZ_07_Friend_Hint",
+        "Story_CZ_09_Sustainability_Hint",
+        "STORY_CZ_0105_STORYBOOK",
+        "STORY_CZ_0105_STORYBOOK_DESCRIPTION",
+        "STORY_CZ_0203_CRUSH",
+        "STORY_CZ_0203_CRUSH_DESCRIPTION",
+        "STORY_CZ_04_WINGMAN",
+        "STORY_CZ_04_WINGMAN_DESCRIPTION",
+        "STORY_CZ_060710_TALENTSHOW",
+        "STORY_CZ_060710_TALENTSHOW_DESCRIPTION",
+        "STORY_CZ_08_LEGACY",
+        "STORY_CZ_08_LEGACY_DESCRIPTION",
+        "STORY_CZ_09_SUSTAINABILITY",
+        "STORY_CZ_09_SUSTAINABILITY_DESCRIPTION"
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "Key": "Story_CZ_05_CampfireStory_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking story 5",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "A good campfire story needs some spooky vibes! ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Eine gute Lagerfeuergeschichte muss gruselig sein!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Toute bonne histoire au coin du feu requiert une ambiance un peu sinistre !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Necesitamos un ambiente terrorífico para una buena historia de hoguera!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Uma boa história ao redor da fogueira precisa de um toque de arrepio!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "キャンプファイヤーにぴったりのストーリーには、ホラー感が必須！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "좋은 캠프파이어 스토리에는 으스스한 분위기가 필요하죠!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "精彩的篝火故事就要搭配阴森的氛围！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "圍著營火說故事時，就是要有陰森的氣氛才更有趣！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_CZ_07_Friend_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking story 7",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "What's better at lifting moods than some cute animals?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Was hebt die Laune besser als niedliche Tiere?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Qu'y a-t-il de mieux que de jolis animaux pour égayer les esprits ?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡No hay nada mejor para animar a alguien que animalitos cuquis!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O que é melhor para levantar o astral do que animais fofinhos?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "カワイイ動物ほど、気分をアゲてくれるものはないよね！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "귀여운 동물보다 기운을 북돋아주는 게 있을까요?",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "还有什么比可爱的动物更能让心情好起来呢？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "還有什麼比可愛的動物更能讓人心情變好呢？",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "Story_CZ_09_Sustainability_Hint",
+          "Original": "",
+          "Description": "Hint for unlocking story 9",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "I'm looking for tree stickers to advocate sustainability!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ich suche Baumsticker, um für Nachhaltigkeit zu werben!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Je cherche des autocollants d'arbres pour promouvoir le développement durable !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "¡Quiero pegatinas de árboles para promover la sostenibilidad!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Estou procurando adesivos de árvores para promover a sustentabilidade!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "サステナビリティを支持するステッカーを探してるんだ！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "지속가능성을 응원하기 위해 나무 스티커카 필요해요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我需要树木贴纸来宣扬可持续发展！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "我想買樹木貼紙來提倡環保！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_0105_STORYBOOK",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "百日草度假营",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Camp Zinnias",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_0105_STORYBOOK_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: The summer camp is over. See you all next year!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Das Sommercamp ist vorbei. Wir sehen uns nächstes Jahr!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : c'est la fin de la colo. À l'année prochaine !",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: El campamento de verano ha terminado. ¡Nos vemos el año que viene!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: O acampamento de verão acabou. Vejo vocês no ano que vem!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：サマーキャンプが終了。また来年会おう！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 여름 캠프가 끝났어요. 모두 내년에 봐요!",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：百日草度假营结束啦。明年见！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：夏令營結束了。大家明年見！",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_0203_CRUSH",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The Crush",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Der Schwarm",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Crush estival",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "La crush",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "A Paixão",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "好きぴ",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "짝사랑",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "暗恋",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "暗戀",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_0203_CRUSH_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Hazel and Zelia had a great summer together.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Hazel und Zelia hatten zusammen einen tollen Sommer.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : Hazel et Zelia ont passé un super été ensemble.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Hazel y Zelia pasaron un verano maravilloso juntas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: Hazel e Zelia tiveram um verão incrível juntas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：ヘーゼルとゼリアは、一緒に楽しい夏を過ごせたみたい。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 헤이즐과 젤리아가 함께 최고의 여름을 보냈네요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：海柔尔和泽莉亚一起度过了愉快的夏天。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：黑茲爾和澤利亞一起度過了一個美好的夏天。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_04_WINGMAN",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The Wingman",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Der Unterstützer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Le compagnon de drague",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Cupido",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O Cupido",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "キューピット",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "윙맨",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "助攻",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "戀愛軍師",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_04_WINGMAN_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Jae-Won found a crush of his own while trying to set up his friend.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Jae-Won hat seinen eigenen Schwarm gefunden, als er seine Freundin verkuppelt hat.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : Jae-Won a eu son propre béguin en essayant de caser son ami.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Jae-Won terminó enamorándose también mientras ayudaba a su amiga.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: Jae-Won se apaixonou enquanto tentava ajudar uma amiga.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：友達の恋のおぜん立てをする過程で、ジェウォンは自分自身の好きぴに出会っちゃったみたい。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 친구를 도와주려던 재원도 자신의 사랑을 찾게 됐어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：王杰在帮助朋友追求爱情的过程中找到了自己的心上人。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：為朋友牽線時，載沅自己也和其他人看對眼了。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_060710_TALENTSHOW",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "The Talent Show",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Die Talentshow",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Le concours de talents",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "El concurso de talentos",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "O Show de Talentos",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "タレントショー",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "탤런트 쇼",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "才艺表演",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "才藝發表會",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_060710_TALENTSHOW_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Everyone had a chance to show off their talents at camp.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Alle im Camp konnten ihre Talente zur Schau stellen.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : chacun a pu exhiber ses talents à la colo.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Todes tuvieron oportunidad de mostrar sus talentos en el campamento.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: Todos puderam mostrar seus talentos no acampamento.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：キャンプでは、誰もが自分の才能を披露する機会を得たよ。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 모두 캠프에서 자신을 뽐낼 기회를 가졌군요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：大家都在夏令营中展示了自己的才艺。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：每個人都有機會在夏令營中大秀才藝。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_08_LEGACY",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "A Summer To Remember",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Ein unvergesslicher Sommer",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un été inoubliable",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Un verano inolvidable",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Um Verão para Recordar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "忘れられない夏",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "기억에 남을 여름",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "难忘的夏天",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "難忘的夏天",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_08_LEGACY_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: The Camp Zinnias sign is now covered in commemorative stickers.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Das Camp-Zinnias-Schild ist nun mit Gedenkstickern beklebt.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : le panneau du Camp Zinnias est maintenant recouvert d'autocollants commémoratifs.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: La señal de Camp Zinnias ahora está cubierta de pegatinas conmemorativas.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: A placa de Camp Zinnias agora está coberta de adesivos comemorativos.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：記念ステッカーで飾られた、Camp Zinniasの看板。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: Camp Zinnias 표지판이 이제 기념 스티커로 가득해 졌어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：百日草度假营的标志上贴满了纪念贴纸。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：Camp Zinnias 的標誌現在貼滿了貼紙作為紀念。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_09_SUSTAINABILITY",
+          "Original": "",
+          "Description": "Achievement title",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Sun-Popped Corn",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Sonnengepoppter Mais",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pop-corn solaire",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Palomitas solares",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Pipoca Solar",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "太陽光発電ポップコーン",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "태양열 팝콘",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "太阳能爆米花",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "太陽能爆米花",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "Key": "STORY_CZ_09_SUSTAINABILITY_DESCRIPTION",
+          "Original": "",
+          "Description": "Achievement description",
+          "Used": 0,
+          "Variants": {
+            "m_keys": {
+              "Array": [
+                "Default"
+              ]
+            },
+            "m_values": {
+              "Array": [
+                {
+                  "Lang": {
+                    "m_keys": {
+                      "Array": [
+                        10,
+                        15,
+                        14,
+                        34,
+                        28,
+                        22,
+                        23,
+                        40,
+                        41
+                      ]
+                    },
+                    "m_values": {
+                      "Array": [
+                        {
+                          "Value": "Story complete: Diego and Jae-Won bonded over building a solar-powered popcorn machine.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Geschichte abgeschlossen: Diego und Jae-Won haben sich beim Bau einer solarbetriebenen Popcornmaschine angefreundet.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Histoire terminée : Diego et Jae-Won se sont rapprochés en fabriquant une machine à pop-corn fonctionnant à l'énergie solaire.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "Historia completada: Diego y Jae-Won disfrutaron de tiempo juntos construyendo una máquina de palomitas solar.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "História concluída: Diego e Jae-Won se aproximaram ao construir uma máquina de pipoca movida a energia solar.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "ストーリーをクリア：ソーラー電力ポップコーンマシーンで深まった、ディエゴとジェウォンの絆。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "스토리 완료: 디에고와 재원이 태양열 팝콘 기계를 만들면서 친해졌어요.",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：迪亚戈和王杰在一起制造太阳能爆米花机的过程中建立了深厚情谊。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        },
+                        {
+                          "Value": "故事完成：迪亞哥和載沅在打造太陽能爆米花機的過程中感情升溫。",
+                          "Matches": {
+                            "Array": []
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
